@@ -1,0 +1,66 @@
+Een korte geschiedenis van tekst en de computer
+
+1. De centrale rol van tekst in de ontwikkeling van de computer
+
+De eerste programmeerbare digitale computer werd in de jaren 40 gebouwd. De verwerking van tekst is
+een nog recentere praktijk, daterend uit de jaren zestig. Het was pas in de jaren negentig dat de
+computer begon ook een serieus alternatief te bieden voor de verspreiding van teksten. Maar in minder
+dan een halve eeuw hebben computers zichzelf in de structuur van de samenleving geïnsinueerd om
+zodanig dat het zonder hen niet zou kunnen functioneren. Dit hoofdstuk onderzoekt hoe de
+computer is in zo'n korte tijd zo'n overheersende rol gaan spelen, specifiek in
+de tekstwereld.
+Enkele belangrijke mijlpalen in de ontwikkeling van wat sindsdien de digitale is geworden
+tekstueel medium kan worden geïdentificeerd.
+In de negentiende eeuw werd de rekenmachine voor één doel voor het eerst ontworpen om
+het potentieel hebben om te worden omgezet in een universele machine, in staat om taken uit te voeren die:
+kan worden uitgedrukt door middel van een algoritme. In de jaren 40 waren de eerste Universal Machines:
+gebouwd. In de jaren zestig werd de computer als universele machine in staat gesteld om tekst te verwerken,
+waardoor het een rol kreeg in de tekstcreatiefase. In de jaren tachtig de grafische mens-machine
+interface van de computer heeft de mogelijkheden voor de typografische
+weergave van tekst. Het stelde de computer in staat een centrale rol te spelen bij de productie van
+drukwerk. De grafische interface maakte ook de weg vrij voor het naast elkaar bestaan ​​van twee
+verschillende manieren om tekst digitaal te behandelen: de logische en de typografische.
+• In de negentiende eeuw werd voor het eerst de rekenmachine voor één doel bedacht
+om het potentieel te hebben om te worden omgezet in een universele machine, in staat om taken uit te voeren
+dat kan worden uitgedrukt door middel van een algoritme.
+• In de jaren 40 werden de eerste Universal Machines gebouwd.
+• In de jaren zestig werd de computer als Universele Machine in staat gesteld om tekst te verwerken, wat:
+gaf het een rol in de tekstcreatiefase.
+• In de jaren '80 is de grafische mens-machine-interface van de computer sterk verbeterd
+de mogelijkheden voor de typografische weergave van tekst. Het stelde de computer in staat om te spelen
+een centrale rol in de productie van drukwerk. De grafische interface maakte ook de
+manier voor het naast elkaar bestaan ​​van twee verschillende manieren om tekst digitaal te behandelen: de logische en de
+typografisch.
+• In de jaren '90 werd de computer opgenomen in een netwerk, waardoor zijn rol als a
+communicatiemiddel van een hulpmiddel voor de productie van analoog drukwerk tot
+een nieuw, volledig digitaal medium op zich, ook bestaande uit distributie en
+consumptie.
+In zijn ‘communicatiecircuit’1 heeft Robert Darnton de hele
+overdrachtsproces van boeken en andere gedrukte tekstvormen zoals het al meerdere malen heeft gefunctioneerd
+eeuwen. Dit model visualiseert een proces waarin verschillende opeenvolgende actoren werken
+1 Zie Robert Darnton, ‘What is the History of Books’, Daedalus, zomer 1982, blz. 65-83.
+2
+samen onder verschillende culturele, economische en politieke omstandigheden om een
+auteurstekst zodat deze de lezers kan bereiken. Het communicatiecircuit over de leggen
+transmissieproces van digitale tekst dit model zal de overeenkomsten en verschillen identificeren
+(of continuïteiten en discontinuïteiten) tussen het nieuwe digitale medium en zijn voorganger
+het afdrukmedium.
+Het proces van het openbaar maken en verspreiden van teksten omvat verschillende
+onderscheiden stadia. Deze komen grofweg overeen met die welke in de mededelingen zijn geïdentificeerd
+circuit: de creatie van de tekst (schrijven), gevolgd door de productie (vermenigvuldiging),
+distributie (het moment dat de tekst openbaar wordt gemaakt), en tenslotte consumptie (lezen).
+Om echter de verschillende stadia in de ontwikkeling van de rol van de computer in
+de overdracht van tekst nader, zou ik een kleine aanpassing aan deze keten willen voorstellen
+van stadia. Ik wil graag een vergrootglas over de eerste schakel in de ketting plaatsen, de
+‘creatiefase’, dat is de fase waarin de inhoud en vorm van de tekst niet
+afgerond zijn. Naast het schrijven van de tekst door de auteur omvat deze fase ook zijn
+redactie, of dit nu wordt gedaan door de auteur of door iemand die namens hem of haar optreedt (voor
+bijvoorbeeld de uitgever van de uitgever). Technisch gezien betekent dit een onderscheid maken tussen (a)
+tekstinvoer, (b) tekstopname, en (c) de manipulatie van de tekst nadat deze is ingevoerd.
+Het herkennen van deze vloeibaarheid in de creatiefase, bestaande uit schrijven en redigeren in om het even welke
+aantal iteraties, maakt het gemakkelijker om de ontwikkeling van de rol van de computer in de
+schrijfproces. In die ontwikkeling zijn grofweg drie fasen te onderscheiden. deze deels
+overlapt, maar ze zijn fundamenteel verschillend genoeg om ze afzonderlijk te behandelen. De
+stadia zijn (1) de weergave van tekst op de computer (invoer, opname, opslag), (2) de
+manipulatie van opgeslagen tekst voor wetenschappelijke en professionele toepassingen, en (3) de feitelijke
+tekstverwerking op de pc, als hulpmiddel bij het autoritair denken en schrijven p
