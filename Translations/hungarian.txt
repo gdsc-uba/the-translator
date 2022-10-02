@@ -1,0 +1,66 @@
+A szöveg és a számítógép rövid története
+
+1. A szöveg központi szerepe a számítógép fejlődésében
+
+Az első programozható digitális számítógépet az 1940-es években építették. A szöveg feldolgozása az
+egy még újabb gyakorlat, amely az 1960-as évekből származik. Csak az 1990-es években alakult ki a
+a számítógép is komoly alternatívát kezdett kínálni a szövegek terjesztésére. Mégis kevesebben
+mint fél évszázada a számítógépek beleivódtak a társadalom szerkezetébe, hogy
+olyan mértékben, hogy nélkülük nem működhetne. Ez a fejezet azt vizsgálja, hogyan a
+A számítógép ilyen rövid idő alatt olyan domináns szerepet kapott, különösen
+a szövegvilág.
+Néhány fontos mérföldkő az azóta digitálissá vált fejlesztésben
+szöveges médium azonosítható.
+A tizenkilencedik században tervezték először az egycélú számológépet
+megvan a lehetőség arra, hogy univerzális géppé váljanak, amely képes olyan feladatok elvégzésére
+algoritmussal fejezhető ki. Az 1940-es években az első univerzális gépek voltak
+épült. Az 1960-as években a számítógép mint univerzális gép lehetővé tette a szöveg feldolgozását,
+amely szerepet kapott a szövegalkotási szakaszban. Az 1980-as években a grafikus ember-gép
+A számítógép interfésze nagyban megnövelte a tipográfiai lehetőségeket
+szöveg megjelenítése. Lehetővé tette, hogy a számítógép központi szerepet játsszon a gyártásban
+nyomtatványok. A grafikus felület egyben utat nyitott kettő együttélésének is
+A szöveg digitális kezelésének különböző módjai: a logikai és a tipográfiai.
+• A tizenkilencedik században fogant először az egycélú számológép
+hogy lehetőségünk legyen egy Univerzális Géppé alakítani, amely képes feladatokat ellátni
+amelyeket egy algoritmussal lehet kifejezni.
+• Az 1940-es években megépültek az első univerzális gépek.
+• Az 1960-as években a számítógépet mint univerzális gépet lehetővé tették szöveg feldolgozására, ami
+szerepet kapott a szövegalkotási szakaszban.
+• Az 1980-as években a számítógép grafikus ember-gép interfésze nagymértékben fejlődött
+a szöveg tipográfiai megjelenítésének lehetőségei. Lehetővé tette a számítógép lejátszását
+központi szerepet tölt be a nyomtatott anyagok gyártásában. A grafikus felület is kikövezte a
+a szöveg digitális kezelésének két különböző módja: a logikai és a
+tipográfiai.
+• Az 1990-es években a számítógép hálózatba került, ami kibővítette szerepét a
+kommunikációs eszköz az analóg nyomtatványok előállítását segítő eszköztől
+egy új, teljesen digitális médium, amely magában foglalja a terjesztést és a
+fogyasztás.
+Robert Darnton „kommunikációs áramkörében”1 megfogalmazta az egészet
+könyvek és más nyomtatott szöveges formák átviteli folyamata, ahogyan ez többen működött
+századokban. Ez a modell egy folyamatot vizualizál, amelyben különböző, egymást követő szereplők dolgoznak
+1 Lásd Robert Darnton, „What is the History of Books”, Daedalus, 1982. nyár, 65–83.
+2
+együtt, változó kulturális, gazdasági és politikai feltételek mellett egy
+a szerző szövegét, hogy az eljusson olvasóihoz. A kommunikációs áramkör lefektetése a
+A digitális szöveg átviteli folyamata ez a modell azonosítja a hasonlóságokat és különbségeket
+(vagy folytonossági és diszkontinuitások) az új digitális médium és elődje között
+a nyomtatási médium.
+A szövegek nyilvánosságra hozatalának és terjesztésének folyamata többféle
+különálló szakaszok. Ezek nagyjából megfelelnek a közleményekben azonosítottaknak
+áramkör: a szöveg létrehozása (írás), majd előállítása (szorzása),
+terjesztés (a szöveg nyilvánosságra kerülésének pillanatában), végül a fogyasztás (olvasás).
+Azonban, hogy megvizsgáljuk a számítógép szerepének fejlődésének különböző szakaszait
+A szöveg átadása közelebbről, egy kis adaptációt szeretnék javasolni ehhez a lánchoz
+szakaszok. Szeretnék egy nagyítót helyezni a lánc első láncszemére, a
+„alkotási szakasz”, amely az a szakasz, amelyben a szöveg tartalma és formája nincs
+véglegesítették. A szöveg szerzői megírása mellett ez a szakasz magában foglalja a szöveget is
+szerkesztés, akár a szerző, akár a nevében eljáró valaki (a
+például a kiadó szerkesztője). Technikailag ez azt jelenti, hogy különbséget kell tenni (a)
+szövegbevitel, (b) szövegrögzítés, és (c) a szöveg bevitele utáni manipulálása.
+Felismerve ezt a gördülékenységet az alkotás szakaszában, beleértve az írást és a szerkesztést is
+iterációk száma, könnyebben nyomon követhető a számítógép szerepének alakulása a
+írási folyamat. Ennek a fejlődésnek nagyjából három szakasza ismerhető fel. Ezeket részben
+átfedésben vannak, de alapvetően eléggé különböznek ahhoz, hogy külön kezeljük őket. Az
+szakaszai (1) a szöveg megjelenítése a számítógépen (bevitel, rögzítés, tárolás), (2) a
+a tárolt szöveg manipulálása tudományos és szakmai alkalmazásokhoz, és (3) a tényleges
+szövegszerkesztés számítógépen, segédeszközként a szerzői gondolkodásban és írásban old
