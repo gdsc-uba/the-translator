@@ -11,3 +11,4 @@
 - [CHINESE](./Translations/chinese.txt)
 - [SANSKRIT](./Translations/sanskrit.txt)
 - [ARABIC](./Translations/arabic.txt)
+- [WELSH](./Translations/welsh.txt)

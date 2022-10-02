@@ -1,0 +1,66 @@
+Hanes Byr o'r Testun a'r Cyfrifiadur
+
+1. Rôl ganolog testun yn natblygiad y cyfrifiadur
+
+Adeiladwyd y cyfrifiadur digidol rhaglenadwy cyntaf yn y 1940au. Mae prosesu testun yn
+arfer hyd yn oed yn fwy diweddar, yn dyddio o'r 1960au. Dim ond yn y 1990au y daeth y
+dechreuodd cyfrifiadur hefyd gynnig dewis arall difrifol ar gyfer dosbarthu testunau. Eto mewn llai
+na hanner canrif o gyfrifiaduron wedi insinuated eu hunain i mewn i wead cymdeithas i
+i'r fath raddau fel na allai weithredu hebddynt. Mae'r bennod hon yn archwilio sut y mae'r
+cyfrifiadur wedi dod i chwarae rhan mor flaenllaw yn benodol mewn amser mor fyr
+y byd testunol.
+Rhai cerrig milltir mawr yn natblygiad yr hyn sydd wedi dod yn ddigidol ers hynny
+gellir adnabod cyfrwng testunol.
+Yn y bedwaredd ganrif ar bymtheg y ddyfeisiwyd y peiriant cyfrifo un-bwrpas am y tro cyntaf
+â'r potensial i gael ei droi'n Beiriant Cyffredinol, sy'n gallu cyflawni tasgau sy'n
+gellir ei fynegi ar ffurf algorithm. Yn y 1940au roedd y Peiriannau Cyffredinol cyntaf
+adeiledig. Yn y 1960au galluogwyd y cyfrifiadur fel Peiriant Cyffredinol i brosesu testun,
+a roddodd rôl iddo yn y cyfnod creu testun. Yn yr 1980au y dyn-peiriant graffigol
+rhyngwyneb y cyfrifiadur yn gwella'n fawr y posibiliadau ar gyfer y teipograffeg
+rendro testun. Roedd yn galluogi'r cyfrifiadur i chwarae rhan ganolog wrth gynhyrchu
+mater printiedig. Roedd y rhyngwyneb graffig hefyd yn paratoi'r ffordd ar gyfer cydfodolaeth dau
+gwahanol ffyrdd o drin testun yn ddigidol: y rhesymegol a'r teipograffyddol.
+• Yn y bedwaredd ganrif ar bymtheg y lluniwyd y peiriant cyfrifo un-bwrpas am y tro cyntaf
+i fod â'r potensial i gael ei droi'n Beiriant Cyffredinol, sy'n gallu cyflawni tasgau
+gellir mynegi hynny ar ffurf algorithm.
+• Yn y 1940au adeiladwyd y Peiriannau Cyffredinol cyntaf.
+• Yn y 1960au galluogwyd y cyfrifiadur fel Peiriant Cyffredinol i brosesu testun, sy'n
+rhoddodd rôl iddo yn y cyfnod creu testun.
+• Yn y 1980au gwellodd rhyngwyneb graffigol dyn-peiriant y cyfrifiadur yn fawr
+y posibiliadau ar gyfer rendrad teipograffyddol testun. Roedd yn galluogi'r cyfrifiadur i chwarae
+rôl ganolog wrth gynhyrchu deunydd printiedig. Roedd y rhyngwyneb graffeg hefyd yn palmantu'r
+ffordd ar gyfer cydfodolaeth dwy ffordd wahanol o drin testun yn ddigidol: y rhesymegol a'r
+argraffyddol.
+• Yn y 1990au cynhwyswyd y cyfrifiadur mewn rhwydwaith, a ehangodd ei rôl fel a
+offeryn cyfathrebu o'r hyn o gymorth ar gyfer cynhyrchu deunydd printiedig analog i
+cyfrwng newydd, cwbl ddigidol yn ei rinwedd ei hun, sydd hefyd yn cynnwys dosbarthu a
+treuliant.
+Yn ei ‘gylchdaith gyfathrebu’1 mae Robert Darnton wedi cysyniadoli’r cyfan
+proses drosglwyddo llyfrau a ffurfiau testun printiedig eraill fel y mae wedi gweithredu i sawl un
+canrifoedd. Mae'r model hwn yn delweddu proses y mae actorion amrywiol olynol yn gweithio ynddi
+1 Gweler Robert Darnton, ‘Beth yw Hanes Llyfrau’, Daedalus, Haf 1982, tt. 65-83.
+2
+ynghyd o dan amodau diwylliannol, economaidd, a gwleidyddol amrywiol i ledaenu a
+testun yr awdur fel y gall gyrraedd ei ddarllenwyr. Gosod y gylched cyfathrebu dros y
+proses trosglwyddo testun digidol bydd y model hwn yn nodi'r tebygrwydd a'r gwahaniaethau
+(neu barhad a diffyg parhad) rhwng y cyfrwng digidol newydd a'i ragflaenydd
+y cyfrwng print.
+Mae'r broses o wneud testunau'n gyhoeddus a'u lledaenu yn cynnwys amrywiol
+cyfnodau gwahanol. Mae'r rhain yn cyfateb yn fras i'r rhai a nodwyd yn y cyfathrebiadau
+cylched: creu'r testun (ysgrifennu), ac yna ei gynhyrchu (lluosi),
+dosbarthu (yr eiliad y mae'r testun yn cael ei wneud yn gyhoeddus), ac yn olaf defnydd (darllen).
+Fodd bynnag, i archwilio'r gwahanol gamau yn natblygiad rôl y cyfrifiadur yn
+trosglwyddo testun yn agosach, hoffwn gynnig un addasiad bach i'r gadwyn hon
+o gamau. Hoffwn osod chwyddwydr dros y ddolen gyntaf yn y gadwyn, y
+‘cam creu’, sef y cyfnod pan nad yw cynnwys a ffurf y testun wedi gwneud hynny
+wedi'i gwblhau. Heblaw am ysgrifennu'r testun gan yr awdur mae'r cyfnod hwn hefyd yn cynnwys ei
+golygu, p’un a yw hyn yn cael ei wneud gan yr awdur neu gan rywun sy’n gweithredu ar ei ran (ar gyfer
+er enghraifft golygydd y cyhoeddwr). Yn dechnegol, mae hyn yn golygu gwahaniaethu rhwng (a)
+mewnbynnu testun, (b) recordio testun, a (c) trin y testun ar ôl iddo gael ei fewnbynnu.
+Cydnabod yr hylifedd hwn yn y cam creu, gan gynnwys ysgrifennu a golygu mewn unrhyw
+nifer o iteriadau, yn ei gwneud yn haws olrhain datblygiad rôl y cyfrifiadur yn y
+broses ysgrifennu. Gellir cydnabod tua thri cham yn y datblygiad hwnnw. Y rhain yn rhannol
+gorgyffwrdd, ond maent yn sylfaenol ddigon gwahanol i'w trin ar wahân. Mae'r
+camau yw (1) cynrychioli testun ar y cyfrifiadur (mynediad, cofnodi, storio), (2) y
+trin testun wedi'i storio ar gyfer cymwysiadau gwyddonol a phroffesiynol, a (3) y gwir
+prosesu geiriau ar y pc, fel cymorth yn y meddwl ac ysgrifennu awdurol t
