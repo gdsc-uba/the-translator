@@ -9,7 +9,7 @@ Welcome to [Hacktoberfest 2022](https://hacktoberfest.com). If you're here then 
 ### RULES
 - Before everything check if you're registered for on the [HACKTOBERFEST WEBSITE](https://hacktoberfest.com/auth)
 - DO NOT EDIT OTHER FILES THAN THE ONES YOU WERE ASKED TO, for any extra pull request, submit an <a href="https://github.com/Developer-Student-Clubs-UBa/the-translator/issues/new"><button>ISSUE</button></a>.
-- Respect and stick to the [CODE OF CONDUCT](./CODE_OR_CONDUCT.md).
+- Respect and stick to the [CODE OF CONDUCT](./CODE_OF_CONDUCT.md).
 - If you're well with all this, then CHILL 🍻
 
 ### What is hacktoberfest? 🤔
