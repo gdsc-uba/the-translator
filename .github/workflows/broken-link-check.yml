@@ -1,0 +1,23 @@
+on:
+  schedule:
+    - cron: 0 0 1 * *
+  repository_dispatch:
+    types: [check-link]
+  pull_request:
+    types: [opened, reopened]
+  push:
+    branches:
+      - 'main'
+      - 'master'
+      - '*'
+  issues:
+    types: [opened, edited, milestoned]
+
+name: Broken Link Check
+jobs:
+  check:
+    name: Broken Link Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Broken Link Check
+        uses: technote-space/broken-link-checker-action@v2
