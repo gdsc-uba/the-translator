@@ -19,5 +19,7 @@ jobs:
     steps:
       - name: Broken Link Check
         uses: technote-space/broken-link-checker-action@v2
+        with:
+          EXCLUDED_KEYWORDS: docs.github.com
         env: 
           GITHUB_TOKEN: ${{ github.token }}
