@@ -1,0 +1,26 @@
+on:
+  schedule:
+    - cron: '* * * 10 *'
+  repository_dispatch:
+    types: [check-link]
+  pull_request:
+    types: [opened, reopened]
+  push:
+    branches:
+      - 'main'
+      - 'master'
+      - '*'
+
+name: Broken Link Check
+jobs:
+  check:
+    name: Broken Link Check
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - name: Broken Link Check
+        uses: technote-space/broken-link-checker-action@v2
+        with:
+          EXCLUDED_KEYWORDS: docs.github.com
+        env: 
+          GITHUB_TOKEN: ${{ github.token }}
