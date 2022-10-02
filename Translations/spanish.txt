@@ -1,0 +1,66 @@
+Una breve historia del texto y la computadora
+
+1. El papel central del texto en el desarrollo de la computadora
+
+La primera computadora digital programable se construyó en la década de 1940. El procesamiento del texto es
+una práctica aún más reciente, que data de la década de 1960. Fue recién en la década de 1990 que la
+La computadora también comenzó a ofrecer una alternativa seria para la distribución de textos. Sin embargo, en menos
+Más de medio siglo las computadoras se han insinuado en la textura de la sociedad para
+hasta tal punto que no podría funcionar sin ellos. Este capítulo examina cómo el
+ordenador ha llegado a desempeñar en tan poco tiempo un papel tan predominante específicamente en
+el mundo textual.
+Algunos hitos importantes en el desarrollo de lo que desde entonces se ha convertido en el digital
+El medio textual puede ser identificado.
+En el siglo XIX, la máquina calculadora de un solo propósito, fue concebida por primera vez para
+tienen el potencial de convertirse en una Máquina Universal, capaz de realizar tareas que
+puede expresarse por medio de un algoritmo. En la década de 1940 se crearon las primeras máquinas universales.
+construido. En la década de 1960, la computadora como Máquina Universal fue habilitada para procesar texto,
+lo que le dio un papel en la fase de creación del texto. En la década de 1980, el hombre-máquina gráfico
+interfaz de la computadora mejoró en gran medida las posibilidades de la tipografía
+representación de texto. Permitió que la computadora jugara un papel central en la producción de
+impresos. La interfaz gráfica también allanó el camino para la coexistencia de dos
+diferentes formas de tratar el texto digitalmente: la lógica y la tipográfica.
+• En el siglo XIX se concibió por primera vez la máquina calculadora de propósito único
+tener el potencial de convertirse en una Máquina Universal, capaz de realizar tareas
+que puede expresarse por medio de un algoritmo.
+• En la década de 1940 se construyeron las primeras Máquinas Universales.
+• En la década de 1960 se habilitó la computadora como Máquina Universal para procesar texto, lo que
+le dio un papel en la fase de creación de texto.
+• En la década de 1980, la interfaz gráfica hombre-máquina de la computadora mejoró enormemente
+las posibilidades para la representación tipográfica del texto. Permitió que la computadora jugara
+un papel central en la producción de material impreso. La interfaz gráfica también allanó el
+camino para la coexistencia de dos formas diferentes de tratar el texto digitalmente: la lógica y la
+tipográfico.
+• En la década de 1990, la computadora se incluyó en una red, lo que amplió su papel como
+herramienta de comunicación desde el de una ayuda para la producción de impresos analógicos hasta
+un nuevo medio totalmente digital por derecho propio, que también comprende la distribución y
+consumo.
+En su "circuito de comunicaciones"1, Robert Darnton ha conceptualizado todo el
+proceso de transmisión de libros y otras formas de texto impreso como ha funcionado durante varios
+siglos. Este modelo visualiza un proceso en el que trabajan varios actores consecutivos
+1 Véase Robert Darnton, 'What is the History of Books', Daedalus, verano de 1982, págs. 65-83.
+2
+juntos bajo diferentes condiciones culturales, económicas y políticas para diseminar un
+el texto del autor para que pueda llegar a sus lectores. Tendido del circuito de comunicaciones sobre el
+proceso de transmisión de texto digital este modelo identificará las similitudes y diferencias
+(o continuidades y discontinuidades) entre el nuevo medio digital y su antecesor
+el medio impreso.
+El proceso de hacer públicos los textos y difundirlos comprende varios
+etapas distintas. Estos corresponden aproximadamente a los identificados en las comunicaciones.
+circuito: la creación del texto (escritura), seguida de su producción (multiplicación),
+distribución (el momento en que el texto se hace público), y finalmente consumo (lectura).
+Sin embargo, para inspeccionar las diferentes etapas en el desarrollo del papel de la computadora en
+la transferencia de texto más de cerca, me gustaría proponer una pequeña adaptación a esta cadena
+de etapas Me gustaría poner una lupa sobre el primer eslabón de la cadena, el
+‘etapa de creación’, que es la fase en la que el contenido y la forma del texto no han
+sido finalizado. Además de la redacción del texto por parte del autor, esta fase comprende también su
+edición, ya sea que la haga el autor o alguien que actúe en su nombre (por
+ejemplo, el editor de la editorial). Técnicamente, esto significa hacer una distinción entre (a)
+entrada de texto, (b) grabación de texto, y (c) la manipulación del texto una vez que ha sido ingresado.
+Reconociendo esta fluidez en la etapa de creación, que comprende la escritura y la edición en cualquier
+número de iteraciones, facilita el seguimiento del desarrollo del papel de la computadora en el
+proceso de escritura. Se pueden reconocer aproximadamente tres etapas en ese desarrollo. Estos en parte
+se superponen, pero son fundamentalmente lo suficientemente diferentes como para tratarlos por separado. los
+Las etapas son (1) la representación del texto en la computadora (ingreso, grabación, almacenamiento), (2) la
+manipulación de texto almacenado para aplicaciones científicas y profesionales, y (3) la
+procesamiento de textos en la pc, como una ayuda en el pensamiento autoral y la escritura p
