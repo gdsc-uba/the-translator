@@ -10,3 +10,4 @@
 - [ZULU](./Translations/zulu.txt)
 - [CHINESE](./Translations/chinese.txt)
 - [SANSKRIT](./Translations/sanskrit.txt)
+- [ARABIC](./Translations/arabic.txt)
