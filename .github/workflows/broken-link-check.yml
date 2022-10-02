@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: 0 0 1 * *
+    - cron: '* * * 10 *'
   repository_dispatch:
     types: [check-link]
   pull_request:
@@ -10,8 +10,6 @@ on:
       - 'main'
       - 'master'
       - '*'
-  issues:
-    types: [opened, edited, milestoned]
 
 name: Broken Link Check
 jobs:
