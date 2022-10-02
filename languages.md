@@ -2,7 +2,11 @@
 
 - [ENGLISH](./Translations/english.txt)
 - [FRENCH](./Translations/francais.txt)
-- [JAPANESE](./Translations/japanese.txt)
+- [JAPANESE](./Translations/Japanese.txt)
 - [SPANISH](./Translations/espagnol.txt)
 - [IGBO](./Translations/igbo.txt)
-- [Sanskrit](./Translations/sanskrit.txt)
+- [DEUTSCH](./Translations/dutch.txt)
+- [HUNGARIAN](./Translations/hungarian.txt)
+- [ZULU](./Translations/zulu.txt)
+- [CHINESE](./Translations/chinese.txt)
+- [SANSKRIT](./Translations/sanskrit.txt)
