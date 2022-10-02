@@ -1,0 +1,66 @@
+Une brève histoire du texte et de l'ordinateur
+
+1. Le rôle central du texte dans le développement de l'ordinateur
+
+Le premier ordinateur numérique programmable a été construit dans les années 1940. Le traitement du texte est
+une pratique encore plus récente, datant des années 1960. Ce n'est que dans les années 1990 que le
+l'ordinateur a également commencé à offrir une alternative sérieuse pour la distribution des textes. Pourtant en moins
+plus d'un demi-siècle les ordinateurs se sont insinués dans la texture de la société pour
+à tel point qu'il ne pourrait pas fonctionner sans eux. Ce chapitre examine comment le
+l'ordinateur est venu en si peu de temps jouer un rôle si prédominant spécifiquement dans
+le monde textuel.
+Quelques jalons majeurs dans le développement de ce qui est devenu depuis le numérique
+le support textuel peut être identifié.
+Au XIXe siècle, la machine à calculer à usage unique a d'abord été conçue pour
+ont le potentiel d'être transformés en une machine universelle, capable d'effectuer des tâches qui
+peut être exprimée au moyen d'un algorithme. Dans les années 1940, les premières machines universelles ont été
+construit. Dans les années 1960, l'ordinateur en tant que machine universelle était capable de traiter du texte,
+ce qui lui a donné un rôle dans la phase de création du texte. Dans les années 1980, l'homme-machine graphique
+l'interface de l'ordinateur a considérablement amélioré les possibilités de typographie
+rendu du texte. Elle a permis à l'ordinateur de jouer un rôle central dans la production de
+imprimé. L'interface graphique a également ouvert la voie à la coexistence de deux
+différentes manières de traiter le texte numériquement : la logique et la typographique.
+• Au XIXe siècle, la machine à calculer à usage unique a été conçue pour la première fois
+avoir le potentiel d'être transformé en une machine universelle, capable d'effectuer des tâches
+qui peut être exprimé au moyen d'un algorithme.
+• Dans les années 1940, les premières machines universelles ont été construites.
+• Dans les années 1960, l'ordinateur en tant que machine universelle a été activé pour traiter le texte, ce qui
+lui a donné un rôle dans la phase de création du texte.
+• Dans les années 1980, l'interface graphique homme-machine de l'ordinateur s'est considérablement améliorée
+les possibilités de rendu typographique du texte. Il a permis à l'ordinateur de jouer
+un rôle central dans la production d'imprimés. L'interface graphique a également ouvert la voie
+voie à la coexistence de deux manières différentes de traiter numériquement le texte : la logique et la
+typographique.
+• Dans les années 1990, l'ordinateur a été inclus dans un réseau, ce qui a élargi son rôle de
+outil de communication de celui d'aide à la production d'imprimés analogiques à
+un nouveau média à part entière entièrement numérique, comprenant également la distribution et
+consommation.
+Dans son « circuit de communication »1, Robert Darnton a conceptualisé l'ensemble
+processus de transmission de livres et d'autres formes de texte imprimé tel qu'il fonctionne depuis plusieurs
+des siècles. Ce modèle visualise un processus dans lequel différents acteurs consécutifs travaillent
+1 Voir Robert Darnton, « What is the History of Books », Daedalus, été 1982, pp. 65-83.
+2
+ensemble dans des conditions culturelles, économiques et politiques variées pour diffuser un
+le texte de l'auteur afin qu'il puisse atteindre ses lecteurs. Pose du circuit de communication sur le
+processus de transmission de texte numérique, ce modèle identifiera les similitudes et les différences
+(ou continuités et discontinuités) entre le nouveau média numérique et son prédécesseur
+le support d'impression.
+Le processus de publication des textes et de leur diffusion comprend divers
+étapes distinctes. Celles-ci correspondent grosso modo à celles identifiées dans les communications
+circuit : la création du texte (écriture), suivie de sa production (multiplication),
+distribution (au moment où le texte est rendu public) et enfin consommation (lecture).
+Cependant, pour inspecter les différentes étapes du développement du rôle de l'ordinateur dans
+le transfert de texte de plus près, je voudrais proposer une petite adaptation à cette chaîne
+d'étapes. Je voudrais placer une loupe sur le premier maillon de la chaîne, le
+‘étape de création’, qui est la phase dans laquelle le contenu et la forme du texte n’ont pas
+été finalisé. Outre l'écriture du texte par l'auteur, cette phase comprend également sa
+l'édition, qu'elle soit effectuée par l'auteur ou par une personne agissant en son nom (par
+exemple le rédacteur en chef de l'éditeur). Techniquement, cela signifie faire une distinction entre (a)
+la saisie de texte, (b) l'enregistrement de texte et (c) la manipulation du texte une fois qu'il a été saisi.
+Reconnaissant cette fluidité dans l'étape de création, comprenant l'écriture et l'édition dans n'importe
+nombre d’itérations, permet de retracer plus facilement l’évolution du rôle de l’ordinateur dans
+processus d'écriture. En gros, trois étapes dans ce développement peuvent être reconnues. Ceux-ci en partie
+se chevauchent, mais ils sont fondamentalement suffisamment différents pour les traiter séparément. La
+les étapes sont (1) la représentation du texte sur l'ordinateur (saisie, enregistrement, stockage), (2) la
+manipulation de texte stocké pour des applications scientifiques et professionnelles, et (3) la
+traitement de texte sur pc, comme aide à la réflexion et à l'écriture de l'auteur p
