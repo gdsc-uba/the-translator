@@ -13,13 +13,9 @@ on:
 
 name: Broken Link Check
 jobs:
-  print-token:
-    permissions: write-all
-    name: print-token
-    environment: dev
-    runs-on: ubuntu-latest
   check:
     name: Broken Link Check
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - name: Broken Link Check
