@@ -18,3 +18,4 @@
 - [FINNISH](./Translations/Finnish.txt)
 - [GREEK](./Translations/greek.txt)
 - [IRISH](./Translations/irish.txt)
+- [RUSSIAN](./Translations/russian.txt)
