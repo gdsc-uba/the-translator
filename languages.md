@@ -16,3 +16,4 @@
 - [LATIN](./Translations/latin.txt)
 - [HINDI](./Translations/hindi.txt)
 - [FINNISH](./Translations/Finnish.txt)
+- [GREEK](./Translations/greek.txt)
