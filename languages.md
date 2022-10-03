@@ -5,6 +5,7 @@
 - [JAPANESE](./Translations/Japanese.txt)
 - [SPANISH](./Translations/espagnol.txt)
 - [IGBO](./Translations/igbo.txt)
+- [FINNISH](./Translations/finnish.txt)
 - [DEUTSCH](./Translations/dutch.txt)
 - [HUNGARIAN](./Translations/hungarian.txt)
 - [ZULU](./Translations/zulu.txt)
