@@ -66,8 +66,6 @@ Love 💓 this? Wanna buy us some cofee? A star ⭐ is better!
 
 
 ## Thanks to all our contributors.
-
-<img src = "https://contrib.rocks/image?repo=Developer-Student-Clubs-UBa/the-translator"/>
-
+![Contributors images](./CONTRIBUTORS.svg)
 
 <sub>This project is under the [GNU GENERAL PUBLIC LICENSE](./LICENSE)</sub>
