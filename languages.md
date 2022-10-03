@@ -5,3 +5,4 @@
 - [JAPANESE](./Translations/japanese.txt)
 - [SPANISH](./Translations/espagnol.txt)
 - [IGBO](./Translations/igbo.txt)
+- [FINNISH](./Translations/finnish.txt)
