@@ -66,7 +66,6 @@ Love 💓 this? Wanna buy us some cofee? A star ⭐ is better!
 
 
 ## Thanks to all our contributors.
-
-<img alt="contributors images" href="./CONTRIBUTORS.svg">
+![Contributors images](https://raw.githubusercontent.com/yokwejuste/the-translator/master/CONTRIBUTORS.svg)
 
 <sub>This project is under the [GNU GENERAL PUBLIC LICENSE](./LICENSE)</sub>
