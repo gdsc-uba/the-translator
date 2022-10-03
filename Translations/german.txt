@@ -1,0 +1,66 @@
+Eine kurze Geschichte des Textes und des Computers
+
+1. Die zentrale Rolle des Textes bei der Entwicklung des Computers
+
+Der erste programmierbare Digitalcomputer wurde in den 1940er Jahren gebaut. Die Textverarbeitung ist
+eine noch neuere Praxis aus den 1960er Jahren. Erst in den 1990er Jahren wurde die
+Auch für die Verbreitung von Texten begann der Computer eine ernsthafte Alternative zu bieten. Aber in weniger
+als ein halbes Jahrhundert haben sich Computer in das Gefüge der Gesellschaft eingeschlichen
+so stark, dass es ohne sie nicht funktionieren könnte. Dieses Kapitel untersucht, wie die
+Computer hat gerade in so kurzer Zeit eine so dominierende Rolle gespielt
+die Textwelt.
+Einige wichtige Meilensteine ​​in der Entwicklung dessen, was inzwischen zum Digitalen geworden ist
+Textmedium identifiziert werden kann.
+Im neunzehnten Jahrhundert wurde erstmals die Einzweck-Rechenmaschine entwickelt
+haben das Potenzial, in eine universelle Maschine verwandelt zu werden, die in der Lage ist, Aufgaben auszuführen, die das sind
+kann durch einen Algorithmus ausgedrückt werden. In den 1940er Jahren entstanden die ersten Universalmaschinen
+gebaut. In den 1960er Jahren wurde der Computer als Universalmaschine in die Lage versetzt, Text zu verarbeiten,
+was ihm eine Rolle in der Texterstellungsphase gab. In den 1980er Jahren die grafische Mensch-Maschine
+Schnittstelle des Computers erweiterte die Möglichkeiten des Typografischen erheblich
+Wiedergabe von Text. Es ermöglichte dem Computer, eine zentrale Rolle bei der Produktion von zu spielen
+Drucksache. Die grafische Oberfläche ebnete auch den Weg für die Koexistenz von zwei
+verschiedene Möglichkeiten, Text digital zu behandeln: die logische und die typografische.
+• Im 19. Jahrhundert wurde erstmals die Einzweck-Rechenmaschine entwickelt
+das Potenzial haben, in eine universelle Maschine verwandelt zu werden, die in der Lage ist, Aufgaben auszuführen
+die durch einen Algorithmus ausgedrückt werden kann.
+• In den 1940er Jahren wurden die ersten Universalmaschinen gebaut.
+• In den 1960er Jahren wurde der Computer als Universalmaschine in die Lage versetzt, Text zu verarbeiten, der
+gab ihm eine Rolle in der Phase der Texterstellung.
+• In den 1980er Jahren wurde die grafische Mensch-Maschine-Schnittstelle des Computers stark verbessert
+die Möglichkeiten der typografischen Textwiedergabe. Es ermöglichte dem Computer zu spielen
+eine zentrale Rolle in der Produktion von Drucksachen. Die grafische Oberfläche ebnete auch die
+Weg für die Koexistenz zweier unterschiedlicher Arten, Text digital zu behandeln: der logischen und der
+typografisch.
+• In den 1990er Jahren wurde der Computer in ein Netzwerk eingebunden, wodurch seine Rolle als Computer erweitert wurde
+Kommunikationstool von einem Hilfsmittel zur Herstellung analoger Drucksachen bis hin zu einem Kommunikationstool
+ein neues, vollständig digitales eigenständiges Medium, das auch Vertrieb und umfasst
+Verbrauch.
+In seinem „Communications Circuit“1 hat Robert Darnton das Ganze konzeptualisiert
+Übermittlungsprozess von Büchern und anderen gedruckten Textformen, wie er seit mehreren Jahren funktioniert
+Jahrhunderte. Dieses Modell visualisiert einen Prozess, in dem verschiedene aufeinanderfolgende Akteure arbeiten
+1 Siehe Robert Darnton, „What is the History of Books“, Daedalus, Sommer 1982, S. 65-83.
+2
+gemeinsam unter unterschiedlichen kulturellen, wirtschaftlichen und politischen Bedingungen zu verbreiten
+den Text des Autors, damit er seine Leser erreichen kann. Verlegung der Kommunikationsschaltung über die
+Übertragungsprozess von digitalem Text Dieses Modell wird die Ähnlichkeiten und Unterschiede identifizieren
+(oder Kontinuitäten und Diskontinuitäten) zwischen dem neuen digitalen Medium und seinem Vorgänger
+das Printmedium.
+Der Prozess der Veröffentlichung und Verbreitung von Texten umfasst verschiedene Prozesse
+verschiedene Stadien. Diese entsprechen in etwa den in den Mitteilungen identifizierten
+Schaltung: die Entstehung des Textes (Schreiben), gefolgt von seiner Produktion (Multiplikation),
+Verteilung (in dem Moment, in dem der Text veröffentlicht wird) und schließlich Konsum (Lesen).
+Um jedoch die verschiedenen Stadien in der Entwicklung der Rolle des Computers zu inspizieren
+Um die Textübergabe näher zu beschreiben, möchte ich eine kleine Anpassung an diese Kette vorschlagen
+von Stufen. Ich möchte eine Lupe über das erste Glied in der Kette legen, die
+„Erstellungsphase“, das ist die Phase, in der Inhalt und Form des Textes noch nicht vorhanden sind
+abgeschlossen worden. Diese Phase umfasst neben dem Verfassen des Textes durch den Autor auch dessen
+Bearbeitung, sei es durch den Autor oder durch eine in seinem Auftrag handelnde Person (z
+Beispiel der Herausgeber des Verlags). Technisch bedeutet dies eine Unterscheidung zwischen (a)
+Texteingabe, (b) Textaufzeichnung und (c) die Bearbeitung des eingegebenen Textes.
+Erkennen dieser Fließfähigkeit in der Erstellungsphase, die das Schreiben und Bearbeiten in jeder Hinsicht umfasst
+Anzahl der Iterationen, macht es einfacher, die Entwicklung der Rolle des Computers in der zu verfolgen
+Schreibprozess. In dieser Entwicklung lassen sich grob drei Stadien erkennen. Diese teilweise
+überlappen, aber sie sind grundlegend verschieden genug, um sie getrennt zu behandeln. Das
+Stufen sind (1) die Darstellung von Text auf dem Computer (Eingabe, Aufzeichnung, Speicherung), (2) die
+Manipulation von gespeichertem Text für wissenschaftliche und professionelle Anwendungen und (3) die eigentliche
+Textverarbeitung am PC, als Hilfsmittel beim schriftstellerischen Denken und Schreiben p
