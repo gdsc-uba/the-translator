@@ -1,0 +1,66 @@
+Lyhyt tekstin ja tietokoneen historia
+
+1. Tekstin keskeinen rooli tietokoneen kehityksessä
+
+Ensimmäinen ohjelmoitava digitaalinen tietokone rakennettiin 1940-luvulla. Tekstin käsittely on
+vielä uudempi käytäntö, joka on peräisin 1960-luvulta. Vasta 1990-luvulla
+tietokone alkoi myös tarjota vakava vaihtoehto tekstien jakelulle. Silti vähemmällä
+yli puoli vuosisataa tietokoneet ovat insinuoineet itsensä yhteiskunnan rakenteeseen
+siinä määrin, ettei se voisi toimia ilman niitä. Tässä luvussa tarkastellaan, kuinka
+tietokoneella on niin lyhyessä ajassa tullut niin hallitseva rooli erityisesti
+tekstimaailmaan.
+Joitakin merkittäviä virstanpylväitä sen kehityksessä, josta on sittemmin tullut digitaalinen
+tekstiväline voidaan tunnistaa.
+1800-luvulla yksikäyttöinen laskukone suunniteltiin ensimmäisen kerran
+voi tulla yleiskoneeksi, joka pystyy suorittamaan sellaisia ​​tehtäviä
+voidaan ilmaista algoritmin avulla. Ensimmäiset Universal Machines olivat 1940-luvulla
+rakennettu. 1960-luvulla tietokone yleiskoneena pystyi käsittelemään tekstiä,
+mikä antoi sille roolin tekstin luomisvaiheessa. 1980-luvulla graafinen ihminen-kone
+tietokoneen käyttöliittymä paransi huomattavasti typografisen mahdollisuuksia
+tekstin renderöinti. Sen ansiosta tietokoneella oli keskeinen rooli tuotteen tuotannossa
+painotuotteet. Graafinen käyttöliittymä myös tasoitti tietä kahden rinnakkaiselolle
+erilaisia ​​tapoja käsitellä tekstiä digitaalisesti: looginen ja typografinen.
+• 1800-luvulla kehitettiin ensimmäisen kerran yksikäyttöinen laskukone
+Mahdollisuus muuttua yleiskoneeksi, joka pystyy suorittamaan tehtäviä
+joka voidaan ilmaista algoritmin avulla.
+• Ensimmäiset yleiskoneet rakennettiin 1940-luvulla.
+• 1960-luvulla tietokone yleiskoneena pystyi käsittelemään tekstiä, mikä
+antoi sille roolin tekstin luomisvaiheessa.
+• 1980-luvulla tietokoneen graafinen ihminen-kone-käyttöliittymä parani huomattavasti
+mahdollisuudet tekstin typografiseen esittämiseen. Se mahdollisti tietokoneen pelaamisen
+keskeinen rooli painotuotteiden valmistuksessa. Graafinen käyttöliittymä myös tasoitti
+kaksi erilaista tapaa käsitellä tekstiä digitaalisesti: looginen ja
+typografinen.
+• 1990-luvulla tietokone liitettiin verkkoon, mikä laajensi sen roolia a
+viestintäväline analogisten painotuotteiden tuotannon apuvälineestä
+uusi, täysin digitaalinen väline itsessään, joka sisältää myös jakelun ja
+kulutus.
+Robert Darnton on "kommunikaatiopiirissään"1 käsitteittänyt koko asian
+kirjojen ja muiden painettujen tekstilomakkeiden siirtoprosessi, koska se on toiminut useille
+vuosisadat. Tämä malli visualisoi prosessia, jossa useat peräkkäiset toimijat työskentelevät
+1 Katso Robert Darnton, "What is the History of Books", Daedalus, kesä 1982, s. 65-83.
+2
+yhdessä vaihtelevissa kulttuurisissa, taloudellisissa ja poliittisissa olosuhteissa levittääkseen
+kirjoittajan tekstiä, jotta se tavoittaa lukijansa. Viestintäpiirin asettaminen laitteen päälle
+digitaalisen tekstin siirtoprosessissa tämä malli tunnistaa yhtäläisyydet ja erot
+(tai jatkuvuudet ja epäjatkuvuudet) uuden digitaalisen median ja sen edeltäjän välillä
+tulostusväline.
+Tekstien julkistamis- ja levitysprosessi käsittää erilaisia
+erilliset vaiheet. Nämä vastaavat suurin piirtein tiedonannossa yksilöityjä
+piiri: tekstin luominen (kirjoittaminen), jota seuraa sen tuottaminen (kertominen),
+jakelu (hetkellä kun teksti julkaistaan) ja lopuksi kulutus (lukeminen).
+Kuitenkin tarkastelemaan tietokoneen roolin kehityksen eri vaiheita
+Tekstin siirtoa tarkemmin, haluaisin ehdottaa yhtä pientä mukautusta tähän ketjuun
+vaiheista. Haluaisin asettaa suurennuslasin ketjun ensimmäisen lenkin päälle
+"luomisvaihe", joka on vaihe, jossa tekstin sisältö ja muoto eivät ole
+viimeistelty. Tekijän kirjoittaman tekstin lisäksi tähän vaiheeseen kuuluu myös sen
+muokkaaminen, olipa sen tekijän tai jonkun hänen puolestaan ​​toimivan henkilön tekemä (for
+esimerkiksi kustantajan toimittaja). Teknisesti tämä tarkoittaa eron tekemistä (a)
+tekstin syöttäminen, (b) tekstin tallennus ja (c) tekstin käsittely sen jälkeen, kun se on syötetty.
+Tämän sujuvuuden tunnistaminen luomisvaiheessa, joka sisältää kirjoittamisen ja muokkaamisen missä tahansa
+iteraatioiden määrä, helpottaa tietokoneen roolin kehityksen jäljittämistä
+kirjoitusprosessi. Siinä kehityksessä voidaan tunnistaa karkeasti kolme vaihetta. Nämä osittain
+päällekkäisiä, mutta ne ovat pohjimmiltaan riittävän erilaisia ​​käsitelläkseen niitä erikseen. The
+vaiheet ovat (1) tekstin esittäminen tietokoneella (syöttö, tallennus, tallennus), (2)
+tallennetun tekstin manipulointi tieteellisiä ja ammatillisia sovelluksia varten ja (3) todellinen
+tekstinkäsittely tietokoneella, tekijällisen ajattelun ja kirjoittamisen apuvälineenä s
