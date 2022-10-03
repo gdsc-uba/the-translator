@@ -13,3 +13,4 @@
 - [ARABIC](./Translations/arabic.txt)
 - [WELSH](./Translations/welsh.txt)
 - [LATIN](./Translations/latin.txt)
+- [HINDI](./Translations/hindi.txt)
