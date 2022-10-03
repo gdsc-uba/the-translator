@@ -1,0 +1,66 @@
+Una breu història del text i de l'ordinador
+
+1. El paper central del text en el desenvolupament de l'ordinador
+
+El primer ordinador digital programable es va construir a la dècada de 1940. El processament del text és
+una pràctica encara més recent, que data dels anys seixanta. Va ser només a la dècada de 1990 que el
+l'ordinador també va començar a oferir una alternativa seriosa per a la distribució de textos. Però en menys
+més de mig segle els ordinadors s'han insinuat en la textura de la societat
+fins a tal punt que no podria funcionar sense ells. Aquest capítol examina com el
+l'ordinador ha arribat a jugar en tan poc temps un paper tan predominant específicament en
+el món textual.
+Algunes fites importants en el desenvolupament del que des de llavors s'ha convertit en digital
+es pot identificar el mitjà textual.
+Al segle XIX es va concebre per primera vegada la màquina calculadora d'un sol propòsit
+tenen el potencial de convertir-se en una màquina universal, capaç de realitzar tasques que
+es pot expressar mitjançant un algorisme. A la dècada de 1940 van ser les primeres màquines universals
+construït. A la dècada de 1960, l'ordinador com a màquina universal es va habilitar per processar text,
+que li va donar un paper en la fase de creació de textos. A la dècada de 1980 el gràfic home-màquina
+interfície de l'ordinador va millorar molt les possibilitats per a la tipografia
+representació del text. Va permetre que l'ordinador tingués un paper central en la producció de
+material imprès. La interfície gràfica també va obrir el camí per a la coexistència de dos
+diferents maneres de tractar el text digitalment: la lògica i la tipogràfica.
+• Al segle XIX es va concebre per primera vegada la màquina calculadora d'un sol propòsit
+tenir el potencial de convertir-se en una màquina universal, capaç de realitzar tasques
+que es pot expressar mitjançant un algorisme.
+• A la dècada de 1940 es van construir les primeres Màquines Universals.
+• A la dècada de 1960 es va habilitar l'ordinador com a màquina universal per processar text, cosa que
+li va donar un paper en la fase de creació del text.
+• A la dècada de 1980 la interfície gràfica home-màquina de l'ordinador es va millorar moltíssim
+les possibilitats per a la representació tipogràfica del text. Va permetre que l'ordinador jugués
+un paper central en la producció de material imprès. La interfície gràfica també va pavimentar el
+manera per a la coexistència de dues maneres diferents de tractar el text digitalment: la lògica i la
+tipogràfics.
+• A la dècada de 1990 l'ordinador es va incloure en una xarxa, fet que va ampliar el seu paper com a
+eina de comunicació des d'una ajuda per a la producció d'impresos analògics a
+un nou mitjà totalment digital per dret propi, que inclou també la distribució i
+consum.
+En el seu «circuit de comunicacions»1, Robert Darnton n'ha conceptualitzat la totalitat
+procés de transmissió de llibres i altres formes de text imprès tal com ha funcionat durant diversos
+segles. Aquest model visualitza un procés en el qual treballen diversos actors consecutius
+1 Vegeu Robert Darnton, «What is the History of Books», Daedalus, Summer 1982, pàg. 65-83.
+2
+junts sota diferents condicions culturals, econòmiques i polítiques per difondre un
+text de l'autor perquè arribi als seus lectors. Col·locació del circuit de comunicacions sobre el
+procés de transmissió de text digital aquest model identificarà les semblances i diferències
+(o continuïtats i discontinuïtats) entre el nou mitjà digital i el seu predecessor
+el mitjà d'impressió.
+El procés de fer públics i difusió dels textos consta de diversos
+etapes diferents. Aquests corresponen aproximadament als identificats a les comunicacions
+circuit: la creació del text (escriptura), seguida de la seva producció (multiplicació),
+distribució (el moment en què es fa públic el text), i finalment el consum (lectura).
+No obstant això, per inspeccionar les diferents etapes en el desenvolupament del paper de l'ordinador en
+la transferència de text més a prop, m'agradaria proposar una petita adaptació a aquesta cadena
+d'etapes. M'agradaria col·locar una lupa sobre el primer baul de la cadena, el
+'etapa de creació', que és la fase en què no hi ha contingut ni forma del text
+estat finalitzat. A més de la redacció del text per part de l'autor, aquesta fase també comprèn la seva
+edició, tant si ho fa l'autor com si algú actua en nom seu (per a
+exemple l'editor de l'editor). Tècnicament, això significa fer una distinció entre (a)
+entrada de text, (b) enregistrament de text i (c) la manipulació del text un cop introduït.
+Reconèixer aquesta fluïdesa en l'etapa de creació, comprèn l'escriptura i l'edició en qualsevol
+nombre d'iteracions, facilita el seguiment del desenvolupament del paper de l'ordinador en el
+procés d'escriptura. Es poden reconèixer aproximadament tres etapes en aquest desenvolupament. Aquests en part
+es superposen, però són fonamentalment prou diferents com per tractar-los per separat. El
+les etapes són (1) la representació del text a l'ordinador (entrada, gravació, emmagatzematge), (2) la
+manipulació del text emmagatzemat per a aplicacions científiques i professionals, i (3) l'actual
+tractament de textos a l'ordinador, com a ajuda en el pensament i l'escriptura de l'autor pàg
