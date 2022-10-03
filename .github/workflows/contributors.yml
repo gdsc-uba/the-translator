@@ -5,18 +5,7 @@ on:
   push:
     branches:
       - master
-jobs:
-  check:
-      runs-on: ubuntu-latest
-
-      steps:
-       - name: Checkout
-         uses: actions/checkout@master
-       - name: Verify
-         uses: vchain-us/verify-action@master
-         with:
-          signerID: ${{ secrets.SIGN_TOKEN }}
-   
+jobs:   
   contributors:
     runs-on: ubuntu-latest
     steps:
