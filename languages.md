@@ -21,4 +21,5 @@
 - [RUSSIAN](./Translations/russian.txt)
 - [LUGANDA](./Translations/luganda.txt)
 - [YUROBA](./Translations/YUROBA.txt)
+-[TURKISH](./Translations/TURKISH.txt)
 - [PORTUGUESE](./Translations/portuguese.txt)
