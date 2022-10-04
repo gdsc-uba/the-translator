@@ -1,0 +1,322 @@
+Metin ve Bilgisayarın Kısa Tarihi
+
+1. Bilgisayarın gelişiminde metnin merkezi rolü
+
+İlk programlanabilir dijital bilgisayar 1940'larda yapıldı. Metnin işlenmesi
+1960'lardan kalma daha da yeni bir uygulama. Sadece 1990'larda,
+bilgisayar da metinlerin dağıtımı için ciddi bir alternatif sunmaya başladı. Yine de daha az
+yarım yüzyıldan fazla bilgisayar, kendilerini toplumun dokusuna soktu.
+o kadar ki onlarsız çalışamaz. Bu bölüm,
+bilgisayar çok kısa bir süre içinde özellikle
+metin dünyası.
+O zamandan beri dijital hale gelenlerin gelişiminde bazı önemli kilometre taşları
+metinsel ortam tanımlanabilir.
+On dokuzuncu yüzyılda, tek amaçlı hesap makinesi, ilk olarak
+görevleri yerine getirebilecek bir Evrensel Makineye dönüştürülme potansiyeline sahiptir.
+bir algoritma ile ifade edilebilir. 1940'larda ilk Evrensel Makineler
+inşa edilmiş. 1960'larda bir Evrensel Makine olarak bilgisayar metni işlemek için etkinleştirildi,
+bu da ona metin oluşturma aşamasında bir rol verdi. 1980'lerde grafik insan-makine
+bilgisayarın arayüzü, tipografik olasılıkları büyük ölçüde geliştirdi
+metin oluşturma. Bilgisayarın üretimde merkezi bir rol oynamasını sağladı.
+basılı malzeme. Grafik arayüz aynı zamanda iki
+metni dijital olarak ele almanın farklı yolları: mantıksal ve tipografik.
+• On dokuzuncu yüzyılda tek amaçlı hesap makinesi ilk kez tasarlandı.
+görevleri yerine getirebilecek bir Evrensel Makineye dönüştürülme potansiyeline sahip olmak
+bir algoritma ile ifade edilebilir.
+• 1940'larda ilk Universal Machines üretildi.
+• 1960'larda bilgisayarın bir Evrensel Makine olarak metni işlemesi sağlandı.
+metin oluşturma aşamasında ona bir rol verdi.
+• 1980'lerde bilgisayarın grafik insan-makine arayüzü büyük ölçüde geliştirildi
+metnin tipografik olarak işlenmesi için olanaklar. Bilgisayarın oynamasını sağladı
+basılı malzemenin üretiminde merkezi bir rol oynar. Grafik arayüzü ayrıca
+Metni dijital olarak ele almanın iki farklı yolunun bir arada var olmasının yolu: mantıksal ve
+tipografik.
+• 1990'larda bilgisayar, bir ağ olarak rolünü genişleten bir ağa dahil edildi.
+analog basılı malzemenin üretimi için bir yardım aracından iletişim aracı
+kendi başına yeni, tamamen dijital bir ortam, aynı zamanda dağıtım ve
+tüketim.
+Robert Darnton, 'iletişim devresinde'1 tüm süreci kavramsallaştırdı.
+kitapların ve diğer basılı metin formlarının iletilme süreci, birkaç yıldır işlev gördüğü için
+yüzyıllar. Bu model, çeşitli ardışık aktörlerin çalıştığı bir süreci görselleştirir.
+1 Bkz. Robert Darnton, “What is the History of Books”, Daedalus, Summer 1982, s. 65-83.
+2
+yaygınlaştırmak için değişen kültürel, ekonomik ve politik koşullar altında bir araya
+yazarın metnini okuyucularına ulaştırmak için İletişim devresinin üzerine döşenmesi
+dijital metnin aktarım süreci bu model benzerlikleri ve farklılıkları belirleyecektir.
+(veya süreklilikler ve süreksizlikler) yeni dijital ortam ile öncülü arasındaki
+baskı ortamı.
+Metinleri halka açma ve yayma süreci, çeşitli
+farklı aşamalar. Bunlar kabaca iletişimde tanımlananlara karşılık gelir.
+devre: metnin oluşturulması (yazı), ardından üretilmesi (çarpma),
+dağıtım (metnin halka açıldığı an) ve son olarak tüketim (okuma).
+Bununla birlikte, bilgisayarın rolünün gelişimindeki farklı aşamaları incelemek,
+metnin aktarımını daha yakından anlatmak için bu zincire küçük bir uyarlama önermek istiyorum.
+aşamaların. Zincirdeki ilk halkanın üzerine bir büyüteç yerleştirmek istiyorum,
+Metnin içerik ve biçiminin henüz oluşmadığı aşama olan 'oluşturma aşaması'
+sonuçlandırıldı. Metnin yazar tarafından yazılmasının yanı sıra, bu aşama aynı zamanda onun metnini de içerir.
+düzenleme, bu yazar tarafından mı yoksa onun adına hareket eden biri tarafından mı yapıldıysa (çünkü
+örneğin yayıncının editörü). Teknik olarak bu, (a) arasında bir ayrım yapmak anlamına gelir.
+metin girişi, (b) metin kaydı ve (c) metnin girildikten sonra değiştirilmesi.
+Bu akışkanlığı, herhangi bir şekilde yazma ve düzenlemeyi içeren oluşturma aşamasında tanımak.
+yineleme sayısı, bilgisayarın rolünün gelişimini izlemeyi kolaylaştırır.
+yazma süreci. Bu gelişmede kabaca üç aşama tanınabilir. Bunlar kısmen
+örtüşür, ancak temelde ayrı ayrı ele alınacak kadar farklıdırlar. bu
+aşamalar şunlardır: (1) metnin bilgisayarda temsili (giriş, kayıt, depolama), (2)bilimsel ve profesyonel uygulamalar için saklanan metnin manipülasyonu ve (3) gerçek
+Yazarın düşünme ve yazma sürecine yardımcı olarak bilgisayarda kelime işleme.
+Günümüzün en popüler bilgisayar uygulamaları arasında hiç şüphesiz sohbet, kelime
+işleme, e-posta gönderme ve Web'de gezinme, tüm metin tabanlı arayışlar. Ama bunların dışında da
+metin uygulamaları metin bilgisayar kullanımımızın anahtarıdır. Tüm aritmetik, analitik, medial
+ve bilgisayarın evrensel bir makine olarak kendisine ödünç verdiği diğer uygulamalar, metin
+merkezi bir yer. World Wide Web'de - ve genel olarak İnternette - metin en çok
+Bilgiyi organize etmenin, aramanın ve bulmanın ortak yolu, bu bilginin kendisi olsa bile
+bir metin değil, örneğin bir müzik dosyası veya bir resimdir. Tüm günlük ilişkilerde
+bilgisayar metni, işletim sisteminin ana arayüzünü ve aynı zamanda
+uygulamalar. Dosyalar, yine metin kullanılarak adlandırılan klasörlere isimlendirilir ve takılır. Fakat
+ayrıca bu tür günlük tüketici kullanım dilinin ötesinde, tüm insan-makinelerin temelidir.
+etkileşim. Tüm modern programlama dilleri bir tür doğal dil kullanır. Ayrıca
+işaretleme (bilgisayardaki metni kodlamanın en önemli yollarından biri ve
+World Wide Web'de yayının teknik temeli) tamamen metinsel bir uygulamadır.
+Bir önceki bölümde, Batı toplumunun,
+Bilgiyi aktarmanın temel aracı olarak kitapların sosyal ve kültürel önemi. Sahibim
+buna Kitabın Düzeni adını verdi. Bu arka plana karşı sadece doğal görünüyor ve
+Bilgisayarın metinsel iletişim için konuşlandırılacağı gerçeği neredeyse kaçınılmazdı.
+Bu mümkün olur olmaz ve tüm insan-bilgisayar etkileşimi bir
+metinsel ilişki. Gerçekten de, kelime işlemcinin dünya çapında benimsenme hevesi,
+1980'ler bu fikri doğruluyor gibi görünüyor. Metin tabanlı uygulamaların önemi göz önüne alındığında,
+3
+Günümüzde popüler bilgisayar kullanımı, bilgisayarın neden olduğu sorusu bile kendini gösteriyor.
+bir dil makinesinden ziyade bir hesaplama makinesi olarak icat edildi. Olduğu gibi, bilgisayar
+onu beslediğimiz tüm bu metinsel verileri ve talimatları yeniden hesaplamak zorunda kalmaya devam ediyor.
+sadece bildiği anlamlı birimler: birler ve sıfırlar. neden mümkün olmasın
+dilin kendisi ile hesaplamak? Fikir olduğundan daha garip görünebilir. Onun tüm hayatı
+Wilhelm Leibniz mantıksal dilden oluşan bir dilin inşasına inanmaya devam etti.
+Bir hesap makinesi aracılığıyla manipüle edilebilecek semboller. Böyle bir dil ve
+'hesaplamak' için makine, herhangi bir felsefi tartışmanın tıklama ile çözülmesini sağlayacaktır.
+bir düğmeden. 2 Leibniz'in rüyasının hâlâ gerçekleşmemiş olması, böyle bir
+mantıksal semboller sistemi uygulanabilir değildir.3 Asıl sorun,
+doğal insan diliyle ifade edebileceğimiz ve ifade edebilmek istediğimiz anlam, basitçe
+mantıksal semboller sistemine indirgenmeye uygun değildir.
+Sıfırlar ve birler o zaman. Ancak kolaylık olması açısından, hissedildi.
+komutları bilgisayara insanca anlaşılır bir biçimde aktarmanın bir yolunu tasarlamak için gerekli
+şekil. Bu nedenle program satırları, menüler, dosya adları ve benzerlerinin artık hepsinin bir insan-
+okunabilir form, perde arkasında bile bilgisayar hala tek
+bildiği sayılar: birler ve sıfırlar. Artık hiçbir kullanıcı her tuş vuruşunun
+bir dizi ikili sayıya dönüştürülür. Aslında algı dilimiz
+bugün bilgisayarla uğraştığımız birincil yol. Bilgisayarın sahip olduğu sayılar
+gerçekten egzersizi, ikincil bir rol oynamaktan başka bir şey gibi görünmüyor; rakamlar görünüyor
+metnin melodisine göre dans edin. Ama bir zamanlar durum tam tersiydi ve
+Bilgisayarın ikili kalbi olan arayış, harfleri temsil etmenin bir yolunu bulmaktı.
+Ortalama günlük bilgisayar kullanımı için metnin muazzam önemi göz önüne alındığında,
+Bilgisayarın metinle gerçekten başa çıkabilmesi için hala ne kadar çaba harcadığı dikkat çekici.
+Bu süreç nasıl gerçekleşti ve neden bu kadar uzun sürdü? Hangi faktörler engel oldu ve
+onu uyardı: tasarım ve şans, istenmeyen etkiler, amaçlanan etkilerin başarısızlığı, vb. Bu
+bölüm, bu süreci genel hatlarıyla yeniden yapılandıracaktır.
+Bu metin ilk bakışta bilgisayarda merkezi bir konuma geldi.
+sadece doğal olmak - metnin toplumdaki öneminin bir yansıması. Aynı zamanda bazı
+yorumcular metnin aslında önemini kaybetmeye başladığına dikkat çekiyor.4
+ile doğrudan bir ikili veri alışverişi yapmak üzere olduğumuzu öne sürmüyor.
+bilgisayar veya insanların son zamanlarda bu konuda büyük bir eğitim ve deneyim edindiği
+sembolik mantık. Demek istedikleri, metne ek olarak, diğer modaliteler, özellikle
+imajlar, toplumda olduğu gibi dijital iletişimde de giderek daha önemli bir rol oynamaktadır.
+genel olarak. Bu genellikle görsel kültürün üstünlüğü olarak adlandırılır. 5 Bir basit
+diğer modalitelerdeki bu artışın açıklaması, dijital ortamın bunu yapması olabilir.
+Bölüm 2'de tanımlanan yakınsama sonucunda aşağıdaki gibi modaliteleri entegre etmek kolaydır.
+2 Sarayda ve Sapkın: Leibniz, Spinoza ve Modern Dünyada Tanrı'nın Kaderi (New York)
+ve Londra, 2006, s. 79), Matthew Stewart Leibniz'in bu idealinin bir hesabını verir.
+3 Alfred North Whitehead ve Bertrand Russell'ın Principia Mathematica'sı (1910-1913) etkileyici kanıtlardır
+öyledir, Douglas Hofstadter Kurt Gödel'in çıkarımlarına ilişkin yorumunda haklı olsa bile.
+1931'de Russel'in zaptedilemez olduğunu düşündüğü kalesinin kaderi için patlayıcı makale (bkz.
+Hofstadter, I Am a Strange Loop, New York, 2007, Chapter 10).
+4 Steve Johnson, Arayüz Kültürü: Yeni Teknoloji Yaratma ve Yaratma Şekillerimizi Nasıl Dönüştürüyor?
+Communicate (New York, 1997, bkz. s. 148-52) istisnalardan biridir.
+5 Örneğin bkz. Mitchell Stephens, The Rise of the Image, the Fall of the Word.
+4
+Metinde görüntü ve ses. Ancak görsel kültür kavramı o kadar da yeni değil ve kesinlikle
+bilgisayarın icadından önce gelir. Yirminci yüzyılın başlarından itibaren pek çok
+dünyanın her yerinde her türlü görsel dil için tasarlanmış işaretler, ambalajlar
+ve diğer iletişim biçimleri. 6 Geçen yüzyılın ortalarında De la Fontaine
+Verwey, Hollanda'daki Copy and Print'e yaptığı katkılarda görüntünün,
+'[ler] bir süre kitap tarafından çiğnendi', 'eski haklarına yeniden kavuştu ve
+yüzyıllardır basılı sözün yerine getirdiği görevleri yerine getirmek.'7
+Metnin önemini kaybetmeye başladığına dair işaretler sadece
+soluk, metnin rolü muhtemelen aynı anda başka şekillerde de güçlendirildi, örneğin
+bilgisayar ve internetin büyük ölçüde metinsel arayüzü olarak değil, aynı zamanda
+cep telefonunda mesajlaşmanın olağanüstü popülerliği. Popülerliğine göre yargılamak için
+sosyal ağlar, bloglar ve pek çok web sitesindeki yorum işlevi, pekala
+Her zamankinden daha fazla insanın - en azından bir yayın biçimini düşünerek - yazdığı bir durum.
+Bununla birlikte, fenomen mutlaka her zaman eşit derecede görünür değildir. Daha az bir örnek
+metnin doğrudan görünür kullanımı, anahtar kelimelerin görüntülere ve sese sırayla atanma şeklidir.
+onları arayabilmek için. Bu, geçici bir fenomen olabilirken, aranabilirlik
+görüntülerin ve sesin diğer görüntüler ve ses aracılığıyla aktarımı henüz emekleme aşamasındadır. Zaman için
+her halükarda, oyunlar ve sohbet dahil olmak üzere tüm dijital dünyaya
+metin aracı.
+Metin ve diğer modaliteler arasındaki ilişki gerçekten değişiyorsa,
+değişim, en azından şimdiye kadar, özellikle şiddetli görünmüyor. Bununla birlikte, daha uzun bir tarihsel
+perspektiften, metnin mutlaka en fazla olması gerekmediği bir durum iyi hayal edilebilir.
+önemli iletişim araçları. Bu spekülasyona Bölüm 6'da döneceğim.
+2. Bilgisayarların ve bilgi işlemin tarihi
+Başlangıçta metnin dijital ortamda oynayacağı önemli role dair çok az kanıt vardı.
+dünya. Metnin bilgisayara gelişinin tarihi iki ana konu ile başlar.
+bilgisayarın kendi tarihindeki gelişimsel sıçramalar. Özellikle iki tanesi önemlidir:
+(a) tek işlevli makinelerden çok işlevli makinelere ve (b)
+mekanikten elektronik, dijital makinelere. Sadece makine kategorisinde
+bir işlev, ikisi bilgisayarın bir makine olarak tarihiyle özellikle ilgilidir.
+metnin işlenmesi için. Birincisi, hala her insanın kalbini oluşturan hesap makinesidir.
+bilgisayar. İkincisi, klavye şeklinde teslim edilen daktilodur.
+bugün bilgisayar için başlıca girdi aracı. Ayrıca, bir dizi daha var
+bazılarından kısaca bahsedeceğim özel makineler.
+Bilgisayarın öncüsü olarak hesap makinesinin tarihi yaklaşık dört yıl geriye gider.
+6 İmgelerin potansiyeline (piktogramlar ve simgeler biçiminde, aynı zamanda
+görüntü tabanlı istatistikler) verimli bilgi aktarımını teşvik etmede. Özellikle öne çıkan ve
+Isotype'ın mucidi Otto Neurath, bilgi grafiklerinin kullanımının yorulmaz savunucusuydu.
+(Uluslararası Tipografik Resim Eğitimi Sistemi) 1920'lerde semboller. memleketinden kaçtıktan sonra
+Avusturya 1930'larda Lahey'de Uluslararası Görsel Eğitim Vakfı'nı kurdu ve daha sonra
+Oxford'daki İzotip Enstitüsü.
+7 H. de la Fontaine Verwey, “The twentieth Century”, W. Gs Hellinga, Copy and Print in the Hollanda:
+an Atlas of Historical Bibliography, Amsterdam, 1962, s. 59-67, s. 59.
+5
+yüzyıllar. 1623'te Tübingen'den Wilhelm Schickard (1592-1635) 6 bitlik bir "sayma" yaptı.
+toplama ve çıkarma yapabilen saat '. Makineye saat dedi çünkü makine
+birini andırıyordu. Cihaz tamamen mekanikti. Yarım asır sonra
+Wilhelm Leibniz dijital hesap makinesi fikrini geliştirmeye başladı,
+daha iddialı. Onun makinesi evrensel mantıksal sembolleri işleyebilecek kapasitedeydi. İçinde
+dizginlenemez hırsı ve bağlılığına rağmen, asla bir tür
+toplama, çıkarma, çarpma ve bölme yapabilen mekanik cep hesap makinesi. Leibniz gibi
+on yedinci yüzyılda, İngiliz matematikçi Charles Babbage on dokuzuncu yüzyılda
+yüzyıl, hesap makinelerinin yapmak dışında başka amaçlarla da kullanılabileceği vizyonuna sahipti.
+sayısal hesaplamalar. Aradan geçen yüzyıllarda bilimsel bilgi ve enstrüman
+yapma becerileri o kadar ilerlemişti ki Babbage
+fikirleri seleflerinden daha ileridir. Babbage hiçbir zaman
+'Analitik Motoru', 8 tasarımının gücü ile yaratıcısı olarak kabul edilebilir.
+ilk Evrensel Makine. Schickard ve Leibniz'in hesap makineleri gibi, tamamen
+mekanik (buharla çalışacaktı) ve dijital yerine ondalık sayı kullanıldı
+ancak programlanabilirdi, verileri programdan ayırdı ve yetenekliydi.
+döngüler ve koşullu dallanma. Bu, çoğu bilgisayarın yapabileceğinden daha fazlasıydı.
+hatta bir asır sonra. Babbage, hesaplamaların sonucunu dışa aktarmayı bile düşünüyordu.
+delikli kartlara. Jakarlı dokuma tezgahından ilham alan bu fikir,
+Kendi programlarını yazmak ve saklamak için makine.
+Charles Babbage'ın vizyonu vardı; Ada, Lovelace Kontesi, bir matematikçi arkadaşı
+Bir gece yemekte onun bu konuyu açıkladığını duyan çok az kişiden biriydi.
+imalarını anladı. Daha yüksek düzeyde bir soyutlama hesaplamasında bunu kabul etmek
+saymak değil, sembollerin manipülasyonuydu, bir dizi tasarlamaya başladı.
+Analitik Motor tarafından gerçekten yürütülmüş olabilecek algoritmalar, şimdiye kadar
+inşa edilmiştir. Lovelace, İtalyan tarafından Analitik Motor üzerine bir makaleyi tercüme ettiğinde
+matematikçi ve askeri mühendis Luigi Menabrea bazı çok algılayıcı ekledi
+orijinal makalenin iki katı uzunluğunda kendi notları. Bu notlarda o
+Analitik Motor gibi bir makinenin beste yapmak için kullanılabileceğini doğru bir şekilde tahmin etti.
+müzik, grafik üretmek ve çeşitli bilimsel görevleri yerine getirmek:
+[I] sayı dışında başka şeyler üzerinde de etkide bulunabilirdim, karşılıklı olan nesneler bulundu.
+temel ilişkiler, soyut işlem bilimininkilerle ifade edilebilir,
+ve aynı zamanda işletme eylemine uyarlamalara duyarlı olması gereken
+motorun notasyonu ve mekanizması. Diyelim ki, örneğin, temel
+Armoni ve müzik kompozisyonu biliminde perdeli seslerin ilişkileri,
+Bu tür ifadelere ve uyarlamalara duyarlı olan motor, ayrıntılı
+ve herhangi bir karmaşıklık veya ölçüdeki bilimsel müzik parçaları.9
+8 Başlangıçta Babbage, daha basit bir "makine" tasarlamıştı ve buna "Fark Motoru" adını verdi.
+sonuçlanan sayı kümeleri arasındaki aralıkların (veya farklılıkların) tablolarını otomatik olarak oluşturabildi
+programlanmış ilerici eklemeler dizisinden. Makine tabloların bir baskısını üretebilir.
+9 'Charles Babbage tarafından icat edilen Analitik Motorun Taslağı, Esq.', L. F. Menabrea, Ada'nın notlarıyla
+Lovelace, Charles Babbage, Science and Reform: Selected Works of Charles Babbage, ed.
+Anthony Hyman, CUP, 1989, s. 243-311, s. 270. Orijinalde vurgu.
+6
+Babbage ve Lovelace'ın vizyonunun gerçeğe dönüşebileceğine dair kanıtlar ancak teslim edildi.
+Alan Turing tarafından yirminci yüzyılın ortalarında. Turing'e göre onun özeti
+'Turing makinesi', hesaplanabilecek tüm işlevleri yerine getirme yeteneğine sahipti.
+algoritmik bir prosedür biçimi. Modern dijital, elektronik programlanabilir bilgisayarlar
+Turing'in gereksinimlerini karşılayan ilk olarak 1940'larda geliştirildi.
+İkili ilke yalnızca hesaplamaların kendisi için değil, aynı zamanda
+verilerin kodlanma şekli. Tıpkı sayıların her ikisinde de temsil edilebilmesi gibi
+ikili sistem ve ondalık sistemde, aynı prensipte metin, resim ve
+ses. Sayılar ve metin durumunda, ayrık karakterlerin sayısı çok sınırlıdır,
+ve her karakter sınırlı sayıda bit ile temsil edilebilir. Latin alfabesi için bir
+tek bayt (sekiz bit) 256 benzersiz karakteri kodlayabilir. Görüntü ve ses gibi modaliteler
+kodlamak daha karmaşıktır. Burada sinyal herhangi bir keyfi olarak bölünmelidir.
+kurucu bileşenlerin sayısı. Bir görüntüyü (veya sesi) ayrı parçacıklara bölme
+geçişlerin asla sürekli olmayacağı, her zaman artımlı olmayacağı anlamına gelir. Sayısı
+sinyal birimi başına bileşenler (örneğin, inç başına piksel), görüntünün gerçekçiliğine karar verir.
+ikili gösterim: ne kadar çok o kadar iyi. Ancak piksel sayısı ne kadar yüksek olursa olsun
+inç, dijital bir yorumlamanın gerçekçiliği prensipte asla bir analoga eşit olamaz.
+yorum. Tüm eksikliklerine rağmen, ikili gösterimin alaka düzeyi, tüm
+tüm modalitelerdeki veriler ve bunlara uygulanabilecek tüm hesaplamalar kodlanabilir
+aynı ikili biçimde. Bu, 'ikililiği', içinde çok-
+kiplerin övülen yakınsaması (bunun üzerine Bölüm 5'te daha fazlası yer alabilir).
+Daktilo, hesap makinesinin yanı sıra ikinci tek işlevli makinedir.
+bilgisayarda metin kodlamanın geliştirilmesinde büyük önem taşımaktadır. Bazıları
+en eski daktilolar körler için tasarlanmıştı, 11
+Bölünme, bir mucidin amacı ile bir buluşun gerçek sosyal kullanımı arasında olabilir. Nın-nin
+bu konuya özel ilgi klavyenin durumudur. Tüm ustaca yazarak
+şimdiye kadar tasarlanmış sistemler 12, ilkinin yaratıcısı Christopher Sholes tarafından yapıldı.
+daktilo ticari üretime alınacak, bu standart haline geldi. Bu
+iyi bilinen qwerty düzenine sahip klavye. 13 Sholes'ın en önemli mirası
+klavye, klavyesinde bulunan karakterlerin şimdi hala atomik yapı olmasıdır.
+bilgisayardaki metin blokları. Standart bilgisayar klavyesinde aksan yok
+karakterler, kısa çizgi ve uzun tire arasında veya ondalık nokta ve nokta ve her türlü özel karakterden yoksundur: tipografikten
+matematiksel aracılığıyla para birimi işaretlerine. Bunun yerine sadece görsel görünümdü
+ayrı bir karakter oluşturulup oluşturulmayacağına karar verilir.14 Bilgisayar klavyesi kodlar
+tek tek harfler ikili olarak ve bunları bilgisayara girer. Tıpkı bir daktiloda olduğu gibi, bu
+tuş başına tek bir karakter atanarak yapılır, ancak bu sayı şu kadar artırılabilir:
+shift tuşunu (ve ayrıca bilgisayarda çeşitli fonksiyon tuşlarını) kullanarak.
+10 Terim, Electric Language, s. 102.
+11 Michael H. Adler, Yazı Makinesi, Londra, 1973, s. 48.
+12 Adler, Yazı Makinesi, s. 25-90.
+13 Qwerty düzeni birçok ülkede, örneğin İngilizce konuşulan dünyanın her yerinde hâlâ kullanılmaktadır. İçinde
+diğer bazı ülkelerde düzen farklıdır. Fransa azerty klavyesini kullanırken, Almanya ve bazı Doğu
+Avrupa ülkeleri qwertz klavyeyi kullanır.
+14 Bu nedenle bazı klavyelerde ayrı bir şekil 1 dahil edilmemiştir, l harfi yeterince benzer olarak kabul edilmiştir.
+şeklinde.
+7
+Bunu yapan birçok yaratıcı ve daha az yaratıcı alternatif metin giriş sistemi arasında
+olarak da bilinen Douglas Engelbart'ın fikrinden kesinlikle söz edilmelidir.
+bilgisayar faresinin mucidi,15 standart 5 bitlik kodun 31 karakterini girmek için
+beş tuşa (25 =
+32). 16 Engelbart, 1960'larda iddialı çalışmasının bir parçası olarak bu "beş tuşlu ahize" üzerinde çalıştı.
+Daha fazlasını alacak olan İnsan Zekasının Artırılması çerçevesi için Çerçeve
+bu bölümün ilerleyen kısımlarında dikkat edin. Fikir yeni olmasa da (on dokuzuncu yüzyılda
+yüzyılda piyano tipi klavyelere sahip birkaç daktilo zaten tasarlanmıştı) ve
+kesinlikle avantajları vardı, qwerty klavyenin sahip olduğu tahakküme karşı değildi.
+sonra zaten satın aldı. Dünyanın büyük bir bölümünde kullanılıyordu ve nesiller boyu daktilo
+qwerty düzenini kullanarak kör yazmayı öğrenmişti.
+Daktilo, yaratma – düzenleme – üretim – sürecini almamıştır.
+yayın – dağıtım – yaratma aşamasının ötesinde tüketim. Bakımını yaptı
+'veri girişi' ve 'depolama' (gerçekten yalnızca oluşturulan işlevler için anakronik terimler
+bilgisayar tarafından) bir metnin çoğaltılması, yayınlanması ve yayınlanması için çok az şey yapabilirdi.
+dağıtım.17 Bir araç olarak bu, daktiloyu önemli ölçüde diğerlerinden ayırmaz.
+el yazması - belki de okunabilirlik derecesi hariç. bu bakımdan
+daktilo, baskı türüne yalnızca çok kısmen yaklaşır. Ancak bu tutmadı
+mucitler, en eski makinelerde bile bu özelliği vurgulamaktan kaçınırlar.18
+oluşturma ve editörlük aşamasının üzerine yerleştirdiğim büyüteç gösteriyor ki,
+daktilo, metnin işlenmesi söz konusu olduğunda oldukça zayıf bir performans sergiliyor.
+Tarihle ilgili daha özel teknikler arasında
+bilgisayar kesinlikle telgrafa ve özellikle metin girişi için Baudot sistemine aittir.
+1874'ten kalma. Bu, tartışmada daha önce bahsedilen standart 5 bitlik koddur.
+klavye. Sınırlı sayıda karaktere (en fazla 32) rağmen,
+bu beş bitlik sistemle şifrelenmiş, bu karakter Emile Baudot (1845-1903) tarafından kodlanmıştır.
+yılında ASCII ile değiştirilene kadar dijital elektronik ortamda kullanılmaya devam etmiştir.
+1960'ların ortası. 19 Noktalı ve tireli mors sistemi de ikili olduğundan,
+Baudot'un kodlama sistemi, bilgisayara aktarım için özellikle iyi oldu.
+Dikkati hak eden metnin işlenmesi için başka bir uzman cihaz,
+baskı üretiminde kullanılan dizgi makinesi. 20 Dizgi makinesi,
+daktilo klavyesi avantajına göre (dizgi makinesinin klavyesi
+önemli ölçüde daha fazla tuşla donatılmış; Monotype'ın dört tam qwerty seti vardı
+latin, italik, kalın ve küçük büyük harf için birer tuş). En az dört büyük iyileştirme
+15 Bakınız Thierry Bardini, Bootstrapping: Douglas Engelbart, Coevolution, and the Origins of Personal
+Hesaplama, Stanford, 2000, s. 81-102.
+16 Bakınız Bardini, Bootstrapping, s. 58-80.
+17 Tabii ki, karbon kopyanın oldukça sınırlı yardımı dışında. Şablon makinesi ve çoğaltıcı
+göz ardı edilebilir. Bu teknikler metni kaydetmek için bir daktilodan yararlanırken, çarpma işlemi bir
+bir kopyalama makinesi gerektiren ayrı bir adım.
+18 'Bir İngiliz mühendis olan Henry Mill'e İngiliz patent no. 1714'te 395, yetenekli bir cihaz için
+kağıda veya parşömene harflerin birbiri ardına “yazılı gibi” basılması, ürün çok düzgün ve
+baskıdan ayırt edilemeyecek kadar kesin” (Adler, The Writing Machine, s. 47).
+19 Bardini, Önyükleme, s. 65-79. ASCII (Amerikan Bilgi Standardı) hakkında daha çok şey söylenecek.
+Değişim) bu bölümün ilerleyen kısımlarında.
+20 Diğer, daha marjinal sistemlerden söz edilebilir, örneğin
+zaman geçtikçe daha da karmaşık hale gelen film ve televizyon için başlıklar ve altyazılar.
+8
+dizgi endüstrisinde ilk kez olmasa da erken uygulanan
+dijital kelime işlemenin gelişimi için büyük önem taşımaktadır. Bunlar, bir
+Monotype dizgi makinesinin delikli bandı şeklinde depolama ortamı
+1887'den itibaren; 6-bit üzerinden uzaktan dizgi için tele daktilo uygulaması
+1920'lerin sonlarında TeleTypeSetter (TTS) kodu; bilgisayarın uygulamasında
+1960'ların sonlarından itibaren üçüncü nesil fotodizgi makineleri ve geliştirme
+1960'larda ve 1970'lerde, daha sonraları olan işaretleme kavramının.
