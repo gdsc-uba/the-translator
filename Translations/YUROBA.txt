@@ -1,0 +1,66 @@
+Itan kukuru ti Ọrọ ati Kọmputa naa
+
+1. Awọn aringbungbun ipa ti ọrọ ninu awọn idagbasoke ti awọn kọmputa
+
+Kọmputa oni-nọmba ti eto akọkọ ti a ṣe ni awọn ọdun 1940. Awọn processing ti ọrọ jẹ
+ani diẹ to šẹšẹ iwa, ibaṣepọ lati awọn 1960. O je nikan ni 1990s ti awọn
+kọmputa tun bẹrẹ lati pese kan pataki yiyan fun pinpin awọn ọrọ. Sibẹsibẹ ni kere
+ju idaji orundun kan awọn kọmputa ti insinuated ara wọn sinu sojurigindin ti awujo lati
+iru iwọn ti ko le ṣiṣẹ laisi wọn. Yi ipin ayewo bi awọn
+kọmputa ni o ni ni iru kan kukuru akoko wa lati mu iru kan predominating ipa pataki ni
+aye ọrọ.
+Diẹ ninu awọn iṣẹlẹ pataki ni idagbasoke ohun ti o ti di oni-nọmba lati igba naa
+alabọde ọrọ le ti wa ni damo.
+Ni ọgọrun ọdun kọkandinlogun ẹrọ iṣiro-idi kan, ni akọkọ loyun si
+ni agbara lati wa ni tan-sinu kan Universal Machine, o lagbara ti a sise awọn iṣẹ-ṣiṣe ti o
+le ṣe afihan nipasẹ ọna algorithm kan. Ni awọn 1940s akọkọ Universal Machines wà
+itumọ ti. Ni awọn ọdun 1960 kọmputa naa gẹgẹbi Ẹrọ Agbaye ti ṣiṣẹ lati ṣiṣẹ ọrọ,
+eyi ti o fun ni ipa kan ninu alakoso ẹda ọrọ. Ni awọn ọdun 1980 eniyan ayaworan – ẹrọ
+ni wiwo ti awọn kọmputa gidigidi ti mu dara si awọn ti o ṣeeṣe fun awọn typographical
+Rendering ọrọ. O sise awọn kọmputa lati mu a aringbungbun ipa ni isejade ti
+tejede ọrọ. Ni wiwo ayaworan tun pa ọna fun awọn àjọ-aye ti meji
+Awọn ọna oriṣiriṣi lati ṣe itọju ọrọ ni oni nọmba: ọgbọn ati kikọ.
+• Ni ọgọrun ọdun kọkandinlogun ẹrọ iṣiro-idi kan, ni akọkọ loyun
+lati ni agbara lati yipada si Ẹrọ Agbaye, ti o lagbara lati ṣe awọn iṣẹ-ṣiṣe
+ti o le ṣe afihan nipasẹ ọna algorithm kan.
+• Ni awọn 1940s akọkọ Universal Machines won itumọ ti.
+• Ni awọn 1960 awọn kọmputa bi a Universal Machine ti a sise lati ilana ọrọ, eyi ti
+fun ni ipa kan ninu awọn alakoso ẹda ọrọ.
+• Ni awọn 1980s ni ayaworan eniyan – ẹrọ ni wiwo ti awọn kọmputa ti mu dara si gidigidi
+awọn ti o ṣeeṣe fun awọn typographical Rendering ọrọ. O jẹ ki kọnputa ṣiṣẹ
+a aringbungbun ipa ni isejade ti tejede ọrọ. Awọn ayaworan ni wiwo tun paved awọn
+ọna fun ibagbepo ti awọn ọna oriṣiriṣi meji lati tọju ọrọ oni nọmba: ọgbọn ati awọn
+iwe itẹwe.
+• Ni awọn 1990s awọn kọmputa ti a to wa ni a nẹtiwọki, eyi ti o tobi ipa rẹ bi a
+irinṣẹ ibaraẹnisọrọ lati ti iranlowo fun isejade ti afọwọṣe tejede ọrọ si
+titun kan, ni kikun oni alabọde ninu awọn oniwe-ara ọtun, tun ni ninu pinpin ati
+lilo.
+Ninu 'iyika ibaraẹnisọrọ'1 Robert Darnton ti ṣe agbekalẹ gbogbo rẹ
+ilana gbigbe ti awọn iwe ati awọn fọọmu ọrọ ti a tẹjade miiran bi o ti ṣiṣẹ fun pupọ
+sehin. Awoṣe yii ṣe afihan ilana kan ninu eyiti ọpọlọpọ awọn oṣere itẹlera ṣiṣẹ
+1 Wo Robert Darnton, ‘Kini Itan Awọn Iwe’, Daedalus, Ooru 1982, oju-iwe 65-83.
+2
+papo labẹ orisirisi asa, aje, ati oselu awọn ipo lati tan kaakiri ohun
+ọrọ onkowe ki o le de ọdọ awọn oluka rẹ. Laying awọn ibaraẹnisọrọ Circuit lori awọn
+ilana gbigbe ti ọrọ oni-nọmba awoṣe yii yoo ṣe idanimọ awọn ibajọra ati awọn iyatọ
+(tabi awọn ilọsiwaju ati awọn idaduro) laarin alabọde oni-nọmba tuntun ati aṣaaju rẹ
+alabọde titẹ.
+Ilana ti ṣiṣe awọn ọrọ ni gbangba ati titan kaakiri wọn ni oniruuru
+pato awọn ipele. Iwọnyi ni aijọju badọgba si awọn ti a damọ ni awọn ibaraẹnisọrọ
+Circuit: ẹda ti ọrọ (kikọ), atẹle nipa iṣelọpọ rẹ (isodipupo),
+pinpin (akoko ti ọrọ ti wa ni gbangba), ati nipari agbara (kika).
+Sibẹsibẹ, lati ṣayẹwo awọn ipele oriṣiriṣi ninu idagbasoke ti ipa ti kọnputa ninu
+awọn gbigbe ti ọrọ siwaju sii ni pẹkipẹki, Emi yoo fẹ lati fi eto ọkan kekere aṣamubadọgba si yi pq
+ti awọn ipele. Emi yoo fẹ lati gbe a magnifying gilasi lori akọkọ ọna asopọ ninu awọn pq, awọn
+'ipele ẹda', eyiti o jẹ apakan ninu eyiti awọn akoonu ati fọọmu ti ọrọ ko ni
+ti pari. Yato si kikọ ọrọ nipasẹ onkọwe apakan yii tun ni ninu rẹ
+ṣiṣatunṣe, boya eyi ni o ṣe nipasẹ onkọwe tabi nipasẹ ẹnikan ti n ṣiṣẹ fun tirẹ (fun
+apẹẹrẹ olootu akede). Ni imọ-ẹrọ, eyi tumọ si ṣiṣe iyatọ laarin (a)
+titẹsi ọrọ, (b) gbigbasilẹ ọrọ, ati (c) ifọwọyi ti ọrọ ni kete ti o ti tẹ sii.
+Ti idanimọ omi-ara yii ni ipele ẹda, ti o ni kikọ ati ṣiṣatunṣe ni eyikeyi
+nọmba ti iterations, mu ki o rọrun lati wa kakiri awọn idagbasoke ti awọn kọmputa ipa ninu awọn
+ilana kikọ. O fẹrẹ to awọn ipele mẹta ni idagbasoke yẹn le jẹ idanimọ. Awọn wọnyi ni apakan
+ni lqkan, sugbon ti won wa taa o yatọ to lati toju wọn lọtọ. Awọn
+awọn ipele jẹ (1) aṣoju ọrọ lori kọnputa (titẹ sii, gbigbasilẹ, ibi ipamọ), (2) awọn
+ifọwọyi ti ọrọ ti o fipamọ fun imọ-jinlẹ ati awọn ohun elo ọjọgbọn, ati (3) gangan
+sisẹ ọrọ lori PC, gẹgẹbi iranlọwọ ninu ironu aṣẹ ati kikọ p
