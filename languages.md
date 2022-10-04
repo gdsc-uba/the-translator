@@ -19,3 +19,4 @@
 - [GREEK](./Translations/greek.txt)
 - [IRISH](./Translations/irish.txt)
 - [RUSSIAN](./Translations/russian.txt)
+- [LUGANDA](./Translations/luganda.txt)
