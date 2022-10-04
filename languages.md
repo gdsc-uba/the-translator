@@ -1,5 +1,5 @@
 ## TRANSLATED LANGUAGES
-
+- [AMHARIQUE](./Translations/amharique.txt)
 - [ENGLISH](./Translations/english.txt)
 - [FRENCH](./Translations/francais.txt)
 - [JAPANESE](./Translations/Japanese.txt)
