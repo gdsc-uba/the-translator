@@ -20,3 +20,4 @@
 - [IRISH](./Translations/irish.txt)
 - [RUSSIAN](./Translations/russian.txt)
 - [LUGANDA](./Translations/luganda.txt)
+- [YUROBA](./Translations/YUROBA.txt)
