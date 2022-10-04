@@ -1,0 +1,324 @@
+Kurtîyek Dîroka Nivîsar û Komputerê
+
+1. Rola navendî ya nivîsê di pêşveçûna kompîturê de
+
+Yekem komputera dîjîtal a bernamekirî di sala 1940-an de hate çêkirin. Pêvajoya nivîsê ye
+pratîkek hîn nûtir, ku ji salên 1960-an dest pê dike. Tenê di salên 1990î de bû ku
+kompîturê jî dest bi pêşkêşkirina alternatîfek cidî ji bo belavkirina nivîsan kir. Lêbelê di kêmtir
+ji nîv sedsalê zêdetir kompîturan xwe di nav tevna civakê de bi cih kirine
+qasekî wisa ku bêyî wan nikare kar bike. Ev beş lêkolîn dike ka çawa
+komputer di demek wusa kurt de bi taybetî di nav de rolek wusa serdest dilîze
+cîhana nivîsê.
+Hin qonaxên sereke di pêşkeftina ya ku ji hingê ve bûye dîjîtal
+navgîna nivîsê dikare were naskirin.
+Di sedsala nozdehan de makîneya hesabkirinê ya yek-armancî, yekem car hate damezrandin
+xwedan potansiyel e ku bibe Makîneyek Gerdûnî, ku karibe karên ku pêk bîne
+dikare bi riya algorîtmayek were diyar kirin. Di salên 1940-an de yekem Makîneyên Gerdûnî bûn
+ava kirin. Di salên 1960-an de, komputer wekî makîneyek gerdûnî hate çalak kirin ku nivîsê bişopîne,
+ku di qonaxa afirandina metnê de rol dayê. Di salên 1980-an de mirov-makîna grafîkî
+pêwendiya komputerê îmkanên tîpografî pir zêde kir
+vegotina nivîsê. Ew dihêle ku komputer di hilberînê de rolek navendî bilîze
+madeya çapkirî. Navbera grafîkî jî rê li ber hevjiyana duyan vekir
+awayên cihêreng ên dermankirina nivîsê bi dîjîtal: mentiqî û tîpografî.
+• Di sedsala nozdehan de makîneya hesabkirinê ya yek-armancî, yekem car hatiye çêkirin
+xwedî potansiyela ku bibe Makîneyek Gerdûnî, ku karibe peywiran pêk bîne
+ku dibe ku bi riya algorîtmayek were diyar kirin.
+• Di salên 1940î de yekem Makîneyên Gerdûnî hatin çêkirin.
+• Di salên 1960-an de komputer wekî Makîneyek Gerdûnî hate çalak kirin ku nivîsê bişopîne, ku
+di qonaxa afirandina metnê de rol daye wê.
+• Di salên 1980-an de pêwendiya mirov-makîneya grafîkî ya kompîturê pir zêde bû
+îmkanên vegotina tîpografî ya nivîsê. Vê komputerê çalak kir ku lîstik bike
+roleke navendî di hilberandina tiştên çapkirî de. Navbera grafîkî jî pêve kir
+rê ji bo bihevrebûna du awayên cihêreng ji bo dermankirina nivîsê bi dîjîtalî: mentiqî û ya
+tîpografî.
+• Di salên 1990î de kompîtur di nav torekê de bû, ku rola wê wek a
+Amûra pêwendiyê ji ya alîkariya ji bo hilberîna materyalên çapkirî yên analog
+navgînek nû, bi tevahî dîjîtal bi serê xwe, di heman demê de belavkirin û
+xerc.
+Robert Darnton di 'cirka danûstendinê'1 ya xwe de tevahî têgihîştî ye
+pêvajoya veguheztina pirtûkan û formên din ên nivîsê yên çapkirî ji ber ku çendîn kar kiriye
+sedsalan. Ev model pêvajoyek ku tê de aktorên cûrbecûr li pey hev dixebitin xuya dike
+1 Binêre Robert Darnton, 'Dîroka Pirtûkan Çi ye', Daedalus, Havîn 1982, rûpel 65-83.
+2
+bi hev re di bin şert û mercên çandî, aborî û siyasî yên cuda de ji bo belavkirina an
+nivîsa nivîskar da ku bigihêje xwendevanên xwe. Danîna çerxa ragihandinê li ser
+pêvajoya veguhestina nivîsa dîjîtal ev model dê wekhevî û cûdahiyan nas bike
+(an domdarî û domdarî) di navbera navgîna dîjîtal a nû û selefê wê de
+navgîna çapê.
+Pêvajoya ragihandina metnan û belavkirina wan cûrbecûr pêk tê
+qonaxên cuda. Ev hema hema bi yên ku di ragihandinê de hatine destnîşan kirin re têkildar in
+çerx: afirandina metnê (nivîsandin), dûv re hilberandina wê (zêdebûn),
+belavkirin (dema ku nivîs ji raya giştî re tê eşkere kirin), û di dawiyê de vexwarin (xwendin).
+Lêbelê, ji bo qonaxên cihêreng ên di pêşveçûna rola komputerê de teftîş bikin
+veguheztina nivîsê ji nêz ve, ez dixwazim ji vê zincîrê re adaptasyonek piçûk pêşniyar bikim
+yên qonaxan. Ez dixwazim li ser zencîreya yekem, ya, şûşek mezin bihêlim
+‘qonaxa afirandinê’, ew qonax e ku naverok û forma metnê tê de nemaye
+bi dawî bû. Ji xeynî nivîsandina metnê ji aliyê nivîskar ve ev qonax jî di nav xwe de ye
+verastkirin, gelo ev ji hêla nivîskar ve an ji hêla kesek ku li ser navê wî/wê tevdigere (ji bo
+mînak edîtorê weşanger). Ji hêla teknîkî ve, ev tê vê wateyê ku cûdahiyek di navbera (a) de çêbikin
+têketina nivîsê, (b) tomarkirina nivîsê, û (c) manîpulekirina nivîsê piştî ku ew têkeve.
+Naskirina vê herikbariyê di qonaxa afirandinê de, bi nivîsandin û sererastkirina di her yekê de
+hejmara dubareyan, şopandina pêşkeftina rola komputerê di nav de hêsantir dike
+pêvajoya nivîsandinê. Nêzîkî sê qonax di wê pêşveçûnê de dikare were nas kirin. Ev bi qismî
+hevgirtî ne, lê ew bi bingehîn têra xwe cûda ne ku wan ji hev cuda derman bikin. Ew
+qonax ev in (1) temsîla nivîsê ya li ser komputerê (têketin, tomarkirin, hilanîn), (2) ya
+manîpulekirina nivîsa hilanîn ji bo serîlêdanên zanistî û pîşeyî, û (3) ya rastîn
+pêvajokirina peyvan li ser pc, wekî alîkariyek di pêvajoya raman û nivîsandina nivîskarî de.
+Di nav sepanên kompîturê yên herî populer de îro bê guman sohbet, peyv in
+pêvajokirin, e-name û geroka Webê, hemî lêgerînên li ser nivîsê. Lê li derveyî van jî
+Nivîsarên serîlêdanên nivîsê mifteya karanîna komputera me ye. Di hemû hejmarî, analîtîk, navîn
+û serîlêdanên din ên ku komputer wekî makîneyek gerdûnî xwe dide, nivîs heye
+cihekî navendî. Li ser tevna gerdûnî ya cîhanî - û bi gelemperî li ser Înternetê - nivîs herî zêde ye
+awayê hevpar ji bo birêxistinkirin, lêgerîn û dîtina agahiyê, tewra dema ku ew agahdarî bixwe jî
+ne nivîsek e lê, wek nimûne, pelek muzîkê an wêneyek e. Di hemû danûstandinên rojane de bi
+nivîsara kompîturê navbeyna sereke, ya pergala xebitandinê û hem jî pêşkêş dike
+sepanên. Pelan di peldankan de têne binav kirin û têne girtin, ku dîsa bi karanîna nivîsê têne nav kirin. Lebê
+di heman demê de ji vê rengê karanîna rojane ya serfkaran re jî bingehek ji bo hemî mirov-makîneyê ye
+tesîra li serhev. Hemî zimanên bernamesaziyê yên nûjen formek zimanê xwezayî bikar tînin. Jî
+nîşankirin (yek ji awayên herî girîng ên şîfrekirina nivîsê li ser komputerê - û
+bingeha teknîkî ya weşana li ser tevna gerdûnî ya cîhanî) bi tevahî pratîkek tekstî ye.
+Di beşa berê de min diyar kir ku civaka rojava bi çi rengî tê gulebarankirin
+girîngiya civakî û çandî ya pirtûkan wekî amûra sereke ya veguhestina zanînê ye. Min heye
+ji vê re gotine Fermana Pirtûkê. Li hember vê paşxanê ew tenê xwezayî xuya dike, û di nav de
+bi rastî hema hema neçar e, ku komputer ji bo danûstendina nivîsê wekî ku were bicîh kirin
+zû ku ev yek mimkun bû, û ku tevahiya pêwendiya mirov-komputer bû a
+meseleya nivîsê. Bi rastî, dilxwaziya ku pêvajoya peyvan di nav de hate pejirandin
+Dixuye ku salên 1980î wê ramanê piştrast dike. Ji ber girîngiya serîlêdanên-based nivîsê di nav de
+3
+Bikaranîna kompîturê ya îroyîn a populer, pirs bi xwe jî diyar dike ka çima komputer bû
+Ji bilî makîneya zimanî wekî makîneyeke hesabkirinê hatiye îcadkirin. Wekî ku ew e, komputer
+berdewam dike ku ji nû ve hesabkirina hemî wan dane û rêwerzên nivîsê yên ku em jê re dişînin
+tenê yekeyên watedar ên ku dizane: yek û sifir. Çima dê ne mumkun be
+bi zimanê xwe hesab bike? Dibe ku fikir ji wê xerîbtir xuya bike. Tevahiya jiyana wî
+Wilhelm Leibniz di avakirina zimanekî ku ji mantiqê pêk tê bawer dikir
+sembolên ku dikarin bi rêya hesabkerê bêne manîpule kirin. Zimanek weha, û a
+makîneya ku 'hesab bike' ew ê dihêle ku her nîqaşek felsefî bi klîk were çareser kirin
+ji bişkokekê. 2 Ew xewna Leibniz hê jî bi ser neketiye, ne ji ber ku wisa ye
+sîstema mantiqî ya sembolan ne pêkan e.3 Pirsgirêka eslî ew e ku rengên nazik yên
+wateya ku em dikarin-û dixwazin karibin- bi zimanê mirovî yê xwezayî îfade bikin bi hêsanî ne
+ne mimkûn e ku bibe pergala sembolên mantiqî.
+Sifir û yek ew bû, wê demê. Ji bo rehetiyê, lê belê, ew hest bû
+pêdivî ye ku meriv rêyek bide ku meriv talîmatan li ser komputerê biguhezîne nav têgihiştinek mirovî
+cins. Ji ber vê yekê xêzên bernameyê, pêşek, navên pelan û yên wekî wan nuha hemî xwedî mirovek-
+forma xwendinê, tevî ku li pişt perdeyê komputer hîn jî bi tenê hesab dike
+hejmarên ku ew dizane: yek û sifir. Naha tu bikarhêner naweste ku bifikire ku her lêdana bişkojkê ye
+veguherî rêzek hejmarên binary. Bi rastî, di têgihiştina me de ziman ev e
+awayê bingehîn ku em îro bi komputerê re mijûl dibin. Hejmarên ku komputer
+bi rastî crunch xuya dike ku ji bilî rolek binerd nalîzin; hejmar xuya dikin
+bi awazê nivîsê direqisin. Lê carekê berevajî vê yekê bû û, ji fikirîn
+dilê binary ya komputerê, lêgerîn ji bo rêyek ji bo temsîlkirina tîpan bû.
+Ji ber girîngiya pir mezin a nivîsê ji bo karanîna rojane ya komputerê ew e
+balkêş e ku hîna jî çiqas hewil da ku komputer bi rastî bi nivîsê re mijûl bibe.
+Ew pêvajo çawa pêk hat û çima evqas dirêj kişand? Çi faktorên asteng û
+wê teşwîq kir: sêwirandin û şans, bandorên nexwestî, têkçûna bandorên mebest û hwd. Ev
+beş dê wê pêvajoyê bi rengek giştî ji nû ve ava bike.
+Ew nivîs hatiye ku li ser komputerê pozîsyonek navendî bigire di nihêrîna pêşîn de xuya dike
+bi tenê xwezayî be - ronîkirina girîngiya nivîsê di civakê de. Di heman demê de hinek
+şîrovekar diyar dikin ku nivîs bi rastî dest bi windakirina girîngiya xwe dike.4 Ew in
+eşkere nabêje ku em ê pê re danûstandinek rasterast a daneya binary bikin
+komputer, an ku mirov di van demên dawî de perwerdehî û ezmûnek mezin tê de bi dest xistine
+mantiqa sembolîk. Wateya wan ev e ku ji bilî nivîsê, modalîteyên din, nemaze
+wêne, di ragihandina dîjîtal de, wekî di civakê de, rolek girîng dileyzin
+li mezin. Ev pir caran wekî bilindbûna çanda dîtbarî tê binav kirin. 5 Yek sade
+ravekirina wê zêdebûna modalîteyên din dikare bibe ku navgîniya dîjîtal wê çêdike
+hêsan e, di encama lihevhatina ku di Beşa 2-an de hatî destnîşan kirin, yekkirina modalîteyên wekî
+2 Di The Courtier and The Heretic: Leibniz, Spinoza, and Fate of God in the Modern World (New York)
+û London, 2006, r. 79), Matthew Stewart vê îdeala Leibniz dide.
+3 Alfred North Whitehead û Bertrand Russell ya Principia Mathematica (1910-1913) delîlên berbiçav e.
+ku ew e, her çend Douglas Hofstadter bi şirovekirina xwe ya encamên Kurt Gödel rast be jî.
+gotara teqemenî di sala 1931 de ji bo çarenûsa keleha Russel, ya ku wî nedîtî dît (binihêre Douglas
+Hofstadter, I Am Loop Strange, New York, 2007, Beşa 10).
+4 Steve Johnson, Çanda Navberê: Teknolojiya Nû Çawa Awayê ku Em Diafirînin Veguherîne û
+Communicate (New York, 1997, binêre rûp. 148-52), yek ji îstîsnayan e.
+5 Binêre, bo nimûne, Mitchell Stephens, Rabûna Wêne, Ketina Peyv.
+4
+wêne û deng di nivîsê de. Lê têgîna çanda dîtbarî ne ew çend nû ye, û bê guman
+berî hatina komputerê ye. Ji destpêka sedsala bîstan ve di gelek
+cihên cîhanê her cure zimanên dîtbarî ji bo îşaretan, pakkirinê hatine çêkirin
+û awayên din ên ragihandinê. 6 Di nîvê sedsala borî de De la Fontaine
+Verwey di beşdariya xwe ya Kopî û Çapkirinê de li Hollandayê dibîne ku wêne,
+'ji bo demekê ji aliyê pirtûkê ve hatiye serjêkirin', 'ji nû ve dest bi mafên xwe yên kevnar kiriye û bi
+bicihanîna erkên ku bi sedsalan bi peyva çapkirî hatine kirin.’7
+Ne tenê nîşanên ku metn dest pê dike girîngiya xwe winda dike hîn jî ne
+belkî di heman demê de rola nivîsê bi awayên din jî xurttir bûye
+wekî navbeynkariya nivîsê ya bi piranî ya komputer û înternetê, lê di heman demê de
+populerbûna awarte ya nivîsên li ser têlefona desta. Dadbarkirina ji hêla populerbûna
+torên civakî, blog û fonksiyona şîroveyê li ser gelek malperan, dibe ku ew be
+rewşek ku bêtir mirov dinivîsin - bi kêmanî bi rengek weşanê di hişê xwe de - ji berê.
+Lêbelê, fenomenon ne hewce ye ku her gav bi heman rengî xuya bibe. Mînakek kêm
+Bikaranîna rasterast ya xuyang a nivîsê awayê ku peyvên sereke li wêne û dengan bi rêz têne veqetandin e
+ku bikaribe li wan bigere. Di dema lêgerînê de dibe ku ev fenomenek demkî be
+wêne û deng bi rêya wêne û dengên din hîn di destpêka xwe de ye. Ji bo demê
+bi her awayî tevahiya cîhana dîjîtal - di nav de lîstik û sohbet - tê gihîştin
+wateya nivîsê.
+Ger têkiliya di navbera nivîs û modalîteyên din de bi rastî were guheztin, dê
+guhertin, bi kêmanî heya nuha, ne bi taybetî tund xuya dike. Lê belê, di demeke dirêj a dîrokî de
+perspektîf dikare rewşek were xeyal kirin ku tê de ne hewce ye ku nivîs herî zêde be
+navgînên girîng ên ragihandinê. Ez ê di Beşa 6 de vegerim ser vê spekulasyonê.
+2. Dîroka komputer û komputerê
+Di destpêkê de delîlên hindik li ser rola girîng a ku nivîs di dîjîtal de dilîze hebû
+dinya. Dîroka hatina nivîsê ya li ser komputerê bi du sereke dest pê dike
+di dîroka komputerê bixwe de gavên pêşkeftinê. Du bi taybetî girîng in:
+(a) ku ji makîneyên bi tenê yek fonksiyonê bigire heya makîneyên pirfonksiyonî, û (b) ew
+ji mekanîkî bigire heta elektronîk, makîneyên dîjîtal. Di kategoriya makîneyên bi tenê
+yek fonksiyon, du bi taybetî bi dîroka komputerê wekî makîneyê re têkildar in
+ji bo hilberandina nivîsê. Ya yekem hesabker e, ku hîn jî dilê her kesî pêk tîne
+komûter. Ya duyemîn jî makîneya daktîloyê ye, ku di şiklê klavyeyê de radestkirî ye
+wateya sereke ya têketina ji bo komputerê îro. Herweha, hejmareke din jî hene
+makîneyên pispor, ku ez ê hin ji wan jî bi kurtî behs bikim.
+Dîroka hesabkerê wekî pêşengê komputerê vedigere çend çaran
+6 Di potansiyela wêneyan de baweriyek pir mezin hebû (di forma nîgar û îkonan de, lê her weha
+statîstîkên-based wêne) di pêşvebirina veguheztina agahdariya bikêrhatî de. A bi taybetî navdar û
+Parêzgerê bêwestan ê karanîna grafikên agahdariyê Otto Neurath bû, dahênerê Isotype.
+(Sîstema Navneteweyî ya Perwerdehiya Wêneyên Tîpografîk) sembolên di salên 1920 de. Piştî ku ji welatê xwe direve
+Avusturya di salên 1930-an de wî Weqfa Navneteweyî ya Perwerdehiya Dîtbarî li Laheyê damezrand, û piştre
+Enstîtuya Îsotîpê li Oxfordê.
+7 H. de la Fontaine Verwey, 'Sedsala bîstan', li W. Gs Hellinga, Kopî û çapkirin li Holandayê:
+an Atlas of Historical Bibliography, Amsterdam, 1962, r. 59-67, li ser r. 59.
+5
+sedsalan. Di sala 1623-an de Wilhelm Schickard (1592-1635) ji Tübingenê jimareke 6-bit çêkir.
+saetê', ku dikare lê zêde bike û kêm bike. Wî makîneya xwe saetek ji ber makîneyê digotin
+dihat bîra yekî. Amûr bi tevahî mekanîkî bû. Dema ku nîv sedsal paşê
+Wilhelm Leibniz dest bi xebata ramana xwe ya ji bo hesabkerek dîjîtal kir, ew pir mezin bû
+ambicioztir. Makîneya wî ew bû ku bikaribe sembolên mentiqî yên gerdûnî bi kar bîne. Li
+tevî azwerî û dilsoziya xwe ya bêsînor jî, wî tu carî nekariye ku ji cûreyek cûrbecûr derbas bibe
+Hesabkera mekanîkî ya ku dikare lê zêde bike, kêm bike, zêde bike û dabeş bike. Mîna Leibniz
+di sedsala heftemîn de, matematîkzanê Brîtanî Charles Babbage di sedsala nozdehan de
+sedsalê vîzyonek hebû ku hesabker dikarin ji bilî çêkirinê ji bo armancên din werin bikar anîn
+hesabên hejmarî. Di sedsalên navberê de zanîn û amûrek zanistî
+jêhatîbûna çêkirinê ew qas pêşketibû ku Babbage karîbû cîbicîkirina wê bigire
+ramanên wî ji yên beriya xwe bêtir. Tevî ku Babbage qet bêtir ji parçeyên ava
+'Motora Analîtîk' a wî, 8 li ser hêza sêwirana wî dikare wekî afirînerê wî were hesibandin
+yekem Makîneya Gerdûnî. Mîna hesabkerên Schickard û Leibniz, ew bi tevahî bû
+mekanîkî (diviya bû ku ew bi hilmê ve were hêz kirin) û li şûna dîjîtalê dehiyek bikar anî
+jimare, lê bernamebar bû, daneyan ji bernameyê veqetand, û jêhatî bû
+ji lûf û şaxên şertî. Ew ji ya ku piraniya komputeran jêhatî bûn zêdetir bû
+sedsalek şûnda jî. Babbage tewra difikirî ku encamên hesaban hinarde bike
+ji bo kartên punched. Ev têgihiştin, ku ji Jacquard loom ve hatî îlhama kirin, dê çalak bikira
+makîneya ku bernameyên xwe binivîse û hilîne.
+Charles Babbage ev dîtiniyek bû; Ada, Countess of Lovelace, matematîkzanek heval
+yê ku şevekê li ser şîvê bihîstibû ku ew li ser wê vedibêje, yek ji wan kêm kesan bû ku
+encamên wê fêm kirin. Naskirina ku li ser astek bilindtir a hesabkirina abstraction
+ne jimartin lê manîpulekirina sembolan bû, wê dest bi çêkirina hejmarekê kir
+algorîtmayên ku di rastiyê de dibe ku ji hêla Motora Analîtîk ve hatî darve kirin hebe
+hatiye avakirin. Dema ku Lovelace gotarek li ser Engine Analytical ji hêla Italiantalî ve wergerand
+matematîkzan û endezyarê leşkerî Luigi Menabrea wê hin pir têgihîştî zêde kir
+notên wê bi xwe, ku du caran dirêjahiya gotara orjînal e. Di van notan de wê
+rast pêşbînî kir ku dibe ku makîneyek mîna Motora Analîtîk ji bo berhevkirinê were bikar anîn
+muzîkê, grafîkê hilberînin, û cûrbecûr karên zanistî pêk bînin:
+[Ez] belkî ji bilî hejmarê li ser tiştên din jî tevnegerim, tiştên ku ji hev re hatin dîtin
+têkiliyên bingehîn dikarin ji hêla zanyariyên razber ên operasyonan ve bêne diyar kirin,
+û ya ku divê di heman demê de ji adaptasyona çalakiya xebatê re jî hesas be
+nîşan û mekanîzmaya motorê. Bifikirin, bo nimûne, ku bingehîn
+di zanista aheng û pêkhatina mûzîkê de têkiliyên dengên pizrik bûn
+ji ber vê gotin û adaptasyonên bi vî rengî, dibe ku motor bi berfirehî pêk were
+û perçeyên muzîkê yên zanistî yên her dereceya tevlihevî û radeyê.9
+8 Bi eslê xwe Babbage 'makîneyeke' sadetir dîzayn kiribû, ku navê wê kiribû 'Motora Cudabûnê' ji ber ku
+karîbû bixweber tabloyên navberan (an ciyawaziyên) di navbera komên hejmarên encam de çêbike
+ji rêzikên bernamekirî yên pêvekên pêşverû. Makîne dikaribû çapek tabloyan çêbike.
+9 'Sketch of The Analytical Engine Invented by Charles Babbage, Esq.', ji hêla L. F. Menabrea, bi notên ji hêla Ada ve
+Lovelace, di Charles Babbage, Science and Reform: Selected Works of Charles Babbage, weş.
+Anthony Hyman, CUP, 1989, rûpel 243-311, li ser rûp. 270. Di eslê xwe de tekez kirin.
+6
+Delîlên ku vîzyona Babbage û Lovelace dikare bibe rastî, tenê hate radest kirin
+ji hêla Alan Turing ve di nîvê sedsala bîstan de. Li gorî Turing kurtenivîsa wî
+'Makîneya Turing' karibû ku hemî fonksiyonên ku di nav de têne hesibandin de pêk bîne
+forma pêvajoyek algorîtmîkî. Dîjîtalên nûjen, komputerên elektronîkî yên bernamekirî
+ku hewcedariyên Turing bi cih anî yekem car di salên 1940-an de hate pêşve xistin.
+Prensîba binary ne tenê ji bo hesabên xwe, lê di heman demê de ji bo xwe jî hate bikar anîn
+awayê kodkirina daneyan. Mîna ku jimar dikarin hem di a-yê de bêne temsîl kirin
+pergala binaryê û di yek dehiyê de, di prensîbê de heman tişt ji bo nivîs, wêne û
+rengdan. Di mijara hejmar û nivîsê de hejmara tîpên veqetandî pir kêm e,
+û her karekterek dikare bi hejmarek sînorkirî ya bit were temsîl kirin. Ji bo tîpên latînî, a
+yek byte (heşt bit) dikare 256 tîpên yekta kod bike. Modalîteyên wekî wêne û deng
+ji bo şîfrekirinê tevlihevtir in. Li vir îşaret divê li her kêfî were dabeş kirin
+hejmara pêkhateyên pêkhatî. Parvekirina wêneyekê (an dengekî) li perçeyên veqetandî
+tê wê wateyê ku veguhertin dê tu carî domdar nebin, lê her gav zêde bibin. Hejmara
+pêkhateyên per yekîneya sînyala (mînak, pixel per inch) biryarê dide realîzma
+temsîla binary: bêtir baştir. Lê her çendî hejmara pixelan li serê zêde be
+inch, realîzma radestkirina dîjîtal di prensîbê de çu carî nabe wekî analogek
+ravekirin. Li gel hemû kêmasiyên xwe jî girîngiya temsîliyeta binar ew e ku hemû
+Daneyên di hemî awayan de û hemî hesabên ku dikarin li ser wan werin sepandin, dikarin werin kod kirin
+bi heman şêweya binary. Ev yek 'binariyê' dike 'element' 10 ku tê de pir-
+lihevhatina bikêrhatî ya awayan (ku bêtir di Beşa 5-an de li ser wan heye) dikare pêk were.
+Makîneya nivîsandinê ji xeynî hesabkera ku xwedan makîneya duyemîn yek-fonksîyonî ye
+di pêşxistina kodkirina nivîsê ya li ser komputerê de xwedî girîngiyek mezin bû. Hin ji yên
+makîneyên nivîsandinê yên pêşîn ji bo koran hatine çêkirin, 11 ku bi xweş diyar dike ka çiqas kûr
+dubendî dikare di navbera niyeta dahênerek û karanîna civakî ya rastîn a dahênanê de be. Ji
+eleqeya taybetî ya ji bo mijara heyî meseleya klavyeyê ye. Ji hemû tîpên jêhatî
+pergalên ku her dem 12 hatine sêwirandin ev bû ku ji hêla Christopher Sholes, afirînerê yekem ve hatî çêkirin
+makîneya daktîloyê ya ku di hilberîna bazirganî de were hilanîn, ew bû standard. Ev bû
+klavyeya bi sêwirana qwerty-ya naskirî. 13 Mîrateya herî girîng a Şolan
+klavye ev e ku karakterên ku li ser klavyeya wî hatine dîtin niha jî avahiya atomê ne
+blokên nivîsê li ser komputerê. Klavyeya standard a kompîturê bê akcent nîne
+tîpan, tu ferqê naxe navbera daçek û em-dash, an jî di navbera
+xala dehiyê û rawestgeha tam, û her cûre tîpên taybetî kêm in: ji tîpografî
+bi rêya nîşaneyên matematîkî yên diravî. Di şûna wê de ew tenê xuyangê dîtbar bû
+biryar da ku ka karaktereke cuda hatiye afirandin yan na.14 Klavyeya kompîturê şîfre dike
+tîpên ferdî bi dualî û wan dike nava kompîturê. Mîna ku li ser daktîloyê, ev
+bi danasîna yek tîpek ji bo her keyek tê kirin, her çend dibe ku ew hejmar bi zêde bibe
+bi karanîna bişkojka shiftê (û li ser komputerê ji bilî bişkojkên fonksiyonên cihêreng).
+10 Ev term Michael Heim’s e, ji Electric Language, r. 102.
+11 Michael H. Adler, The Writing Machine, London, 1973, r. 48.
+12 Adler, Makîneya Nivîsandinê, r. 25-90.
+13 Plansaziya qwerty hîn jî li gelek welatan tê bikaranîn, wek nimûne, li seranserê cîhana îngilîzîaxêv. Li
+hin welatên din layout cuda ye. Fransa klavyeya azerty bikar tîne, lê Almanya û hin rojhilatî
+Welatên Ewropî klavyeya qwertz bikar tînin.
+14 Ji ber vê yekê li ser hin klavyeyan jimarek 1-ê ji hev veqetandibû, herfa l bi têra xwe wekî hev tê hesibandin.
+bi şiklê.
+7
+Di nav gelek pergalên têketina nivîsê ya alternatîf a dahêner û kêm dahêner de ku kir
+Divê bê guman fikra Douglas Engelbart, ku jê re tê zanîn, bête kirin
+dahênerê mişka kompîturê,15 ku 31 tîpên koda standard 5-bitê têxe
+'teletîpa' (pêşengê teleksê) bi pêlkirina hevdemî ya pênc bişkokan (25 =
+32). 16 Engelbart di salên 1960-an de li ser vê 'destê pênc-kilît' xebitî, wekî beşek ji azweriya xwe.
+Çarçoveyek ji bo Zêdekirina Çarçoveya Aqilê Mirov, ku dê bêtir bistîne
+bala paşê di vê beşê de. Digel ku raman ne nû bû (di qursa nozdehemîn de
+sedsalê çendîn daktîloyên bi klavyeyên piano-pîano berê hatibûn sêwirandin) û
+bê guman avantajên wê hebûn, ew ne li dijî serdestiya klavyeya qwerty bû
+paşê berê xwe girtiye. Ew li beşên mezin ên cîhanê, û nifşên tîpnivîsan dihat bikaranîn
+fêrî nivîsandina kor bi karanîna layout qwerty bû.
+Makîneya daktîloyê pêvajoya afirandin - sererastkirin - hilberandin - negirt.
+weşandin - belavkirin - serfkirin ji qonaxa afirandinê wêdetir. Ew lênêrînê kir
+'têketina daneyan' û 'veşartin' (şertên anakronîk ên ji bo fonksiyonên ku bi rastî tenê hatine afirandin
+bi kompîturê) nivîsekê, lê dikaribû ji nû ve, weşandin û weşandina wê hindik bike
+belavkirin.17 Weke navgîn ev yeka daktîloyê bi giranî ji hev cuda nake
+destnivîs-ji bilî belkî asta xwendinê. Di wî warî de
+daktîlo tenê pir bi qismî nêzî tîpa çapkirinê dibe. Lêbelê, ev yeka xwe neparast
+dahêneran ji balkişandina vê taybetmendiyê, di warê makîneyên herî pêşîn de jî.18 The
+mezinahiya ku min danî ser qonaxa afirandin û edîtoriyê nîşan dide ku
+Dema ku dor tê ser manîpulekirina nivîsê, makîneya daktîloyê performansek pir qels e.
+Di nav teknîkên pisportir ên ku di dîrokê de têkildar in
+komputer bê guman têlegrafî ye, û nemaze pergala Baudot ji bo têketina nivîsê
+dating ji 1874. Ango koda standard 5-bit e ku berê di nîqaşê de hatî destnîşan kirin
+klavyeyê. Tevî hejmarek sînorkirî ya karakteran (herî zêde 32) ku dikare bibe
+bi vê pergala pênc-bit hatî şîfrekirin, ev karakter ji hêla Emile Baudot (1845-1903) ve hatî şîfrekirin
+hîn jî di hawîrdora elektronîkî ya dîjîtal de hate bikar anîn heya ku ew di nav ASCII de hate guheztin
+nîvê salên 1960î. 19 Ji ber ku pergala morsê bi xal û daçekên xwe ve jî dubendî ye,
+Pergala şîfrekirinê ya Baudot ji bo veguheztina li ser komputerê bi taybetî xwe xweş kir.
+Amûrek din a pispor a ji bo hilanîna nivîsê ku balê dikişîne ew bû
+makîneya tîpkirinê ku di hilberîna çapê de tê bikar anîn. 20 Makîneya tîpkirinê ya bi kar anî
+Klavyeya daktîloyê di berjewendiya xwe de ye (her çend klavyeya makîneya nivîsandinê bû
+bi mifteyên bi girîngî zêdetir hatine pêxistin; Monotype çar komên bêkêmasî yên qwerty hebûn
+kilît, her yek ji bo romanî, îtalîk, stûr, û tîpên piçûk). Bi kêmanî çar pêşveçûnên sereke
+15 Binêre Thierry Bardini, Bootstrapping: Douglas Engelbart, Coevolution, û Origins of Personal
+Computing, Stanford, 2000, rûpel 81-102.
+16 Binêre Bardini, Bootstrapping, r. 58-80.
+17 Bê guman bi alîkariya pir kêm a kopiya karbonê. Makîneya şablonê û duqatker
+dikare were paşguh kirin. Dema ku van teknîkan ji bo tomarkirina nivîsê makîneya nivîsandinê bikar tînin, pirkirin a
+gavê veqetandî, ku makîneyek dubarekirinê hewce dike.
+18 ' Endezyarek Brîtanî, Henry Mill, patenta Brîtanî ya bi jimare wergirt. 395 di 1714 de ji bo amûrek ku jêhatî ye
+tîpên li ser kaxiz an pergamentê yek li pey hev "wek nivîsandinê" dixemilînin, berhem ewqas xweş û xweş e
+tam wek ku ji çapkirinê nayê cuda kirin” (Adler, The Writing Machine, r. 47).
+19 Bardini, Bootstrapping, rûpel 65-79. Dê bêtir li ser ASCII (Standardek Amerîkî ji bo Agahdariyê) were gotin
+Danûstandin) paşê di vê beşê de.
+20 Sîstemên din, bêtir marjînal ên ku dikarin bêne behs kirin, wek nimûne ew in ku ji bo nifşê têne bikar anîn
+sernav û jêrnivîsên fîlm û televizyonê, yên ku her ku diçû jî sofîstîketir dibûn.
+8
+ku di pîşesazîya tîpguhêziyê de ne cara yekem be, zû hatine sepandin
+girîngiyek mezin ji bo pêşkeftina hilberandina peyva dîjîtal. Ev bikaranîna a
+navgîna hilanînê, bi awayê kaseta pêçandî ya makîneya tîpguhêzkirina Monotype
+ji 1887; sepana daktîloya teleyê ji bo nivîsandina ji dûr ve bi riya 6-bit
+koda TeleTypeSetter (TTS) di dawiya salên 1920-an de; serîlêdana komputerê di nav de
+nifşê sêyem makîneyên wênesazkirinê yên ji dawiya salên 1960-an, û pêşveçûn
+têgeha markup di salên 1960 û 1970-an de, li ser ku bêtir paşê.
