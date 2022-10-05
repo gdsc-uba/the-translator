@@ -1,0 +1,324 @@
+Una breve storia del testo e del computer
+
+1. Il ruolo centrale del testo nello sviluppo del computer
+
+Il primo computer digitale programmabile è stato costruito negli anni '40. L'elaborazione del testo è
+una pratica ancora più recente, risalente agli anni '60. Solo negli anni '90 il
+il computer iniziò anche a offrire una seria alternativa per la distribuzione dei testi. Eppure in meno
+da mezzo secolo i computer si sono insinuati nella struttura della società
+tale da non poter funzionare senza di loro. Questo capitolo esamina come il
+il computer è arrivato in così poco tempo a svolgere un ruolo così preponderante nello specifico
+il mondo testuale.
+Alcune pietre miliari nello sviluppo di quello che da allora è diventato il digitale
+è possibile identificare il supporto testuale.
+Nel diciannovesimo secolo fu concepita per la prima volta la macchina calcolatrice monouso
+hanno il potenziale per essere trasformati in una macchina universale, in grado di svolgere compiti che
+può essere espresso per mezzo di un algoritmo. Negli anni '40 furono le prime Universal Machines
+costruito. Negli anni '60 il computer come macchina universale è stato abilitato per elaborare testo,
+che gli ha dato un ruolo nella fase di creazione del testo. Negli anni '80 la grafica uomo-macchina
+l'interfaccia del computer ha notevolmente migliorato le possibilità per il tipografico
+resa del testo. Ha permesso al computer di svolgere un ruolo centrale nella produzione di
+stampe. L'interfaccia grafica ha anche aperto la strada alla coesistenza di due
+diversi modi di trattare il testo digitalmente: il logico e il tipografico.
+• Nell'Ottocento fu concepita per la prima volta la macchina calcolatrice monouso
+avere il potenziale per essere trasformata in una macchina universale, in grado di svolgere compiti
+che può essere espresso per mezzo di un algoritmo.
+• Negli anni '40 furono costruite le prime Universal Machines.
+• Negli anni '60 il computer come macchina universale è stato abilitato all'elaborazione del testo, che
+gli ha dato un ruolo nella fase di creazione del testo.
+• Negli anni '80 l'interfaccia grafica uomo-macchina del computer è notevolmente migliorata
+le possibilità di resa tipografica del testo. Ha permesso al computer di giocare
+un ruolo centrale nella produzione di stampati. L'interfaccia grafica ha anche aperto il
+modo per la coesistenza di due diversi modi di trattare il testo digitalmente: il logico e il
+tipografico.
+• Negli anni '90 il computer è stato inserito in una rete, che ha ampliato il suo ruolo di a
+strumento di comunicazione da quello di un aiuto alla produzione di stampati analogici a
+un nuovo mezzo completamente digitale a sé stante, comprendente anche la distribuzione e
+consumo.
+Nel suo "circuito di comunicazione"1 Robert Darnton ha concettualizzato l'intero
+processo di trasmissione di libri e altre forme di testo stampato in quanto ha funzionato per diversi
+secoli. Questo modello visualizza un processo in cui lavorano vari attori consecutivi
+1 Vedi Robert Darnton, "What is the History of Books", Daedalus, Summer 1982, pp. 65-83.
+2
+insieme in diverse condizioni culturali, economiche e politiche per diffondere un
+testo dell'autore in modo che possa raggiungere i suoi lettori. Posa del circuito di comunicazione sul
+processo di trasmissione del testo digitale questo modello identificherà le somiglianze e le differenze
+(o continuità e discontinuità) tra il nuovo medium digitale e il suo predecessore
+il mezzo di stampa.
+Il processo di rendere pubblici i testi e di diffonderli comprende diversi
+fasi distinte. Questi corrispondono grosso modo a quelli individuati nelle comunicazioni
+circuito: la creazione del testo (scrittura), seguita dalla sua produzione (moltiplicazione),
+distribuzione (il momento in cui il testo viene reso pubblico) e infine consumo (lettura).
+Tuttavia, per esaminare le diverse fasi dello sviluppo del ruolo del computer in
+il trasferimento del testo più da vicino, vorrei proporre un piccolo adattamento a questa catena
+di stadi. Vorrei posizionare una lente d'ingrandimento sul primo anello della catena, il
+'fase di creazione', che è la fase in cui i contenuti e la forma del testo non hanno
+stato finalizzato. Oltre alla scrittura del testo da parte dell'autore questa fase comprende anche la sua
+editing, indipendentemente dal fatto che ciò avvenga dall'autore o da qualcuno che agisce per suo conto (per
+esempio l'editore dell'editore). Tecnicamente, questo significa fare una distinzione tra (a)
+immissione del testo, (b) registrazione del testo e (c) la manipolazione del testo una volta inserito.
+Riconoscere questa fluidità nella fase di creazione, compresa la scrittura e l'editing in qualsiasi
+numero di iterazioni, rende più facile tracciare lo sviluppo del ruolo del computer nel
+processo di scrittura. Si possono riconoscere circa tre fasi di tale sviluppo. Questi in parte
+sovrapposti, ma sono fondamentalmente abbastanza diversi da poterli trattare separatamente. Il
+le fasi sono (1) la rappresentazione del testo sul computer (immissione, registrazione, archiviazione), (2) il
+manipolazione del testo memorizzato per applicazioni scientifiche e professionali e (3) l'effettivo
+elaborazione testi su pc, come ausilio nel pensiero autoriale e nel processo di scrittura.
+Tra le applicazioni per computer più popolari oggi ci sono senza dubbio la chat, la parola
+elaborazione, invio di e-mail e navigazione sul Web, tutte attività basate su testo. Ma anche al di fuori di questi
+applicazioni di testo il testo è la chiave per l'uso del nostro computer. In tutto aritmetica, analitica, mediale
+e altre applicazioni per le quali il computer come macchina universale si presta, il testo ha
+un luogo centrale. Sul World Wide Web, e su Internet in generale, il testo è il massimo
+modo comune per organizzare, cercare e trovare informazioni, anche quando tali informazioni stesse
+non è un testo ma, ad esempio, un file musicale o un'immagine. In tutti i rapporti quotidiani con il
+il testo del computer fornisce l'interfaccia principale, del sistema operativo e il
+applicazioni. I file vengono nominati e bloccati in cartelle, che vengono nuovamente denominate utilizzando il testo. Ma
+anche al di là di questo tipo di uso quotidiano del consumatore, il linguaggio è alla base di tutto l'uomo-macchina
+interazione. Tutti i moderni linguaggi di programmazione utilizzano una forma di linguaggio naturale. Anche
+markup (uno dei modi più importanti per codificare il testo sul computer e il
+base tecnica della pubblicazione sul World Wide Web) è una pratica interamente testuale.
+Nel capitolo precedente ho descritto come la società occidentale sia stata colpita dal
+significato sociale e culturale del libro come principale mezzo di trasmissione del sapere. io ho
+chiamato questo l'Ordine del Libro. In questo contesto sembra naturale, e in
+Fatto quasi inevitabile, che il computer doveva essere utilizzato per la comunicazione testuale come
+non appena ciò è diventato possibile e l'intera interazione uomo-computer è diventata a
+affare testuale. In effetti, l'entusiasmo con cui il word processor è stato accolto nel
+Gli anni '80 sembrano confermare questa idea. Data l'importanza delle applicazioni basate su testo in
+3
+uso del computer oggi, si pone persino la domanda sul perché il computer fosse
+inventato come una macchina calcolatrice piuttosto che una macchina del linguaggio. Così com'è, il computer
+continua a dover ricalcolare tutti quei dati testuali e le istruzioni che gli forniamo
+solo le unità significative che conosce: uno e zero. Perché non sarebbe possibile
+calcolare con la lingua stessa? L'idea può sembrare più strana di quello che è. Tutta la sua vita
+Wilhelm Leibniz ha continuato a credere nella costruzione di un linguaggio costituito da logico
+simboli che possono essere manipolati per mezzo di una calcolatrice. Tale lingua, e a
+macchina per "calcolarlo" consentirebbe di risolvere qualsiasi dibattito filosofico con un clic
+di un bottone. 2 Che il sogno di Leibniz non sia stato ancora realizzato, non tanto perché tale a
+sistema logico di simboli non è praticabile.3 Il vero problema è che le sottili sfumature di
+il che significa che possiamo - e vogliamo essere in grado di - esprimere con il linguaggio umano naturale sono semplicemente
+non suscettibile di essere ridotto a un sistema di simboli logici.
+Zero e uno era, quindi. Per comodità, però, si è sentito
+necessario escogitare un modo per trasmettere le istruzioni al computer in un modo umanamente intelligibile
+forma. Quindi le righe di programma, i menu, i nomi di file e simili ora hanno tutti un
+forma leggibile, anche se dietro le quinte il computer calcola ancora con l'unico
+numeri che conosce: uno e zero. Nessun utente ora si ferma a pensare che ogni battitura lo sia
+convertito in una serie di numeri binari. In effetti, nella nostra percezione il linguaggio è il
+modo principale in cui oggi ci occupiamo del computer. I numeri che il computer
+in realtà gli scricchiolii sembrano non svolgere altro che un ruolo subordinato; i numeri sembrano
+ballare sulle note del testo. Ma una volta era il contrario e, a pensarci bene
+cuore binario del computer, la ricerca era un modo per rappresentare le lettere.
+Data l'enorme importanza del testo per l'uso quotidiano medio del computer, lo è
+sorprendendo quanto sforzo ci sia voluto prima che il computer potesse effettivamente gestire il testo.
+Come ha avuto luogo questo processo e perché ci è voluto così tanto tempo? Quali fattori hanno impedito e
+lo ha stimolato: design e casualità, effetti non intenzionali, fallimento degli effetti previsti, ecc. Questo
+il capitolo ricostruirà quel processo in linea di massima.
+Che il testo sia arrivato a prendere una posizione centrale sul computer appare a prima vista
+essere solo naturale, un riflesso dell'importanza del testo nella società. Allo stesso tempo alcuni
+i commentatori sottolineano che il testo sta effettivamente cominciando a perdere il suo rilievo.4 Lo sono
+ovviamente non suggerendo che stiamo per impegnarci in uno scambio diretto di dati binari con
+il computer, o in cui gli esseri umani hanno recentemente acquisito un'enorme formazione ed esperienza
+logica simbolica. Ciò che intendono è che oltre al testo, in particolare altre modalità
+le immagini, stanno giocando un ruolo sempre più importante nella comunicazione digitale, come nella società
+in generale. Questo è spesso indicato come l'ascesa della cultura visiva. 5 Uno semplice
+la spiegazione di quell'aumento di altre modalità potrebbe essere che il supporto digitale ce la fa
+facile, per effetto della convergenza individuata nel Capitolo 2, integrare modalità quali
+2 In Il cortigiano e l'eretico: Leibniz, Spinoza e il destino di Dio nel mondo moderno (New York
+e Londra, 2006, p. 79), Matthew Stewart rende conto di questo ideale di Leibniz.
+3 Principia Mathematica (1910-1913) di Alfred North Whitehead e Bertrand Russell è una prova impressionante
+lo è, anche se Douglas Hofstadter ha ragione con la sua interpretazione delle implicazioni di Kurt Gödel
+articolo esplosivo nel 1931 per il destino della fortezza di Russel, che riteneva inespugnabile (vedi Douglas
+Hofstadter, I Am a Strange Loop, New York, 2007, Capitolo 10).
+4 Steve Johnson, Cultura dell'interfaccia: come la nuova tecnologia trasforma il modo in cui creiamo e
+Communicate (New York, 1997, vedi pp. 148-52), è una delle eccezioni.
+5 Si veda, ad esempio, Mitchell Stephens, The Rise of the Image, the Fall of the Word.
+4
+immagini e suoni nel testo. Ma la nozione di cultura visiva non è così nuova, e certamente
+precede l'avvento del computer. Dall'inizio del Novecento in molti
+luoghi del mondo sono stati progettati tutti i tipi di linguaggi visivi per la segnaletica, il packaging
+e altre forme di comunicazione. 6 A metà del secolo scorso De la Fontaine
+Verwey trova nel suo contributo a Copy and Print nei Paesi Bassi che l'immagine,
+'[s]sostituito per un certo tempo dal libro', 'ha ripreso i suoi antichi diritti ed è impegnato in
+assolvere compiti che per secoli sono stati svolti dalla parola stampata.’7
+Non solo i segni che il testo sta cominciando a perdere la sua importanza sono ancora piuttosto
+debole, il ruolo del testo è stato probabilmente rafforzato contemporaneamente in altri modi, ad esempio
+come l'interfaccia in gran parte testuale del computer e di Internet, ma anche il
+straordinaria popolarità degli sms sul cellulare. A giudicare dalla popolarità di
+social network, blog e la funzione di commento su così tanti siti Web, potrebbe essere il
+caso in cui più persone scrivono, almeno pensando a una forma di pubblicazione, che mai.
+Tuttavia, il fenomeno non è necessariamente sempre ugualmente visibile. Un esempio di meno
+l'uso direttamente visibile del testo è il modo in cui le parole chiave sono assegnate a immagini e suoni in ordine
+per poterli cercare. Questo può essere un fenomeno transitorio durante la ricerca
+di immagini e suoni attraverso altre immagini e suoni è ancora nella sua infanzia. Per il momento
+essendo in ogni caso l'intero mondo digitale, inclusi giochi e chat, è accessibile
+mezzo di testo.
+Se il rapporto tra testo e altre modalità sta davvero cambiando, il
+il cambiamento, almeno finora, non sembra particolarmente drastico. Tuttavia, in uno storico più lungo
+prospettiva si può ben immaginare una situazione in cui il testo non deve necessariamente essere il massimo
+importante mezzo di comunicazione. Tornerò su questa speculazione nel capitolo 6.
+2. La storia dei computer e dell'informatica
+Inizialmente c'erano poche prove del ruolo importante che il testo doveva svolgere nel digitale
+mondo. La storia dell'avvento del testo al computer inizia con due principali
+salti evolutivi nella storia del computer stesso. Due in particolare sono importanti:
+(a) quello dalle macchine con una sola funzione alle macchine multifunzione, e (b) quello
+dalle macchine meccaniche a quelle elettroniche, digitali. Nella categoria delle macchine con solo
+una funzione, due sono di particolare rilevanza per la storia del computer come macchina
+per l'elaborazione del testo. La prima è la calcolatrice, che ancora oggi costituisce il cuore di ogni
+computer. La seconda è la macchina da scrivere, che ha consegnato, a forma di tastiera, il
+il principale mezzo di input per il computer oggi. Inoltre, ce ne sono molti altri
+macchine specializzate, alcune delle quali citerò anche brevemente.
+La storia della calcolatrice come precursore del computer risale a circa quattro anni fa
+6 C'era un'enorme convinzione nel potenziale delle immagini (sotto forma di pittogrammi e icone, ma anche
+statistiche basate su immagini) per promuovere un'efficiente trasmissione delle informazioni. Un particolarmente prominente e
+instancabile sostenitore dell'uso della grafica informativa fu Otto Neurath, l'inventore dell'isotipo
+(Sistema internazionale di educazione all'immagine tipografica) negli anni '20. Dopo essere fuggito dal suo nativo
+L'Austria negli anni '30 ha fondato la Fondazione Internazionale per l'Educazione Visiva all'Aia, e successivamente
+l'Isotype Institute di Oxford.
+7 H. de la Fontaine Verwey, «Il ventesimo secolo», in W. Gs Hellinga, Copy and Print in the Netherlands:
+an Atlas of Historical Bibliography, Amsterdam, 1962, pp. 59-67, a p. 59.
+5
+secoli. Nel 1623 Wilhelm Schickard (1592-1635) di Tubinga fece un conteggio a 6 bit
+clock', che potrebbe aggiungere e sottrarre. Ha chiamato la sua macchina un orologio perché il macchinario
+ne ricordava uno. Lo strumento era interamente meccanico. Quando mezzo secolo dopo
+Wilhelm Leibniz iniziò a elaborare la sua idea per un calcolatore digitale, fu un ottimo affare
+più ambizioso. La sua macchina doveva essere in grado di elaborare simboli logici universali. In
+nonostante la sua sfrenata ambizione e dedizione, non è mai riuscito ad andare oltre una specie di
+calcolatrice tascabile meccanica in grado di sommare, sottrarre, moltiplicare e dividere. Come Leibniz
+nel diciassettesimo secolo, il matematico britannico Charles Babbage nel diciannovesimo
+secolo aveva la visione che le calcolatrici potessero essere utilizzate per scopi diversi dalla creazione
+calcoli numerici. Nei secoli successivi conoscenza scientifica e strumento
+le abilità di fabbricazione erano così avanzate che Babbage fu in grado di prenderne l'attuazione
+le sue idee oltre i suoi predecessori. Sebbene Babbage non abbia mai costruito più di parti di
+il suo "Motore analitico", 8 sulla base del suo design può essere considerato il creatore
+la prima macchina universale. Come i calcolatori di Schickard e Leibniz, lo era completamente
+meccanico (doveva essere alimentato a vapore) e utilizzava il decimale anziché il digitale
+numeri, ma era programmabile, separava i dati dal programma ed era in grado
+di loop e ramificazione condizionale. Era più di quanto fosse capace la maggior parte dei computer
+anche un secolo dopo. Babbage stava anche considerando di esportare il risultato dei calcoli
+alle schede perforate. Questa nozione, ispirata al telaio Jacquard, avrebbe consentito il
+macchina per scrivere e memorizzare i propri programmi.
+Charles Babbage ebbe la visione; Ada, contessa di Lovelace, una collega matematica
+che lo ha sentito esporre su di esso una sera durante la cena, era una delle pochissime persone che
+compreso le sue implicazioni. Riconoscendolo a un livello superiore di calcolo dell'astrazione
+non stava contando ma manipolando i simboli, ha proceduto a escogitare un certo numero di
+algoritmi che potrebbero essere stati effettivamente eseguiti dal motore analitico se lo fosse mai stato
+stato costruito. Quando Lovelace ha tradotto un articolo sull'Analytical Engine dell'italiano
+il matematico e ingegnere militare Luigi Menabrea ne aggiunse alcuni molto percettivi
+note proprie, pari al doppio della lunghezza dell'articolo originale. In queste note lei
+correttamente previsto che una macchina come il motore analitico potrebbe essere utilizzata per comporre
+musica, produrre grafica ed eseguire una serie di compiti scientifici:
+[Potrei] agire su altre cose oltre al numero, se si trovassero oggetti il ​​cui reciproco
+relazioni fondamentali potrebbero essere espresse da quelle della scienza astratta delle operazioni,
+e che dovrebbero essere anche suscettibili di adattamenti all'azione dell'operatore
+notazione e meccanismo del motore. Supponendo, ad esempio, che la fondamentale
+le relazioni dei suoni acuti nella scienza dell'armonia e della composizione musicale erano
+suscettibile di tale espressione e adattamenti, il motore potrebbe comporre elaborati
+e brani musicali scientifici di qualsiasi grado di complessità o estensione.9
+8 Originariamente Babbage aveva progettato una "macchina" più semplice, che chiamò "Motore di differenza" perché
+è stato in grado di generare automaticamente tabelle degli intervalli (o differenze) tra insiemi di numeri risultanti
+da serie programmate di addizioni progressive. La macchina potrebbe produrre una stampa delle tabelle.
+9 ‘Sketch of The Analytical Engine Invented by Charles Babbage, Esq.’, di L. F. Menabrea, con note di Ada
+Lovelace, ristampato in Charles Babbage, Science and Reform: Selected Works of Charles Babbage, ed.
+Anthony Hyman, CUP, 1989, pp. 243-311, a p. 270. Enfasi nell'originale.
+6
+La prova che la visione di Babbage e Lovelace potrebbe diventare realtà, è stata solo fornita
+di Alan Turing a metà del Novecento. Secondo Turing il suo abstract
+"Macchina di Turing" era in grado di eseguire tutte le funzioni che possono essere calcolate nel
+forma di procedura algoritmica. Moderni computer digitali programmabili elettronici
+che soddisfacevano i requisiti di Turing furono sviluppati per la prima volta negli anni '40.
+Il principio binario è stato utilizzato non solo per i calcoli stessi, ma anche per
+il modo in cui i dati sono stati codificati. Così come i numeri possono essere rappresentati entrambi in a
+binario e in uno decimale, lo stesso vale in linea di principio anche per testo, immagine e
+suono. Nel caso di numeri e testo il numero di caratteri discreti è molto limitato,
+e ogni carattere può essere rappresentato da un numero limitato di bit. Per la scrittura latina, a
+singolo byte (otto bit) può codificare 256 caratteri univoci. Modalità come immagine e suono
+sono più complicati da codificare. Qui il segnale deve essere diviso in qualsiasi arbitrario
+numero di componenti costitutivi. Dividere un'immagine (o un suono) in particelle discrete
+significa che le transizioni non saranno mai continue, ma sempre incrementali. Il numero di
+componenti per unità di segnale (ad esempio, pixel per pollice) decide il realismo del
+rappresentazione binaria: più è meglio è. Ma per quanto alto sia il numero di pixel per
+pollici, il realismo di una rappresentazione digitale non può in linea di principio mai essere uguale a quello di un'analogica
+resa. Nonostante tutte le sue carenze, l'importanza della rappresentazione binaria è tutto
+i dati in tutte le modalità e tutti i calcoli che potrebbero essere applicati ad essi, possono essere codificati
+nello stesso modo binario. Questo fa della "binarietà" l'"elemento" 10 in cui il
+può aver luogo la decantata convergenza di modalità (su cui più nel Capitolo 5).
+La macchina da scrivere è la seconda macchina a funzione singola oltre alla calcolatrice che ha
+è stato di grande importanza nello sviluppo della codifica del testo sul computer. Alcuni dei
+le prime macchine da scrivere sono state progettate per i ciechi, 11 che illustra bene quanto profonda
+il divario può essere tra l'intento di un inventore e l'uso sociale effettivo di un'invenzione. Di
+particolare interesse per il presente argomento è il caso della tastiera. Di tutti i tipi ingegnosi
+sistemi mai progettati 12 fu quello di Christopher Sholes, il creatore del primo
+macchina da scrivere da portare nella produzione commerciale, che divenne lo standard. Questo era il
+tastiera con il noto layout qwerty. 13 L'eredità più importante degli Sholes
+tastiera è che i caratteri trovati sulla sua tastiera ora sono ancora l'edificio atomico
+blocchi di testo sul computer. La tastiera standard del computer non ha accenti
+caratteri, non fa distinzione tra un trattino e un trattino em, o tra i
+punto decimale e punto e manca di tutti i tipi di caratteri speciali: da tipografico
+attraverso la matematica ai segni di valuta. Invece era solo l'aspetto visivo
+deciso se è stato creato un carattere separato.14 La tastiera del computer codifica
+singole lettere in modo binario e le inserisce nel computer. Proprio come su una macchina da scrivere, questo
+viene fatto assegnando un singolo carattere per tasto, anche se quel numero può essere aumentato di
+utilizzando il tasto Maiusc (e sul computer in aggiunta vari tasti funzione).
+10 Il termine è di Michael Heim, da Electric Language, p. 102.
+11 Michael H. Adler, The Writing Machine, Londra, 1973, p. 48.
+12 Adler, La macchina per scrivere, p. 25-90.
+13 Il layout qwerty è ancora in uso in molti paesi, ad esempio in tutto il mondo anglofono. In
+in altri paesi il layout è diverso. La Francia usa la tastiera azerty, mentre la Germania e alcuni orientali
+I paesi europei usano la tastiera qwertz.
+14 Quindi su alcune tastiere non era inclusa la figura 1 separata, la lettera l essendo considerata sufficientemente simile
+in forma.
+7
+Tra i molti sistemi di immissione di testo alternativi fantasiosi e meno fantasiosi che hanno fatto
+Per non farcela va sicuramente citata l'idea di Douglas Engelbart, detto anche il
+inventore del mouse per computer,15 per inserire i 31 caratteri del codice standard a 5 bit di
+la 'telescrivente' (l'antesignana del telex) mediante la pressione simultanea di cinque tasti (25 =
+32). 16 Engelbart lavorò a questo «portatile a cinque tasti» negli anni '60, come parte del suo ambizioso
+Framework for the Augmentation of Man's Intellect framework, che riceverà di più
+attenzione più avanti in questo capitolo. Sebbene l'idea non fosse nuova (nel corso del XIX
+secolo erano già state progettate diverse macchine da scrivere con tastiere tipo pianoforte) e
+sicuramente aveva dei vantaggi, non era contro il dominio che aveva la tastiera qwerty
+allora già acquisito. Era in uso in gran parte del mondo e generazioni di dattilografi
+aveva imparato a digitare alla cieca usando il layout qwerty.
+La macchina da scrivere non ha preso il processo di creazione – montaggio – produzione –
+pubblicazione – distribuzione – consumo oltre la fase di creazione. Si è occupato del
+'data entry' e 'storage' (termini anacronistici per funzioni che in realtà sono state solo create
+dal computer) di un testo, ma potrebbe fare poco per la sua riproduzione, pubblicazione e
+distribuzione.17 Come mezzo questo non distingue sostanzialmente la macchina da scrivere da
+manoscritto, con l'eccezione forse del grado di leggibilità. A tal proposito il
+la macchina da scrivere si avvicina solo in parte al tipo di stampa. Ciò, tuttavia, non ha mantenuto il suo
+inventori dal sottolineare questa proprietà, anche nel caso delle primissime macchine.18 Il
+la lente d'ingrandimento che ho posizionato sopra la fase di creazione e redazione mostra che il
+la macchina da scrivere è un esecutore piuttosto scadente quando si tratta di manipolazione del testo.
+Tra le tecniche più specializzate che sono rilevanti nella storia del
+il computer appartiene sicuramente alla telegrafia, e in particolare al sistema Baudot per l'immissione di testo
+risalente al 1874. Questo è il codice standard a 5 bit già menzionato nella discussione di
+la tastiera. Nonostante il numero limitato di caratteri (un massimo di 32) che potrebbe essere
+crittografato con questo sistema a cinque bit, questa codifica dei caratteri di Emile Baudot (1845-1903)
+rimase ancora in uso nell'ambiente elettronico digitale fino a quando non fu sostituito da ASCII in
+metà degli anni '60. 19 Poiché anche il sistema morse con i suoi punti e trattini è binario,
+Il sistema di codifica di Baudot si prestava particolarmente bene per il trasferimento al computer.
+Un altro dispositivo specializzato per l'elaborazione del testo che merita attenzione è stato il
+macchina di composizione utilizzata nella produzione di stampa. 20 La macchina da scrivere utilizzava il
+la tastiera della macchina da scrivere a suo vantaggio (sebbene la tastiera della macchina da scrivere fosse
+dotato di sostanzialmente più chiavi; il Monotype aveva quattro set completi di qwerty
+tasti, uno ciascuno per romano, corsivo, grassetto e maiuscoletto). Almeno quattro grandi miglioramenti
+15 Vedi Thierry Bardini, Bootstrapping: Douglas Engelbart, Coevolution, and the Origins of Personal
+Informatica, Stanford, 2000, pp. 81-102.
+16 Cfr. Bardini, Bootstrapping, pp. 58-80.
+17 Salvo ovviamente con l'aiuto piuttosto limitato della copia carbone. La macchina per stencil e il duplicatore
+può essere ignorato. Sebbene queste tecniche utilizzino una macchina da scrivere per registrare il testo, la moltiplicazione è a
+passaggio separato, che richiede una duplicatrice.
+18 ‘Un ingegnere britannico, Henry Mill, ottenne il brevetto britannico n. 395 nel 1714 per un dispositivo capace di
+imprimere lettere su carta o pergamena una dopo l'altra "come per iscritto", il prodotto è così pulito e
+esatto da essere indistinguibile dalla stampa» (Adler, The Writing Machine, p. 47).
+19 Bardini, Bootstrapping, pp. 65-79. Si parlerà ancora di ASCII (American Standard for Information
+Interscambio) più avanti in questo capitolo.
+20 Altri sistemi più marginali che si possono citare sono ad esempio quelli utilizzati per la generazione di
+titoli e sottotitoli per film e televisione, sempre più sofisticati col passare del tempo.
+8
+che sono stati applicati in anticipo se non per la prima volta nell'industria della composizione, sono stati di
+grande importanza per lo sviluppo dell'elaborazione digitale di testi. Questi erano l'uso di a
+supporto di memorizzazione, sotto forma di nastro perforato della macchina da composizione Monotype
+dal 1887; l'applicazione della macchina da scrivere tele per la composizione remota tramite il 6-bit
+codice del TeleTypeSetter (TTS) alla fine degli anni '20; l'applicazione del computer nel
+terza generazione di macchine per fotocomposizione dalla fine degli anni '60 e lo sviluppo
+del concetto di markup negli anni '60 e '70, di cui parleremo più avanti.
