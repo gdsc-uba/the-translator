@@ -1,0 +1,66 @@
+Lược sử văn bản và máy tính
+
+1. Vai trò trung tâm của văn bản đối với sự phát triển của máy tính
+
+Máy tính kỹ thuật số có thể lập trình đầu tiên được chế tạo vào những năm 1940. Quá trình xử lý văn bản là
+một thực hành thậm chí còn gần đây hơn, có từ những năm 1960. Chỉ trong những năm 1990,
+máy tính cũng bắt đầu cung cấp một giải pháp thay thế nghiêm túc cho việc phân phối văn bản. Tuy nhiên, ít hơn
+hơn nửa thế kỷ qua máy tính đã tự giới thiệu mình vào cấu trúc của xã hội để
+đến mức nó không thể hoạt động nếu không có chúng. Chương này xem xét cách
+trong một thời gian ngắn máy tính đã đóng một vai trò quan trọng đặc biệt trong
+thế giới văn bản.
+Một số mốc quan trọng trong sự phát triển của những gì đã trở thành kỹ thuật số
+phương tiện văn bản có thể được xác định.
+Vào thế kỷ 19, máy tính toán một mục đích, lần đầu tiên được hình thành để
+có tiềm năng trở thành một Máy vạn năng, có khả năng thực hiện các nhiệm vụ
+có thể được thể hiện bằng một thuật toán. Vào những năm 1940, những chiếc Máy vạn năng đầu tiên là
+được xây dựng. Vào những năm 1960, máy tính như một Máy vạn năng đã được kích hoạt để xử lý văn bản,
+điều này đã cho nó một vai trò trong giai đoạn tạo văn bản. Trong những năm 1980, người-máy đồ họa
+giao diện của máy tính đã tăng cường đáng kể khả năng cho kiểu chữ
+kết xuất văn bản. Nó cho phép máy tính đóng một vai trò trung tâm trong việc sản xuất
+vật chất in. Giao diện đồ họa cũng mở đường cho sự cùng tồn tại của hai
+các cách khác nhau để xử lý văn bản bằng kỹ thuật số: lôgic và kiểu đánh máy.
+• Vào thế kỷ 19, máy tính toán một mục đích, lần đầu tiên được hình thành
+có tiềm năng trở thành một Máy vạn năng, có khả năng thực hiện các nhiệm vụ
+điều đó có thể được thể hiện bằng một thuật toán.
+• Vào những năm 1940, những Máy vạn năng đầu tiên được chế tạo.
+• Vào những năm 1960, máy tính như một Máy vạn năng đã được kích hoạt để xử lý văn bản,
+đã cho nó một vai trò trong giai đoạn tạo văn bản.
+• Trong những năm 1980, giao diện đồ họa người-máy của máy tính đã được cải tiến đáng kể
+khả năng hiển thị văn bản theo kiểu đánh máy. Nó cho phép máy tính chơi
+một vai trò trung tâm trong quá trình sản xuất ấn phẩm. Giao diện đồ họa cũng mở ra
+cách để cùng tồn tại hai cách khác nhau để xử lý văn bản kỹ thuật số: lôgic và
+đánh máy.
+• Vào những năm 1990, máy tính đã được đưa vào một mạng, điều này đã mở rộng vai trò của nó như một
+công cụ giao tiếp từ công cụ hỗ trợ sản xuất vật liệu in tương tự đến
+một phương tiện kỹ thuật số hoàn toàn mới theo đúng nghĩa của nó, cũng bao gồm phân phối và
+sự tiêu thụ.
+Trong ‘mạch thông tin liên lạc’ của mình, Robert Darnton đã khái niệm hóa toàn bộ
+quá trình truyền tải sách và các dạng văn bản in khác vì nó đã hoạt động trong một số
+thế kỉ. Mô hình này hình dung một quá trình trong đó các tác nhân liên tiếp khác nhau hoạt động
+1 Xem Robert Darnton, ‘Lịch sử của những cuốn sách là gì’, Daedalus, Summer 1982, trang 65-83.
+2
+cùng nhau dưới những điều kiện văn hóa, kinh tế và chính trị khác nhau để phổ biến một
+văn bản của tác giả để nó có thể tiếp cận người đọc. Đặt mạch liên lạc trên
+Quá trình truyền tải văn bản kỹ thuật số mô hình này sẽ xác định những điểm giống và khác nhau
+(hoặc sự liên tục và không liên tục) giữa phương tiện kỹ thuật số mới và người tiền nhiệm của nó
+phương tiện in.
+Quá trình công khai và phổ biến chúng bao gồm nhiều
+các giai đoạn riêng biệt. Những điều này gần như tương ứng với những gì được xác định trong thông tin liên lạc
+mạch: tạo ra văn bản (viết), tiếp theo là tạo ra nó (nhân),
+phân phối (thời điểm văn bản được công khai), và cuối cùng là tiêu thụ (đọc).
+Tuy nhiên, để kiểm tra các giai đoạn khác nhau trong quá trình phát triển vai trò của máy tính trong
+chuyển văn bản chặt chẽ hơn, tôi muốn đề xuất một điều chỉnh nhỏ cho chuỗi này
+của các giai đoạn. Tôi muốn đặt một kính lúp lên liên kết đầu tiên trong chuỗi,
+'Giai đoạn sáng tạo', là giai đoạn mà nội dung và hình thức của văn bản không
+đã được hoàn thiện. Bên cạnh việc viết văn bản của tác giả, giai đoạn này cũng bao gồm
+chỉnh sửa, cho dù điều này được thực hiện bởi tác giả hay bởi một người nào đó thay mặt cho họ (đối với
+ví dụ về trình biên tập của nhà xuất bản). Về mặt kỹ thuật, điều này có nghĩa là phân biệt giữa (a)
+nhập văn bản, (b) ghi văn bản, và (c) thao tác với văn bản khi nó đã được nhập.
+Nhận ra tính linh hoạt này trong giai đoạn tạo, bao gồm viết và chỉnh sửa trong bất kỳ
+số lần lặp lại, giúp dễ dàng theo dõi sự phát triển vai trò của máy tính trong
+quá trình viết. Có thể nhận ra gần ba giai đoạn trong quá trình phát triển đó. Những phần này
+chồng chéo lên nhau, nhưng về cơ bản chúng đủ khác nhau để xử lý chúng một cách riêng biệt. Các
+các giai đoạn là (1) biểu diễn văn bản trên máy tính (nhập, ghi, lưu trữ), (2)
+thao tác với văn bản được lưu trữ cho các ứng dụng khoa học và chuyên nghiệp, và (3) thực tế
+xử lý văn bản trên máy tính, như một sự hỗ trợ trong suy nghĩ và viết của tác giả p

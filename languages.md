@@ -25,3 +25,4 @@
 - [PORTUGUESE](./Translations/portuguese.txt)
 - [KURDISH](./Translations/kurdish.txt)
 - [ITALIAN](./Translations/italian.txt)
+- [VIETNAMESE](./Translations/vietnamese.txt)
