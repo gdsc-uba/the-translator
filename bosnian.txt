@@ -1,0 +1,127 @@
+Kratka istorija teksta i kompjutera
+
+1. Centralna uloga teksta u razvoju računara
+
+Prvi programabilni digitalni računar izgrađen je 1940-ih. Obrada teksta je
+
+još novija praksa, koja datira iz 1960-ih. Tek 1990-ih godina
+
+kompjuter je takođe počeo da nudi ozbiljnu alternativu za distribuciju tekstova. Ipak u manje
+
+više od pola veka kompjuteri su se uvukli u strukturu društva da
+
+do te mjere da ne bi mogao funkcionirati bez njih. Ovo poglavlje ispituje kako
+
+kompjuter je u tako kratkom vremenu počeo igrati tako dominantnu ulogu posebno u
+
+tekstualni svijet.
+
+Neke glavne prekretnice u razvoju onoga što je od tada postalo digitalno
+
+tekstualni medij se može identificirati.
+
+U devetnaestom veku je prvi put zamišljena jednonamenska računska mašina
+
+imaju potencijal da se pretvore u univerzalnu mašinu, sposobnu da obavlja zadatke koji
+
+može se izraziti putem algoritma. 1940-ih su bile prve univerzalne mašine
+
+izgrađen. Šezdesetih godina prošlog vijeka kompjuter je kao univerzalna mašina bio osposobljen za obradu teksta,
+
+što mu je dalo ulogu u fazi stvaranja teksta. Osamdesetih godina prošlog stoljeća grafički čovjek–mašina
+
+Interfejs računara je uveliko poboljšao mogućnosti za tipografiju
+
+prikazivanje teksta. To je omogućilo kompjuteru da igra centralnu ulogu u proizvodnji
+
+štampani materijal. Grafički interfejs je takođe otvorio put za koegzistenciju dvoje
+
+različiti načini digitalnog tretiranja teksta: logički i tipografski.
+
+• U devetnaestom veku je prvi put zamišljena jednonamenska računska mašina
+
+da ima potencijal da se pretvori u univerzalnu mašinu, sposobnu da obavlja zadatke
+
+koji se može izraziti putem algoritma.
+
+• 1940-ih su napravljene prve univerzalne mašine.
+
+• Šezdesetih godina prošlog veka kompjuter je kao univerzalna mašina bio osposobljen da obrađuje tekst, koji
+
+dao mu ulogu u fazi stvaranja teksta.
+
+• Osamdesetih godina prošlog veka grafički interfejs čovek-mašina računara je značajno poboljšan
+
+mogućnosti za tipografsko prikazivanje teksta. To je omogućilo kompjuteru da igra
+
+centralnu ulogu u proizvodnji štampanih materijala. Grafički interfejs je takođe popločao
+
+način za koegzistenciju dva različita načina digitalnog tretiranja teksta: logičkog i
+
+tipografski.
+
+• Devedesetih godina prošlog veka računar je uključen u mrežu, što je povećalo njegovu ulogu kao a
+
+komunikacijski alat od pomagala za proizvodnju analognih tiskanih materijala do
+
+novi, potpuno digitalni medij za sebe, koji također uključuje distribuciju i
+
+potrošnja.
+
+U svom 'komunikacijskom krugu'1 Robert Darnton je konceptualizirao cjelinu
+
+proces prenosa knjiga i drugih štampanih tekstualnih oblika kako je funkcionisao nekoliko puta
+
+vekovima. Ovaj model vizualizira proces u kojem rade različiti uzastopni akteri
+
+1 Vidi Robert Darnton, 'Šta je istorija knjiga', Daedalus, ljeto 1982, str. 65-83.
+
+2
+
+zajedno pod različitim kulturnim, ekonomskim i političkim uslovima za širenje
+
+autorskog teksta kako bi mogao doći do svojih čitalaca. Polaganje komunikacijskog kruga preko
+
+proces prijenosa digitalnog teksta ovaj model će identificirati sličnosti i razlike
+
+(ili kontinuiteta i diskontinuiteta) između novog digitalnog medija i njegovog prethodnika
+
+medijum za štampanje.
+
+Proces objavljivanja tekstova i njihovog širenja obuhvata različite
+
+različite faze. Oni otprilike odgovaraju onima identificiranim u komunikaciji
+
+kolo: stvaranje teksta (pisanje), nakon čega slijedi njegova proizvodnja (množenje),
+
+distribucija (u trenutku kada je tekst objavljen), i na kraju potrošnja (čitanje).
+
+Međutim, ispitati različite faze u razvoju uloge računara u
+
+Prenošenje teksta bliže, predložio bih jednu malu adaptaciju ovog lanca
+
+faza. Želio bih da stavim lupu preko prve karike u lancu,
+
+„faza stvaranja“, odnosno faza u kojoj sadržaj i forma teksta nisu
+
+završeno. Osim pisanja teksta od strane autora, ova faza obuhvata i njegovu
+
+uređivanje, bilo da to radi autor ili neko ko djeluje u njegovo ili njeno ime (za
+
+primjer urednik izdavača). Tehnički, ovo znači praviti razliku između (a)
+
+unos teksta, (b) snimanje teksta i (c) manipulacija tekstom nakon što je unet.
+
+Prepoznajući ovu fluidnost u fazi kreiranja, koja uključuje pisanje i uređivanje u bilo kojoj
+
+broj iteracija, olakšava praćenje razvoja uloge računara u
+
+proces pisanja. U tom razvoju mogu se prepoznati otprilike tri faze. Ove djelimično
+
+preklapaju, ali su dovoljno različiti da ih tretiramo odvojeno. The
+
+faze su (1) predstavljanje teksta na računaru (unos, snimanje, skladištenje), (2)
+
+manipulacija pohranjenim tekstom za naučne i stručne primjene i (3) stvarni
+
+obrada teksta na računaru, kao pomoć u autorskom razmišljanju i pisanju str
