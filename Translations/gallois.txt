@@ -1,0 +1,324 @@
+Hanes Byr o'r Testun a'r Cyfrifiadur
+
+1. Rôl ganolog testun yn natblygiad y cyfrifiadur
+
+Adeiladwyd y cyfrifiadur digidol rhaglenadwy cyntaf yn y 1940au. Mae prosesu testun yn
+arfer hyd yn oed yn fwy diweddar, yn dyddio o'r 1960au. Dim ond yn y 1990au y daeth y
+dechreuodd cyfrifiadur hefyd gynnig dewis arall difrifol ar gyfer dosbarthu testunau. Eto mewn llai
+na hanner canrif o gyfrifiaduron wedi insinuated eu hunain i mewn i wead cymdeithas i
+i'r fath raddau fel na allai weithredu hebddynt. Mae'r bennod hon yn archwilio sut y mae'r
+cyfrifiadur wedi dod i chwarae rhan mor flaenllaw yn benodol mewn amser mor fyr
+y byd testunol.
+Rhai cerrig milltir mawr yn natblygiad yr hyn sydd wedi dod yn ddigidol ers hynny
+gellir adnabod cyfrwng testunol.
+Yn y bedwaredd ganrif ar bymtheg y ddyfeisiwyd y peiriant cyfrifo un-bwrpas am y tro cyntaf
+â'r potensial i gael ei droi'n Beiriant Cyffredinol, sy'n gallu cyflawni tasgau sy'n
+gellir ei fynegi ar ffurf algorithm. Yn y 1940au roedd y Peiriannau Cyffredinol cyntaf
+adeiledig. Yn y 1960au galluogwyd y cyfrifiadur fel Peiriant Cyffredinol i brosesu testun,
+a roddodd rôl iddo yn y cyfnod creu testun. Yn yr 1980au y dyn-peiriant graffigol
+rhyngwyneb y cyfrifiadur yn gwella'n fawr y posibiliadau ar gyfer y teipograffeg
+rendro testun. Roedd yn galluogi'r cyfrifiadur i chwarae rhan ganolog wrth gynhyrchu
+mater printiedig. Roedd y rhyngwyneb graffig hefyd yn paratoi'r ffordd ar gyfer cydfodolaeth dau
+gwahanol ffyrdd o drin testun yn ddigidol: y rhesymegol a'r teipograffyddol.
+• Yn y bedwaredd ganrif ar bymtheg y lluniwyd y peiriant cyfrifo un-bwrpas am y tro cyntaf
+i fod â'r potensial i gael ei droi'n Beiriant Cyffredinol, sy'n gallu cyflawni tasgau
+gellir mynegi hynny ar ffurf algorithm.
+• Yn y 1940au adeiladwyd y Peiriannau Cyffredinol cyntaf.
+• Yn y 1960au galluogwyd y cyfrifiadur fel Peiriant Cyffredinol i brosesu testun, sy'n
+rhoddodd rôl iddo yn y cyfnod creu testun.
+• Yn y 1980au gwellodd rhyngwyneb graffigol dyn-peiriant y cyfrifiadur yn fawr
+y posibiliadau ar gyfer rendrad teipograffyddol testun. Roedd yn galluogi'r cyfrifiadur i chwarae
+rôl ganolog wrth gynhyrchu deunydd printiedig. Roedd y rhyngwyneb graffeg hefyd yn palmantu'r
+ffordd ar gyfer cydfodolaeth dwy ffordd wahanol o drin testun yn ddigidol: y rhesymegol a'r
+argraffyddol.
+• Yn y 1990au cynhwyswyd y cyfrifiadur mewn rhwydwaith, a ehangodd ei rôl fel a
+offeryn cyfathrebu o'r hyn o gymorth ar gyfer cynhyrchu deunydd printiedig analog i
+cyfrwng newydd, cwbl ddigidol yn ei rinwedd ei hun, sydd hefyd yn cynnwys dosbarthu a
+treuliant.
+Yn ei ‘gylchdaith gyfathrebu’1 mae Robert Darnton wedi cysyniadoli’r cyfan
+proses drosglwyddo llyfrau a ffurfiau testun printiedig eraill fel y mae wedi gweithredu i sawl un
+canrifoedd. Mae'r model hwn yn delweddu proses y mae actorion amrywiol olynol yn gweithio ynddi
+1 Gweler Robert Darnton, ‘Beth yw Hanes Llyfrau’, Daedalus, Haf 1982, tt. 65-83.
+2
+ynghyd o dan amodau diwylliannol, economaidd, a gwleidyddol amrywiol i ledaenu a
+testun yr awdur fel y gall gyrraedd ei ddarllenwyr. Gosod y gylched cyfathrebu dros y
+proses trosglwyddo testun digidol bydd y model hwn yn nodi'r tebygrwydd a'r gwahaniaethau
+(neu barhad a diffyg parhad) rhwng y cyfrwng digidol newydd a'i ragflaenydd
+y cyfrwng print.
+Mae'r broses o wneud testunau'n gyhoeddus a'u lledaenu yn cynnwys amrywiol
+cyfnodau gwahanol. Mae'r rhain yn cyfateb yn fras i'r rhai a nodwyd yn y cyfathrebiadau
+cylched: creu'r testun (ysgrifennu), ac yna ei gynhyrchu (lluosi),
+dosbarthu (yr eiliad y mae'r testun yn cael ei wneud yn gyhoeddus), ac yn olaf defnydd (darllen).
+Fodd bynnag, i archwilio'r gwahanol gamau yn natblygiad rôl y cyfrifiadur yn
+trosglwyddo testun yn agosach, hoffwn gynnig un addasiad bach i'r gadwyn hon
+o gamau. Hoffwn osod chwyddwydr dros y ddolen gyntaf yn y gadwyn, y
+‘cam creu’, sef y cyfnod pan nad yw cynnwys a ffurf y testun wedi gwneud hynny
+wedi'i gwblhau. Heblaw am ysgrifennu'r testun gan yr awdur mae'r cyfnod hwn hefyd yn cynnwys ei
+golygu, p’un a yw hyn yn cael ei wneud gan yr awdur neu gan rywun sy’n gweithredu ar ei ran (ar gyfer
+er enghraifft golygydd y cyhoeddwr). Yn dechnegol, mae hyn yn golygu gwahaniaethu rhwng (a)
+mewnbynnu testun, (b) recordio testun, a (c) trin y testun ar ôl iddo gael ei fewnbynnu.
+Cydnabod yr hylifedd hwn yn y cam creu, gan gynnwys ysgrifennu a golygu mewn unrhyw
+nifer o iteriadau, yn ei gwneud yn haws olrhain datblygiad rôl y cyfrifiadur yn y
+broses ysgrifennu. Gellir cydnabod tua thri cham yn y datblygiad hwnnw. Y rhain yn rhannol
+gorgyffwrdd, ond maent yn sylfaenol ddigon gwahanol i'w trin ar wahân. Mae'r
+camau yw (1) cynrychioli testun ar y cyfrifiadur (mynediad, cofnodi, storio), (2) y
+trin testun wedi'i storio ar gyfer cymwysiadau gwyddonol a phroffesiynol, a (3) y gwir
+prosesu geiriau ar y cyfrifiadur, fel cymorth yn y broses meddwl ac ysgrifennu awdurdodol.
+Ymhlith y cymwysiadau cyfrifiadurol mwyaf poblogaidd heddiw mae sgwrsio, gair
+prosesu, e-bostio a phori Gwe, pob gweithgaredd testun. Ond hefyd y tu allan i'r rhain
+cymwysiadau testun testun yw'r allwedd i'n defnydd o gyfrifiaduron. Mewn pob rhifyddol, dadansoddol, cyfryngol
+a chymwysiadau eraill y mae'r cyfrifiadur fel peiriant cyffredinol yn addas ar eu cyfer, mae gan destun
+lle canolog. Ar y We Fyd Eang - ac ar y Rhyngrwyd yn gyffredinol - testun yw'r mwyaf
+ffordd gyffredin o drefnu, chwilio a dod o hyd i wybodaeth, hyd yn oed pan fydd y wybodaeth honno ei hun
+nid yw'n destun ond, er enghraifft, yn ffeil gerddoriaeth neu'n ddelwedd. Ym mhob ymdriniaeth feunyddiol â'r
+mae testun cyfrifiadurol yn darparu'r prif ryngwyneb, y system weithredu yn ogystal â'r
+ceisiadau. Mae ffeiliau'n cael eu henwi ac yn sownd mewn ffolderi, sydd eto'n cael eu henwi gan ddefnyddio testun. Ond
+hefyd y tu hwnt i'r math hwn o ddefnydd dyddiol defnyddwyr mae iaith yn sail i bob peiriant dynol
+rhyngweithio. Mae pob iaith raglennu fodern yn defnyddio iaith naturiol. Hefyd
+marcio (un o'r ffyrdd pwysicaf o amgodio testun ar y cyfrifiadur - a'r
+sail dechnegol cyhoeddi ar y We Fyd Eang) yn arfer cwbl destunol.
+Yn y bennod flaenorol disgrifiais sut mae cymdeithas y gorllewin yn cael ei saethu drwodd gyda'r
+arwyddocâd cymdeithasol a diwylliannol llyfrau fel y prif fodd i drosglwyddo gwybodaeth. mae gen i
+a elwir hyn yn Drefn y Llyfr. Yn erbyn y cefndir hwn mae'n ymddangos yn naturiol yn unig, ac mewn
+ffaith bron yn anochel, bod y cyfrifiadur i gael ei ddefnyddio ar gyfer cyfathrebu testunol fel
+cyn gynted ag y daeth hyn yn bosibl, ac y daeth yr holl ryngweithio dynol-cyfrifiadur yn a
+perthynas destunol. Yn wir, yr awydd a gofleidiwyd gan y prosesydd geiriau yn y
+Mae'n ymddangos bod y 1980au yn cadarnhau'r syniad hwnnw. O ystyried amlygrwydd cymwysiadau sy'n seiliedig ar destun yn
+3
+defnydd poblogaidd cyfrifiadur heddiw, mae'r cwestiwn hyd yn oed yn cyflwyno ei hun pam oedd y cyfrifiadur
+wedi'i ddyfeisio fel peiriant cyfrifo yn hytrach na pheiriant iaith. Fel y mae, y cyfrifiadur
+yn parhau i orfod ailgyfrifo'r holl ddata testunol a chyfarwyddiadau yr ydym yn ei fwydo iddynt
+dim ond unedau ystyrlon y mae'n eu gwybod: rhai a sero. Pam na fyddai'n bosibl
+cyfrifo gydag iaith ei hun? Gall y syniad ymddangos yn ddieithrach nag ydyw. Ei holl fywyd
+Parhaodd Wilhelm Leibniz i gredu mewn adeiladu iaith sy'n cynnwys rhesymeg
+symbolau y gellid eu trin â chyfrifiannell. Iaith o'r fath, a
+peiriant i ‘gyfrifo’ byddai’n galluogi unrhyw ddadl athronyddol i gael ei setlo gyda’r clic
+o fotwm. 2 Nid yw breuddwyd Leibniz wedi’i chyflawni o hyd, yn gymaint oherwydd y cyfryw
+nid yw system resymegol o symbolau yn hyfyw.3 Y broblem wirioneddol yw bod y lliwiau cynnil o
+sy'n golygu y gallwn—ac eisiau gallu—mynegi ag iaith ddynol naturiol yn syml
+ddim yn agored i gael ei leihau i system o symbolau rhesymegol.
+Sero a rhai yr oedd, felly. Er mwyn cyfleustra, pa fodd bynag, y teimlwyd Mr
+angenrheidiol i ddyfeisio ffordd o daflu cyfarwyddiadau i'r cyfrifiadur i mewn i ddealladwy dynol
+siâp. Felly mae gan linellau rhaglen, bwydlenni, enwau ffeiliau ac ati bellach ddyn-.
+ffurf ddarllenadwy, hyd yn oed os tu ôl i'r llenni mae'r cyfrifiadur yn dal i gyfrifo gyda'r unig un
+rhifau mae'n eu gwybod: rhai a sero. Nid oes unrhyw ddefnyddiwr nawr yn stopio i feddwl bod pob trawiad bysell
+trosi'n gyfres o rifau deuaidd. Yn wir, yn ein hiaith canfyddiad yw y
+ffordd sylfaenol yr ydym yn delio â'r cyfrifiadur heddiw. Mae'r niferoedd y mae'r cyfrifiadur
+mae'n ymddangos nad yw crunches yn chwarae dim mwy na rôl isradd; mae'r niferoedd yn ymddangos
+dawnsio i dôn y testun. Ond unwaith roedd y gwrthwyneb yn arfer bod a, meddwl o
+calon ddeuaidd y cyfrifiadur, roedd y cwest am ffordd i gynrychioli llythyrau.
+O ystyried pwysigrwydd aruthrol testun ar gyfer defnydd dyddiol cyfartalog o gyfrifiaduron, y mae
+yn drawiadol faint o ymdrech a gymerodd cyn y gallai'r cyfrifiadur ddelio â thestun mewn gwirionedd.
+Sut y digwyddodd y broses honno a pham y cymerodd gymaint o amser? Pa ffactorau a rwystrodd a
+ei hysgogi: dyluniad a siawns, effeithiau anfwriadol, methiant yr effeithiau bwriadedig, ac ati
+Bydd y bennod yn ail-greu'r broses honno yn fras.
+Mae'r testun hwnnw wedi dod i gymryd safle canolog ar y cyfrifiadur yn ymddangos ar yr olwg gyntaf
+i fod yn naturiol yn unig - adlewyrchiad o bwysigrwydd testun mewn cymdeithas. Ar yr un pryd rhai
+sylwebyddion yn nodi bod testun mewn gwirionedd yn dechrau colli ei amlygrwydd.4 Maent yn
+amlwg ddim yn awgrymu ein bod ar fin cymryd rhan mewn cyfnewid data deuaidd uniongyrchol gyda
+y cyfrifiadur, neu y mae bodau dynol wedi cael hyfforddiant a phrofiad enfawr ynddo yn ddiweddar
+rhesymeg symbolaidd. Yr hyn y maent yn ei olygu yw bod dulliau eraill yn arbennig yn ychwanegol at y testun
+delweddau, yn chwarae rhan gynyddol bwysig mewn cyfathrebu digidol, fel mewn cymdeithas
+yn gyffredinol. Cyfeirir at hyn yn aml fel goruchafiaeth diwylliant gweledol. 5 Un syml
+efallai mai’r esboniad am y cynnydd hwnnw mewn dulliau eraill yw mai’r cyfrwng digidol sy’n ei wneud
+hawdd, o ganlyniad i'r cydgyfeiriant a nodwyd ym Mhennod 2, i integreiddio dulliau megis
+2 Yn Y Courtier a'r Heretic: Leibniz, Spinoza, a Thynged Duw yn y Byd Modern (Efrog Newydd
+a Llundain, 2006, t. 79), Rhydd Matthew Stewart hanes y ddelfryd hon o Leibniz.
+3 Mae Principia Mathematica (1910-1913) gan Alfred North Whitehead a Bertrand Russell yn dystiolaeth drawiadol.
+hynny yw, hyd yn oed os yw Douglas Hofstadter yn iawn gyda’i ddehongliad o oblygiadau Kurt Gödel
+erthygl ffrwydrol yn 1931 am dynged caer Russel, a oedd yn ei farn ef yn anorchfygol (gw. Douglas
+Hofstadter, I Am a Strange Loop, Efrog Newydd, 2007, Pennod 10).
+4 Steve Johnson, Diwylliant Rhyngwyneb: Sut Mae Technoleg Newydd yn Trawsnewid y Ffordd Rydym yn Creu a
+Mae Communicate (Efrog Newydd, 1997, gweler tt. 148-52), yn un o'r eithriadau.
+5 Gweler, er enghraifft, Mitchell Stephens, The Rise of the Image, the Fall of the Word.
+4
+delweddau a sain mewn testun. Ond nid yw'r syniad o ddiwylliant gweledol mor newydd â hynny, ac yn sicr
+rhag dyfodiad y cyfrifiadur. O ddechrau'r ugeinfed ganrif mewn llawer
+lleoedd yn y byd mae pob math o ieithoedd gweledol wedi'u cynllunio ar gyfer arwyddion, pecynnu
+a ffurfiau eraill o gyfathrebu. 6 Yng nghanol y ganrif ddiwethaf De la Fontaine
+Mae Verwey yn canfod yn ei gyfraniad i Gopïo ac Argraffu yn yr Iseldiroedd fod y ddelwedd,
+‘[s]wedi’i ddisodli am gyfnod gan y llyfr’, ‘wedi ailafael yn ei hawliau hynafol ac yn ymwneud â
+cyflawni gorchwylion sydd wedi eu cyflawni ers canrifoedd gan y gair printiedig.’7
+Nid yn unig mae'r arwyddion bod testun yn dechrau colli ei amlygrwydd yn hytrach
+llewygu, mae'n debyg bod rôl testun wedi'i chryfhau ar yr un pryd mewn ffyrdd eraill, megis
+fel rhyngwyneb testunol i raddau helaeth y cyfrifiadur a'r Rhyngrwyd, ond hefyd y
+poblogrwydd hynod o anfon negeseuon testun ar y ffôn symudol. I farnu yn ôl poblogrwydd
+rhwydweithiau cymdeithasol, blogiau a'r swyddogaeth sylwadau ar gynifer o wefannau, mae'n bosibl iawn mai dyma'r swyddogaeth
+achos bod mwy o bobl yn ysgrifennu - o leiaf gyda math o gyhoeddiad mewn golwg - nag erioed o'r blaen.
+Nid yw'r ffenomen o reidrwydd yr un mor weladwy bob amser, fodd bynnag. Enghraifft o lai
+defnydd uniongyrchol weladwy o destun yw'r ffordd y mae geiriau allweddol yn cael eu neilltuo i ddelweddau a sain mewn trefn
+i allu chwilio amdanynt. Gall hyn fod yn ffenomen dros dro tra bod y chwiliadwy
+o ddelweddau a sain trwy ddelweddau eraill ac mae sain eto yn ei fabandod. Am y tro
+bod ar unrhyw gyfradd y byd digidol cyfan - gan gynnwys gemau a sgwrsio - yn cael ei gyrchu gan
+modd testun.
+Os ydyw y berthynas rhwng testun a moddion ereill yn wir gyfnewidiol, y
+Nid yw newid, hyd yn hyn o leiaf, yn ymddangos yn arbennig o llym. Serch hynny, mewn hanesyddol hirach
+persbectif mae'n bosibl iawn y gellir dychmygu sefyllfa lle nad oes angen i'r testun fod fwyaf o reidrwydd
+ffyrdd pwysig o gyfathrebu. Dychwelaf at y dyfalu hwn ym Mhennod 6.
+2. Hanes cyfrifiaduron a chyfrifiadura
+Ar y dechrau, ychydig iawn o dystiolaeth oedd o’r rôl bwysig yr oedd testun i’w chwarae yn y digidol
+byd. Mae hanes dyfodiad testun i'r cyfrifiadur yn dechrau gyda dau brif
+llamau datblygiadol yn hanes y cyfrifiadur ei hun. Mae dau yn arbennig yn bwysig:
+(a) o beiriannau sydd ag un swyddogaeth yn unig i beiriannau aml-swyddogaeth, a (b) hynny
+o beiriannau mecanyddol i electronig, digidol. Yn y categori o beiriannau gyda dim ond
+un swyddogaeth, dau yn arbennig o berthnasol i hanes y cyfrifiadur fel peiriant
+ar gyfer prosesu testun. Y cyntaf yw'r gyfrifiannell, sy'n dal i ffurfio calon pob un
+cyfrifiadur. Yr ail yw'r teipiadur, a gyflwynodd, yn siâp y bysellfwrdd, y
+prif ddulliau mewnbwn ar gyfer y cyfrifiadur heddiw. Yn ogystal, mae yna nifer o fwy
+peiriannau arbenigol, y byddaf hefyd yn sôn yn fyr amdanynt.
+Mae hanes y gyfrifiannell fel rhagredegydd y cyfrifiadur yn mynd yn ôl rhyw bedwar
+6 Roedd cred enfawr ym mhotensial delweddau (ar ffurf pictogramau ac eiconau, ond hefyd
+ystadegau seiliedig ar ddelwedd) wrth hyrwyddo trosglwyddo gwybodaeth yn effeithlon. Mae arbennig o amlwg a
+eiriolwr diflino dros ddefnyddio graffeg gwybodaeth oedd Otto Neurath, dyfeisiwr yr Isoteip
+(System Ryngwladol Addysg Lluniau Teipograffeg) symbolau yn y 1920au. Wedi ffoi o'i frodor
+Awstria yn y 1930au sefydlodd Sefydliad Rhyngwladol Addysg Weledol yn yr Hâg, ac yn ddiweddarach
+yr Isotype Institute yn Rhydychen.
+7 H. de la Fontaine Verwey, ‘Yr ugeinfed ganrif’, yn W. Gs Hellinga, Copi ac Argraffu yn yr Iseldiroedd:
+Atlas o Lyfryddiaeth Hanesyddol, Amsterdam, 1962, tt. 59-67, ar t. 59.
+5
+canrifoedd. Yn 1623 gwnaeth Wilhelm Schickard (1592-1635) o Tübingen ‘gyfrif 6-did’.
+cloc’, a allai adio a thynnu. Galwodd ei beiriant yn gloc oherwydd y peiriannau
+oedd yn atgof o un. Roedd yr offeryn yn gwbl fecanyddol. Pan hanner canrif yn ddiweddarach
+Dechreuodd Wilhelm Leibniz weithio allan ei syniad am gyfrifiannell ddigidol, roedd yn llawer iawn
+mwy uchelgeisiol. Roedd ei beiriant i allu prosesu symbolau rhesymegol cyffredinol. Yn
+er gwaethaf ei uchelgais a'i ymroddiad di-rwystr, ni lwyddodd erioed i fynd y tu hwnt i fath o
+cyfrifiannell poced mecanyddol a allai adio, tynnu, lluosi a rhannu. Fel Leibniz
+yn yr ail ganrif ar bymtheg, y mathemategydd Prydeinig Charles Babbage yn y bedwaredd ar bymtheg
+Roedd gan ganrif y weledigaeth y gellid defnyddio cyfrifianellau at ddibenion heblaw gwneud
+cyfrifiadau rhifiadol. Yn y canrifoedd cyfamserol gwybodaeth wyddonol ac offeryn
+roedd sgiliau gwneud wedi datblygu cymaint fel yr oedd Babbage yn gallu ei roi ar waith
+ei syniadau ymhellach na'i ragflaenwyr. Er na adeiladodd Babbage fwy na rhannau o
+ei ‘Analytical Engine’, 8 ar gryfder ei gynllun y gellir ei ystyried fel creawdwr
+y Peiriant Cyffredinol cyntaf. Fel cyfrifianellau Schickard a Leibniz, yr oedd yn hollol
+mecanyddol (roedd i'w bweru gan stêm) ac yn defnyddio degol yn lle digidol
+niferoedd, ond roedd yn rhaglenadwy, yn gwahanu'r data oddi wrth y rhaglen, ac yn gallu
+o ddolenni a changhennau amodol. Roedd hynny'n fwy nag yr oedd y rhan fwyaf o gyfrifiaduron yn gallu ei wneud
+hyd yn oed ganrif yn ddiweddarach. Roedd Babbage hyd yn oed yn ystyried allforio canlyniad cyfrifiadau
+i gardiau pwnio. Byddai'r syniad hwn, a ysbrydolwyd gan y gwydd Jacquard, wedi galluogi'r
+peiriant ysgrifennu a storio ei raglenni ei hun.
+Charles Babbage gafodd y weledigaeth; Ada, Iarlles Lovelace, cyd-fathemategydd
+yr hwn a'i clywodd yn esbonio arno un noson dros ginio, oedd un o'r ychydig iawn o bobl
+deall ei oblygiadau. Cydnabod hynny ar lefel uwch o gyfrifiadura tynnu
+nid oedd yn cyfrif ond trin symbolau, aeth ati i ddyfeisio nifer o
+algorithmau a allai fod wedi cael eu gweithredu gan y Peiriant Dadansoddol erioed
+wedi ei adeiladu. Pan gyfieithodd Lovelace erthygl ar y Analytical Engine gan yr Eidalwr
+ychwanegodd mathemategydd a pheiriannydd milwrol Luigi Menabrea rai percipient iawn
+nodiadau ei hun, yn cyfateb i ddwywaith hyd yr erthygl wreiddiol. Yn y nodiadau hyn hi
+wedi rhagweld yn gywir y gellid defnyddio peiriant fel y Peiriant Dadansoddol i gyfansoddi
+cerddoriaeth, cynhyrchu graffeg, a pherfformio amrywiaeth o dasgau gwyddonol:
+[Ni allwn weithredu ar bethau eraill heblaw rhif, pe ceid gwrthrychau y byddai eu gilydd
+gallai cysylltiadau sylfaenol gael eu mynegi gan wyddor haniaethol gweithrediadau,
+ac a ddylai hefyd fod yn agored i addasiadau i weithrediad y gweithrediad
+nodiant a mecanwaith yr injan. Gan dybio, er enghraifft, bod y sylfaenol
+roedd cysylltiadau seiniau traw yng ngwyddoniaeth harmoni a chyfansoddiad cerddorol
+yn agored i fynegiant ac addasiadau o'r fath, gallai'r injan gyfansoddi'n gywrain
+a darnau gwyddonol o gerddoriaeth o unrhyw raddfa o gymhlethdod neu raddau.9
+8 Yn wreiddiol roedd Babbage wedi dylunio ‘peiriant’ symlach, a’i enwi’n ‘Injan Gwahaniaeth’ oherwydd hynny
+yn gallu cynhyrchu tablau yn awtomatig o'r cyfnodau (neu wahaniaethau) rhwng setiau o rifau o ganlyniad
+o gyfresi rhaglenedig o ychwanegiadau blaengar. Gallai'r peiriant gynhyrchu print o'r byrddau.
+9 ‘ Braslun o’r Injan Ddadansoddol a Ddyfeisiwyd gan Charles Babbage, Ysw.’, gan L. F. Menabrea, gyda nodiadau gan Ada
+Lovelace, adargraffwyd yn Charles Babbage, Science and Reform: Selected Works of Charles Babbage, gol.
+Anthony Hyman, CUP, 1989, tt. 243-311, ar t. 270. Pwyslais yn y gwreiddiol.
+6
+Dim ond tystiolaeth y gallai gweledigaeth Babbage a Lovelace ddod yn realiti a gyflwynwyd
+gan Alan Turing yng nghanol yr ugeinfed ganrif. Yn ôl Turing ei grynodeb
+Roedd ‘peiriant Turing’ yn gallu cyflawni’r holl swyddogaethau y gellir eu cyfrifo yn y
+ffurf gweithdrefn algorithmig. Cyfrifiaduron rhaglenadwy digidol, electronig modern
+a oedd yn bodloni gofynion Turing eu datblygu gyntaf yn y 1940au.
+Defnyddiwyd yr egwyddor ddeuaidd nid yn unig ar gyfer y cyfrifiadau eu hunain, ond hefyd ar gyfer
+y ffordd y cafodd y data eu hamgodio. Yn union fel y gellir cynrychioli rhifau yn a
+system ddeuaidd ac mewn un degol, mae'r un peth yn wir mewn egwyddor hefyd ar gyfer testun, delwedd a
+sain. Yn achos rhifau a thestun mae nifer y nodau arwahanol yn gyfyngedig iawn,
+a gall pob nod gael ei gynrychioli gan nifer cyfyngedig o ddarnau. Am ysgrif Ladin, a
+gall beit sengl (wyth did) amgodio 256 o nodau unigryw. Modioldeb fel delwedd a sain
+yn fwy cymhleth i'w hamgodio. Yma mae'n rhaid rhannu'r signal yn unrhyw fympwyol
+nifer o gydrannau cyfansoddol. Rhannu delwedd (neu sain) yn ronynnau arwahanol
+yn golygu na fydd trawsnewidiadau byth yn barhaus, ond bob amser yn gynyddrannol. Mae nifer y
+cydrannau fesul uned o signal (er enghraifft, picsel y fodfedd) yn penderfynu ar y realaeth y
+cynrychiolaeth ddeuaidd: gorau po fwyaf. Ond waeth pa mor uchel yw nifer y picseli fesul
+modfedd, ni all realaeth rendition digidol byth fod yn gyfartal mewn egwyddor ag analog
+cyflwyniad. Er gwaethaf ei holl ddiffygion perthnasedd cynrychiolaeth ddeuaidd yw hynny i gyd
+gellir amgodio data ym mhob dull a'r holl gyfrifiadau y gellid eu cymhwyso iddynt
+yn yr un modd deuaidd. Mae hyn yn gwneud ‘binariness’ yr ‘elfen’ 10 lle mae llawer o
+cydgyfeiriant brawychus o foddau (y gellir ei ddefnyddio ymhellach ym Mhennod 5).
+Y teipiadur yw'r ail beiriant un swyddogaeth ar wahân i'r cyfrifiannell sydd â
+wedi bod yn bwysig iawn wrth ddatblygu amgodio testun ar y cyfrifiadur. Mae rhai o'r
+cynlluniwyd teipiaduron cynharaf ar gyfer y deillion, 11 sy'n dangos yn dda pa mor ddwfn yw'r
+gall rhaniad fod rhwng bwriad dyfeisiwr a defnydd cymdeithasol gwirioneddol dyfais. O
+diddordeb arbennig ar gyfer y pwnc presennol yw achos y bysellfwrdd. O'r holl deipio dyfeisgar
+systemau a ddyluniwyd erioed 12 gan Christopher Sholes, crëwr y cyntaf
+teipiadur i'w gymryd i gynhyrchu masnachol, a ddaeth yn safon. Hwn oedd y
+bysellfwrdd gyda'r gosodiad qwerty adnabyddus. 13 Etifeddiaeth bwysicaf y Sholes
+bysellfwrdd yw bod y cymeriadau a geir ar ei fysellfwrdd bellach yn dal i fod yr adeilad atomig
+blociau o destun ar y cyfrifiadur. Nid oes gan y bysellfwrdd cyfrifiadur safonol unrhyw acennog
+cymeriadau, yn gwneud dim gwahaniaeth rhwng cysylltnod ac em-dash, neu rhwng y
+pwynt degol a'r atalnod llawn, ac nid oes ganddo bob math o nodau arbennig: o deipograffyddol
+trwy arwyddion mathemategol i arian cyfred. Yn hytrach, ymddangosiad gweledol yn unig oedd hynny
+penderfynu a gafodd nod ar wahân ei greu.14 Mae bysellfwrdd y cyfrifiadur yn amgodio
+llythyrau unigol yn ddeuaidd ac yn eu rhoi i mewn i'r cyfrifiadur. Yn union fel ar deipiadur, mae hyn
+yn cael ei wneud trwy neilltuo un nod fesul allwedd, er y gellir cynyddu'r nifer hwnnw
+defnyddio'r fysell shift (ac ar y cyfrifiadur yn ogystal bysellau swyddogaeth amrywiol).
+10 Y term yw Michael Heim, o Electric Language, t. 102.
+11 Michael H. Adler, The Writing Machine, Llundain, 1973, t. 48.
+12 Adler, Y Peiriant Ysgrifennu, t. 25-90.
+13 Mae'r gosodiad qwerty yn dal i gael ei ddefnyddio mewn llawer o wledydd, er enghraifft, ledled y byd Saesneg ei iaith. Yn
+mewn rhai gwledydd eraill mae'r gosodiad yn wahanol. Ffrainc yn defnyddio'r bysellfwrdd azerty, tra bod yr Almaen a rhai Dwyrain
+Mae gwledydd Ewropeaidd yn defnyddio'r bysellfwrdd qwertz.
+14 Felly ar rai bysellfyrddau ni chynhwyswyd ffigur 1 ar wahân, ac ystyriwyd bod y llythyren l yn ddigon tebyg
+mewn siap.
+7
+Ymhlith y nifer o systemau mewnbynnu testun amgen dyfeisgar a llai dyfeisgar a wnaeth
+rhaid sôn yn bendant am syniad Douglas Engelbart, a elwir hefyd yn y
+dyfeisiwr llygoden y cyfrifiadur,15 i nodi 31 nod y cod safonol 5-did o
+y ‘teletype’ (rhagflaenydd y telex) drwy wasgu pum bysell ar yr un pryd (25 =
+32). 16 Gweithiodd Engelbart ar y ‘set law pum allwedd’ hon yn y 1960au, fel rhan o’i waith uchelgeisiol.
+Fframwaith ar gyfer Ychwanegiad o fframwaith Deallusrwydd Dyn, a fydd yn derbyn mwy
+sylw yn ddiweddarach yn y bennod hon. Tra nad oedd y syniad yn newydd (yn ystod y bedwaredd ar bymtheg
+ganrif roedd sawl teipiadur gyda bysellfyrddau math piano eisoes wedi'u dylunio) a
+yn sicr roedd ganddo fanteision, nid oedd yn erbyn y goruchafiaeth yr oedd bysellfwrdd qwerty yn ei erbyn
+yna caffaelwyd eisoes. Roedd yn cael ei ddefnyddio mewn rhannau helaeth o'r byd, a chenedlaethau o deipyddion
+wedi dysgu teipio'n ddall gan ddefnyddio'r gosodiad qwerty.
+Ni chymerodd y teipiadur y broses o greu - golygu - cynhyrchu -
+cyhoeddi – dosbarthu – defnydd y tu hwnt i’r cam creu. Cymerodd ofal y
+‘mewnbynnu data’ a ‘storio’ (termau achronistaidd ar gyfer swyddogaethau a gafodd eu creu yn unig mewn gwirionedd
+gan y cyfrifiadur) o destun, ond ni allai wneud fawr ddim ar gyfer ei atgynhyrchu, ei gyhoeddi a
+dosbarthiad.17 Fel cyfrwng nid yw hyn yn gwahaniaethu'n sylweddol rhwng y teipiadur
+llawysgrif — ac eithrio efallai y graddau o ddarllenadwyedd. Yn hynny o beth mae'r
+dim ond yn rhannol iawn y mae teipiadur yn mynd at y math argraffu. Nid oedd hynny, fodd bynnag, yn cadw ei
+dyfeiswyr rhag pwysleisio'r eiddo hwn, hyd yn oed yn achos y peiriannau cynharaf iawn.18 Mae'r
+mae chwyddwydr a osodais dros y cyfnod creu a golygyddol yn dangos bod y
+Mae teipiadur yn berfformiwr eithaf gwael o ran trin testun.
+Ymhlith y technegau mwy arbenigol sy'n berthnasol yn hanes y
+cyfrifiadur yn sicr yn perthyn telegraffi, ac yn arbennig y system Baudot ar gyfer mewnbwn testun
+yn dyddio o 1874. Dyna'r cod safonol 5-did a grybwyllwyd eisoes yn y drafodaeth ar
+y bysellfwrdd. Er gwaethaf y nifer cyfyngedig o nodau (uchafswm o 32) gallai hynny fod
+wedi'i amgryptio gyda'r system bum-did hon, mae'r amgodiad nod hwn gan Emile Baudot (1845-1903)
+yn dal i gael ei ddefnyddio yn yr amgylchedd electronig digidol nes iddo gael ei ddisodli gan ASCII yn
+ganol y 1960au. 19 Gan fod y system morse â'i dotiau a'i llinellau toriad hefyd yn ddeuaidd,
+Roedd system amgodio Baudot yn arbennig o dda ar gyfer trosglwyddo i'r cyfrifiadur.
+Dyfais arbenigol arall ar gyfer prosesu testun sy'n haeddu sylw oedd y
+peiriant cysodi a ddefnyddir mewn cynhyrchu print. 20 Defnyddiodd y peiriant cysodi y
+bysellfwrdd teipiadur er mantais iddo (er bod bysellfwrdd y peiriant cysodi
+offer gyda llawer mwy o allweddi; yr oedd gan y Monotype bedair set gyflawn o qwerty
+allweddi, un yr un ar gyfer capiau rhufeinig, italig, print trwm a bach). O leiaf pedwar gwelliant mawr
+15 Gweler Thierry Bardini, Bootstrapping: Douglas Engelbart, Cydesblygiad, a Gwreiddiau Personol
+Cyfrifiadura, Stanford, 2000, tt. 81-102.
+16 Gweler Bardini, Bootstrapping, tt. 58-80.
+17 Ac eithrio wrth gwrs gyda chymorth braidd yn gyfyngedig y copi carbon. Y peiriant stensil a'r dyblygydd
+gellir ei ddiystyru. Er bod y technegau hyn yn gwneud defnydd o deipiadur i gofnodi'r testun, lluosi yw a
+cam ar wahân, sy'n gofyn am beiriant dyblygu.
+18 ‘Caniatawyd patent rhif Prydain i beiriannydd Prydeinig, Henry Mill. 395 yn 1714 am ddyfais sy'n gallu
+gwneud argraff ar lythyrau ar bapur neu femrwn un ar ôl y llall “fel yn ysgrifenedig”, y cynnyrch mor daclus a
+yn union fel na ellir gwahaniaethu rhyngddynt a’r argraffu’ (Adler, The Writing Machine, t. 47).
+19 Bardini, Bootstrapping, tt. 65-79. Bydd mwy yn cael ei ddweud am ASCII (Safon Gwybodaeth America
+Interchange) yn ddiweddarach yn y bennod hon.
+20 Roedd systemau eraill, mwy ymylol y gellir eu crybwyll, er enghraifft, yn rhai a ddefnyddiwyd i gynhyrchu
+teitlau ac isdeitlau ar gyfer ffilm a theledu, a oedd hefyd yn dod yn fwy soffistigedig wrth i amser fynd rhagddo.
+8
+a gymhwyswyd yn gynnar os nad am y tro cyntaf yn y diwydiant cysodi, wedi bod o
+pwysigrwydd mawr ar gyfer datblygu prosesu geiriau digidol. Y rhain oedd y defnydd o a
+cyfrwng storio, ar ffurf tâp dyrnu y peiriant cysodi Monotype
+o 1887; cymhwyso'r teledeipiadur ar gyfer cysodi o bell trwy'r 6-bit
+cod y TeleTypeSetter (TTS) ar ddiwedd y 1920au; cais y cyfrifiadur yn y
+trydedd genhedlaeth o beiriannau phototypesetting o ddiwedd y 1960au, a'r datblygiad
+o'r cysyniad o farcio yn y 1960au a'r 1970au, a mwy yn ddiweddarach.
