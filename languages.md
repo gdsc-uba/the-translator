@@ -25,4 +25,8 @@
 - [PORTUGUESE](./Translations/portuguese.txt)
 - [KURDISH](./Translations/kurdish.txt)
 - [ITALIAN](./Translations/italian.txt)
+
 - [BOSNIAN](./Translations/bosnian.txt)
+
+- [VIETNAMESE](./Translations/vietnamese.txt)
+
