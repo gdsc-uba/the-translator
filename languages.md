@@ -25,3 +25,4 @@
 - [PORTUGUESE](./Translations/portuguese.txt)
 - [KURDISH](./Translations/kurdish.txt)
 - [ITALIAN](./Translations/italian.txt)
+- [BOSNIAN](./Translations/bosnian.txt)
