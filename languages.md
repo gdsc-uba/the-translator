@@ -29,4 +29,5 @@
 - [BOSNIAN](./Translations/bosnian.txt)
 
 - [VIETNAMESE](./Translations/vietnamese.txt)
+- [LINGALA](./Translations/lingala.txt)
 
