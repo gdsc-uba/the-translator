@@ -1,0 +1,66 @@
+Lisoló mokuse ya makomi mpe ya ordinatɛrɛ
+
+1. Role central ya texte na développement ya ordinateur
+
+Ordinateur numérique ya liboso oyo ekoki kozala programmable etongamaki na bambula ya 1940. Traitement ya texte ezali
+momeseno moko oyo euti kosalema kala mingi te, oyo ebandaki na bambula ya 1960. Ezalaki kaka na ba années 1990 nde ba...
+ordinatɛrɛ ebandaki mpe kopesa nzela mosusu ya monene mpo na kokabola makomi. Nzokande na moke
+koleka ndambo ya ekeke ya baordinatɛrɛ bamikɔtisi na kati ya lolenge ya bato mpo na
+na ndenge oyo ekokaki kosala te soki bango te. Mokapo oyo ezali kotalela ndenge oyo...
+ordinateur esili na ntango mokuse boye koya kosala rôle prédominant boye spécifiquement na
+mokili ya makomi.
+Mwa makambo minene na bokeli ya oyo banda wana ekomi nimero
+moyen textuel ekoki koyebana.
+Na ekeke ya zomi na libwa masini ya kosala calcul oyo ezali na ntina moko, ekanisamaki mpo na mbala ya liboso mpo na
+bazali na makoki ya kobongwana na Machine Universelle, capable ya kosala misala oyo
+ekoki komonisama na nzela ya algorithme. Na ba années 1940 ba Machines Universelles ya liboso ezalaki
+kotonga. Na ba années 1960 ordinateur comme Machine Universelle e permettre ko traité ba textes, .
+oyo epesaki yango mokumba na eteni ya bokeli makomi. Na ba années 1980 graphique man–machine
+interface ya ordinateur ematisaki mingi ba possibilités mpo na typographique
+kobongola makomi. Epesaki ordinatɛrɛ nzela ya kosala mosala monene na mosala ya kosala ba...
+mikanda oyo enyatami. Interface graphique efungolaki mpe nzela mpo na kofanda esika moko ya mibale
+ndenge ekeseni ya kotalela makomi na ndenge ya nimero: oyo ya logique mpe oyo ya typographique.
+• Na ekeke ya zomi na libwa masini ya kosala calcul oyo ezali na ntina moko, ekanisamaki mpo na mbala ya liboso
+kozala na makoki ya kobongwana na Machine Universelle, oyo ekoki kosala misala
+oyo ekoki komonisama na nzela ya algorithme.
+• Na ba années 1940 ba Machines Universelles ya liboso etongamaki.
+• Na ba années 1960 ordinateur en tant que Machine Universelle e permettre ko traité ba textes, oyo
+apesaki yango mokumba na eteni ya bokeli makomi.
+• Na bambula ya 1980 interface graphique man–machine ya ordinateur ekómaki malamu mingi
+ba possibilités ya rendu ya typographique ya texte. Epesaki ordinatɛrɛ nzela ya kobɛta
+mokumba monene na mosala ya kobimisa mikanda oyo enyatami. Interface graphique mpe e pavé ba...
+lolenge ya kozala elongo na banzela mibale ekeseni ya kotalela makomi na ndenge ya nimero: oyo ya logique mpe oyo
+na masini ya konyata mikanda.
+• Na bambula 1990 ordinatɛrɛ ekɔtaki na réseau moko, oyo ekómisaki mokumba na yango monene lokola a
+esaleli ya bopanzi nsango uta na oyo ya lisalisi mpo na kobimisa mikanda ya imprimé analogique kino
+moyen ya sika, oyo ezali entièrement numérique na ndenge na yango moko, oyo ezali mpe na distribution mpe
+komela.
+Na ‘circuit ya communication’ na ye1 Robert Darnton azali ko conceptualiser mobimba
+processus ya transmission ya ba livres na ba formulaires misusu ya texte imprimé ndenge esali pona plusieurs
+bikeke mingi. Modèle oyo ezali kolakisa na makanisi processus oyo ba acteurs ndenge na ndenge oyo elandi basalaka
+1 Tala Robert Darnton, ‘Lisolo ya mikanda ezali nini’, Daedalus, Eleko ya molunge 1982, nk.65-83.
+2. 2
+elongo na nse ya makambo ekeseni ya mimeseno, ya nkita, mpe ya politiki mpo na kopalanganisa an
+mokanda ya mokomi mpo ete ekóma epai ya batángi na yango. Kotia circuit ya communication likolo ya
+processus ya transmission ya texte numérique modèle oyo eko identifier ba similarités na ba différences
+(to ba continuités na ba discontinuités) entre moyen numérique ya sika na oyo ezalaki liboso na yango
+motindo ya konyata mikanda.
+Processus ya kosala ba textes public mpe ko diffuser yango comprend ndenge na ndenge
+ba étapes ekeseni. Yango ekokani pene na oyo emonisami na ba communications
+circuit : bokeli ya makomi (kokoma), elandi kobimisama na yango (kobakisama), .
+kokabola (ntango oyo makomi mazali kobimisama na miso ya bato), mpe na nsuka bomeli (botángi).
+Kasi, mpo na kotala ba étapes différentes na développement ya rôle ya ordinateur na
+transfert ya texte plus proche, nalingi ko proposer adaptation moko ya muke na chaîne oyo
+ya ba étapes. Nalingi kotya loupe likoló ya lien ya liboso oyo ezali na monyololo yango, oyo
+‘etape ya bokeli’, oyo ezali eteni oyo makambo mpe lolenge ya makomi ezali na yango te
+esili kosila. Longola bokomi ya makomi na mokomi eteni oyo esangisi mpe ya yango
+bobongisi, ezala yango esalemi na mokomi to na moto oyo azali kosala na nkombo na ye (mpo na
+ndakisa mobongisi ya mobimisi). Na mayele, yango elakisi kosala bokeseni kati na (a) .
+kokotisa makomi, (b) kokoma makomi, mpe (c) kosala manipulation ya makomi ntango ekotisami.
+Koyeba fluidité oyo na étape ya création, comprenant écriture na édition na nionso
+nombre ya ba iterations, esalaka que ezala facile ko tracer développement ya rôle ya ordinateur na
+ndenge ya kokoma. Pene na ba étapes misato na développement wana ekoki koyebana. Ba oyo ndambo
+ba superposer, kasi ekeseni na moboko mpenza mpo na kotalela bango na bokeseni. Ba...
+ba étapes ezali (1) représentation ya texte na ordinateur (entrée, enregistrement, stockage), (2) la
+kosala manipulation ya makomi oyo ebombami mpo na kosalela yango na makambo ya siansi mpe ya mosala, mpe (3) oyo ya solosolo
+kosala maloba na pc, lokola lisalisi na makanisi mpe bokomi ya mokomi p
