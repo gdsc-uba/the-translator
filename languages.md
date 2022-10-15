@@ -30,4 +30,5 @@
 - [BOSNIAN](./Translations/bosnian.txt)
 
 - [VIETNAMESE](./Translations/vietnamese.txt)
+-[TIGRINYA](./Translations/Tigrinya.txt)
 
