@@ -31,4 +31,5 @@
 
 - [VIETNAMESE](./Translations/vietnamese.txt)
 -[TIGRINYA](./Translations/Tigrinya.txt)
+-[CZECH](./Translations/czech.txt)
 

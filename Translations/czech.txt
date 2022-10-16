@@ -1,0 +1,324 @@
+Stručná historie textu a počítače
+
+1. Ústřední role textu ve vývoji počítače
+
+První programovatelný digitální počítač byl sestrojen ve 40. letech 20. století. Zpracování textu je
+ještě novějším postupem, který se datuje od 60. let 20. století. Teprve v devadesátých letech 20. stol.
+počítač začal nabízet také seriózní alternativu pro distribuci textů. Přesto v méně
+půl století se počítače vloudily do struktury společnosti, aby se tak
+do té míry, že by bez nich nemohla fungovat. Tato kapitola zkoumá, jak se
+počítač v tak krátké době začal hrát tak dominantní roli, konkrétně v oblasti výzkumu a vývoje.
+ve světě textů.
+Některé hlavní milníky ve vývoji toho, co se od té doby stalo digitálním.
+textovým médiem, lze identifikovat.
+V devatenáctém století byl poprvé koncipován jednoúčelový počítací stroj, který měl za úkol
+mít potenciál proměnit se v univerzální stroj, který by byl schopen vykonávat úkoly, které
+lze vyjádřit pomocí algoritmu. Ve čtyřicátých letech 19. století byly první univerzální stroje
+sestrojeny. V 60. letech 20. století bylo počítači jako Univerzálnímu stroji umožněno zpracovávat text,
+čímž získal roli ve fázi tvorby textu. V osmdesátých letech 20. století se objevil grafický stroj člověk-stroj.
+rozhraní počítače výrazně rozšířilo možnosti typografického zpracování textu.
+vykreslování textu. To umožnilo, aby počítač hrál ústřední roli při tvorbě
+tiskovin. Grafické rozhraní rovněž otevřelo cestu ke koexistenci dvou
+různých způsobů digitálního zpracování textu: logického a typografického.
+- V devatenáctém století byl poprvé zkoncipován jednoúčelový počítací stroj, který byl v roce
+s potenciálem proměnit se v univerzální stroj, který by byl schopen vykonávat úkoly
+které lze vyjádřit pomocí algoritmu.
+- Ve čtyřicátých letech 19. století byly sestrojeny první univerzální stroje.
+- V šedesátých letech 20. století bylo počítači jako Univerzálnímu stroji umožněno zpracovávat text, který
+tím získal roli ve fázi tvorby textu.
+- V 80. letech 20. století grafické rozhraní člověk-stroj počítače výrazně posílilo.
+možnosti typografického ztvárnění textu. Umožnilo počítači hrát
+ústřední roli při výrobě tiskovin. Grafické rozhraní také vydláždilo cestu
+cestu ke koexistenci dvou různých způsobů digitálního zpracování textu: logického a grafického.
+typografické.
+- V 90. letech 20. století byl počítač začleněn do sítě, což rozšířilo jeho roli jako
+komunikačního nástroje z role pomocníka při výrobě analogových tiskovin na roli pomocníka při výrobě analogových tiskovin.
+nové, plně digitální médium samo o sobě, zahrnující také distribuci a
+spotřebu.
+Robert Darnton ve svém "komunikačním okruhu "1 konceptualizoval celý
+proces přenosu knih a jiných tištěných textových forem tak, jak fungoval po několik let.
+století. Tento model vizualizuje proces, v němž pracují různí po sobě jdoucí aktéři
+1 Viz Robert Darnton, "What is the History of Books", Daedalus, léto 1982, s. 65-83.
+2
+společně v různých kulturních, ekonomických a politických podmínkách šířit
+aby se autorův text dostal ke svým čtenářům. Položení komunikačního okruhu přes
+procesu přenosu digitálního textu tento model identifikuje podobnosti a rozdíly mezi digitálními texty a digitálními texty.
+(nebo kontinuity a diskontinuity) mezi novým digitálním médiem a jeho předchůdcem.
+tištěným médiem.
+Proces zveřejňování textů a jejich šíření zahrnuje různé druhy
+různých fází. Ty zhruba odpovídají těm, které byly identifikovány v komunikaci
+okruhu: vytvoření textu (psaní), po němž následuje jeho produkce (rozmnožování),
+distribuce (okamžik zveřejnění textu) a nakonec konzumace (čtení).
+Nicméně pro kontrolu jednotlivých fází vývoje role počítače v
+textu, bych rád navrhl jednu malou úpravu tohoto řetězce.
+fází. Chtěl bych umístit lupu nad první článek řetězce, tj.
+"stádium tvorby", což je fáze, v níž obsah a forma textu ještě nejsou definovány.
+ještě nebyly dokončeny. Kromě toho, že autor text píše, zahrnuje tato fáze také jeho
+editaci, ať už ji provádí autor, nebo někdo, kdo jedná jeho jménem (např. autorský kolektiv).
+například editor nakladatelství). Z technického hlediska to znamená rozlišovat mezi (a)
+zadáním textu, b) záznamem textu a c) manipulací s textem po jeho zadání.
+Uznání této plynulosti ve fázi tvorby, zahrnující psaní a editaci v jakémkoliv
+v několika opakováních, usnadňuje sledovat vývoj role počítače v procesu psaní a editace.
+procesu psaní. V tomto vývoji lze rozeznat zhruba tři fáze. Částečně se jedná o
+se překrývaly, ale jsou natolik zásadně odlišné, že je lze řešit odděleně. .
+jsou (1) reprezentace textu v počítači (zadávání, záznam, ukládání), (2) tvorba textu na počítači (3)
+manipulace s uloženým textem pro vědecké a odborné aplikace, a (3) vlastní práce s textem, která se provádí na počítači.
+zpracování textu na počítači jako pomůcka při autorském myšlení a psaní.
+Mezi nejoblíbenější počítačové aplikace dnes bezpochyby patří chatování, textový
+zpracování, posílání e-mailů a prohlížení webových stránek, což jsou všechno činnosti založené na práci s textem. Ale i mimo tyto
+textových aplikací je text klíčem k našemu používání počítače. Ve všech aritmetických, analytických, mediálních
+a dalších aplikacích, pro které se počítač jako univerzální stroj hodí, má text zásadní význam.
+ústřední místo. Na World Wide Webu - a na internetu obecně - je text nejvýznamnějším zdrojem informací.
+nejčastějším způsobem uspořádání, vyhledávání a nalezení informací, a to i v případě, že se tyto informace samy o sobě
+není text, ale například hudební soubor nebo obrázek. Při všech každodenních činnostech s
+text je hlavním rozhraním operačního systému i počítače.
+aplikací. Soubory se pojmenovávají a ukládají do složek, které se opět pojmenovávají pomocí textu. Ale
+ale i mimo tento druh každodenního používání je jazyk základem všech vztahů mezi člověkem a strojem.
+interakce. Všechny moderní programovací jazyky používají určitou formu přirozeného jazyka. Také
+značkování (jeden z nejdůležitějších způsobů kódování textu v počítači - a také jeden z nejvýznamnějších
+technický základ publikování na World Wide Webu) je zcela textový postup.
+V předchozí kapitole jsem popsal, jak je západní společnost prostoupena tzv.
+společenský a kulturní význam knih jako hlavního prostředku předávání znalostí. V této kapitole jsem
+nazval Řád knihy. Na tomto pozadí se zdá být přirozené, a v
+že počítač měl být nasazen pro textovou komunikaci jako nástroj pro komunikaci s lidmi.
+jakmile to bylo možné, a že se celá interakce mezi člověkem a počítačem stala
+textovou záležitostí. Vskutku, dychtivost, s jakou byl textový procesor přijat v
+80. letech 20. století, se zdá tuto myšlenku potvrzovat. Vzhledem k významu textových aplikací v
+3
+populární používání počítače dnes, se dokonce nabízí otázka, proč byl počítač
+vynalezen jako počítací stroj, a ne jako stroj jazykový. Počítač jako takový
+musí i nadále přepočítávat všechna ta textová data a instrukce, kterými ho krmíme.
+jediné smysluplné jednotky, které zná: jedničky a nuly. Proč by nebylo možné
+počítat pomocí jazyka samotného? Tato myšlenka se může zdát podivnější, než ve skutečnosti je. Celý jeho život
+Wilhelm Leibniz nepřestával věřit v konstrukci jazyka, který se skládá z logických
+symbolů, s nimiž by bylo možné manipulovat pomocí kalkulátoru. Takový jazyk a
+stroj, který by jej "počítal", by umožnil vyřešit jakoukoli filozofickou debatu kliknutím na tlačítko.
+tlačítka. 2 To, že se Leibnizův sen dosud nesplnil, není dáno ani tak tím, že by takový jazyk
+logický systém symbolů není životaschopný.3 Skutečný problém spočívá v tom, že jemné odstíny
+významu, které můžeme - a chceme být schopni - vyjádřit přirozeným lidským jazykem, jsou jednoduše
+se nedají redukovat na systém logických symbolů.
+Tedy nuly a jedničky. V zájmu pohodlnosti se však zdálo, že je třeba
+nutné vymyslet způsob, jak instrukce pro počítač převést do lidsky srozumitelného jazyka.
+tvaru. Proto mají nyní řádky programů, nabídky, názvy souborů a podobně lidskou podobu.
+čitelnou podobu, i když v zákulisí počítač stále počítá pouze s lidskými jazyky.
+čísly, která zná: jedničkami a nulami. Žádný uživatel se nyní nepozastavuje nad tím, že každý stisk klávesy je
+převádí na řadu binárních čísel. Ve skutečnosti je v našem vnímání jazyk
+hlavním způsobem, jakým dnes s počítačem jednáme. Čísla, která počítač
+se zdají hrát pouze podřadnou roli; zdá se, že čísla, která ve skutečnosti zpracovávají, jsou jen
+tancují podle melodie textu. Kdysi tomu však bývalo naopak a při přemýšlení od
+binární srdce počítače, hledal se způsob, jak reprezentovat písmena.
+Vzhledem k obrovskému významu textu pro průměrné každodenní používání počítače je to
+zarážející, kolik úsilí bylo třeba vynaložit, než si počítač s textem skutečně poradil.
+Jak tento proces probíhal a proč trval tak dlouho? Jaké faktory bránily a
+ho stimulovaly: záměr a náhoda, nezamýšlené účinky, selhání zamýšlených účinků atd. Tento
+kapitola tento proces v hrubých rysech zrekonstruuje.
+To, že text zaujal ústřední pozici na počítači, se zdá na první pohled
+jako přirozené - jako odraz významu textu ve společnosti. Současně však některé
+komentátoři poukazují na to, že text ve skutečnosti začíná ztrácet své významné postavení.4 Jsou to
+samozřejmě nenaznačují, že se chystáme vstoupit do přímé binární výměny dat s
+nebo že lidé v poslední době získali masivní vzdělání a zkušenosti v této oblasti.
+symbolické logiky. Chtějí tím říci, že kromě textu se v současné době objevují i jiné modality, zejména
+obrazy, hrají v digitální komunikaci stále důležitější roli, stejně jako ve společnosti.
+jako celku. To se často označuje jako nástup vizuální kultury. 5 Jeden jednoduchý
+vysvětlení tohoto nárůstu dalších modalit by mohlo být, že digitální médium umožňuje, aby se v něm
+v důsledku konvergence identifikované v kapitole 2 snadno integrovat modality, jako je např.
+2 V knize Dvořan a kacíř: Leibniz, Spinoza a osud Boha v moderním světě (New York
+and London, 2006, s. 79) podává Matthew Stewart výklad tohoto Leibnizova ideálu.
+3 Působivým dokladem je kniha Alfreda Northa Whiteheada a Bertranda Russella Principia Mathematica (1910-1913).
+že tomu tak je, a to i v případě, že Douglas Hofstadter má pravdu se svou interpretací důsledků teorie Kurta Gödela.
+výbušného článku z roku 1931 na osud Russelovy pevnosti, kterou považoval za nedobytnou (viz Douglas
+Hofstadter, I Am a Strange Loop, New York, 2007, kapitola 10).
+4 Steve Johnson, Kultura rozhraní: Jak nové technologie proměňují způsob, jakým vytváříme a pracujeme.
+Communicate (New York, 1997, viz str. 148-52), je jednou z výjimek.
+5 Viz například Mitchell Stephens, The Rise of the Image, the Fall of the Word.
+4
+obrázky a zvuk v textu. Pojem vizuální kultury však není tak nový a rozhodně se nejedná o nic nového.
+před příchodem počítače. Od počátku dvacátého století se v mnoha
+místech na světě vznikaly nejrůznější druhy vizuálních jazyků pro nápisy, obaly
+a další formy komunikace. 6 V polovině minulého století De la Fontaine
+Verwey ve svém příspěvku Copy and Print in the Netherlands konstatuje, že obraz,
+"na čas vytlačen knihou", "se vrátil ke svým starobylým právům a zapojil se do
+plní úkoly, které po staletí plnilo tištěné slovo. "7
+Nejenže známky toho, že text začíná ztrácet své přední místo, jsou stále ještě spíše
+slabé, role textu byla pravděpodobně současně posílena i jiným způsobem, jako např.
+jako je do značné míry textové rozhraní počítače a internetu, ale také jako je např.
+mimořádná obliba psaní textových zpráv na mobilních telefonech. Soudě podle popularity
+sociálních sítí, blogů a funkce komentářů na mnoha webových stránkách, je dost dobře možné, že se na ně
+že více lidí píše - přinejmenším s myšlenkou na nějakou formu zveřejnění - než kdykoli předtím.
+Tento jev však nemusí být vždy stejně viditelný. Příkladem může být méně
+přímo viditelného využití textu je způsob, jakým jsou klíčová slova přiřazována k obrázkům a zvukům, aby se
+aby bylo možné je vyhledávat. Může jít o přechodný jev, zatímco vyhledatelnost
+obrázků a zvuků prostřednictvím jiných obrázků a zvuků je stále ještě v plenkách. Pro čas
+každopádně celý digitální svět - včetně her a chatování - je přístupný pomocí
+prostřednictvím textu.
+Pokud se vztah mezi textem a ostatními modalitami skutečně mění, pak se
+alespoň zatím se nezdá, že by tato změna byla nějak zvlášť drastická. Nicméně v delším historickém
+perspektivě si lze dobře představit situaci, kdy text nemusí být nutně nejvýznamnějším zdrojem informací.
+důležitým komunikačním prostředkem. K této spekulaci se vrátím v kapitole 6.
+2. Historie počítačů a výpočetní techniky
+Zpočátku bylo jen málo důkazů o tom, jak důležitou roli měl hrát text v digitálním
+světě. Historie nástupu textu do počítače začíná dvěma významnými událostmi
+vývojovými skoky v historii samotného počítače. Důležité jsou zejména dva:
+(a) přechod od strojů s jedinou funkcí k multifunkčním strojům a (b) přechod od strojů s jedinou funkcí k multifunkčním strojům.
+od mechanických strojů k elektronickým, digitálním strojům. V kategorii strojů s pouze
+jsou pro historii počítače jako stroje zvláště důležité dva případy.
+pro zpracování textu. Prvním z nich je kalkulačka, která dodnes tvoří jádro každého počítače.
+počítače. Druhým je psací stroj, který v podobě klávesnice přinesl do světa psaní na klávesnici.
+hlavní vstupní prostředek pro dnešní počítač. Kromě toho existuje řada dalších
+specializovaných strojů, z nichž se o některých také krátce zmíním.
+Historie kalkulaček jako předchůdců počítačů sahá asi čtyři roky zpátky.
+6 Existovala obrovská víra v potenciál obrázků (ve formě piktogramů a ikon, ale také
+obrázkové statistiky) při podpoře efektivního přenosu informací. Obzvláště významným a
+Neúnavným zastáncem používání informační grafiky byl Otto Neurath, vynálezce Isotypu.
+(Mezinárodní systém typografických obrázkových symbolů) ve 20. letech 20. století. Poté, co uprchl z rodného
+Rakouska ve 30. letech 20. století založil v Haagu Mezinárodní nadaci pro výtvarnou výchovu a později i Mezinárodní nadaci pro výtvarnou výchovu (International Foundation for Visual Education).
+Isotype Institute v Oxfordu.
+7 H. de la Fontaine Verwey, "Dvacáté století", in: W. Gs Hellinga, Copy and Print in the Netherlands:
+an Atlas of Historical Bibliography, Amsterdam, 1962, s. 59-67, na s. 59.
+5
+století. V roce 1623 vyrobil Wilhelm Schickard (1592-1635) z Tübingenu šestibitové "počítadlo".
+hodiny, které uměly sčítat a odčítat. Svůj stroj nazval hodiny, protože stroj
+hodiny připomínaly. Přístroj byl zcela mechanický. Když o půl století později
+Wilhelm Leibniz začal rozpracovávat svůj nápad na digitální kalkulačku, byl velmi
+ambicióznější. Jeho stroj měl být schopen zpracovávat univerzální logické symboly. Na adrese
+navzdory jeho nezměrným ambicím a odhodlání se mu nikdy nepodařilo překročit hranice jakéhosi typu
+mechanické kapesní kalkulačky, která uměla sčítat, odčítat, násobit a dělit. Stejně jako Leibniz
+v sedmnáctém století, britský matematik Charles Babbage v devatenáctém století.
+že kalkulačky lze používat i k jiným účelům, než jen k výrobě počítačů.
+numerických výpočtů. V uplynulých staletích se vědecké poznatky a přístroje
+Babbage se posunul natolik, že byl schopen implementovat do praxe
+své myšlenky dále než jeho předchůdci. Ačkoli Babbage nikdy nesestrojil více než části
+Analytický motor, 8 lze ho na základě jeho konstrukce považovat za tvůrce "analytického motoru".
+prvního univerzálního stroje. Stejně jako Schickardovy a Leibnizovy kalkulačky byl zcela
+mechanický (měl být poháněn párou) a využíval desítkové místo číslicových počítadel.
+čísel, ale byl programovatelný, odděloval data od programu a byl schopen pracovat s digitálními čísly.
+smyčky a podmíněné větvení. To bylo víc, než dokázala většina počítačů
+i o sto let později. Babbage dokonce uvažoval o exportu výsledků výpočtů
+na děrné štítky. Tato myšlenka, inspirovaná žakárovým tkalcovským stavem, by umožnila
+stroj psát a ukládat vlastní programy.
+Charles Babbage měl vizi, Ada, hraběnka z Lovelace, kolegyně matematička, měla vizi.
+která ho o ní slyšela vyprávět při jedné večeři, byla jednou z mála lidí, kteří se o ní dozvěděli.
+která pochopila její důsledky. Uvědomila si, že na vyšší úrovni abstrakce výpočetní technika
+nešlo o počítání, ale o manipulaci se symboly, začala vymýšlet řadu řešení, která by umožnila
+algoritmů, které by mohl Analytický motor skutečně provádět, kdyby se někdy
+kdyby byl sestrojen. Když Lovelaceová přeložila článek o Analytickém motoru od italského autora
+Luigiho Menabrea, přidala několik velmi pronikavých poznámek, které se jí líbily.
+vlastních poznámek, které byly dvakrát delší než původní článek. V těchto poznámkách
+správně předpověděla, že stroj, jako je Analytický motor, by mohl být použit ke skládání hudby.
+hudbu, vytvářet grafiku a provádět různé vědecké úkoly:
+[Mohl by působit i na jiné věci než jen na čísla, kdyby se našly objekty, jejichž vzájemná
+základní vztahy mohly být vyjádřeny vztahy abstraktní vědy o operacích,
+a které by se také mohly přizpůsobit působení operační vědy.
+notace a mechanismu motoru. Předpokládejme například, že základní
+vztahy mezi výškami zvuků v nauce o harmonii a hudební skladbě byly základní vztahy mezi zvuky.
+schopné takového vyjádření a přizpůsobení, mohl by motor skládat propracované hudební skladby.
+a vědecké hudební skladby libovolného stupně složitosti a rozsahu.9
+8 Původně Babbage navrhl jednodušší "stroj", který pojmenoval "Difference Engine", protože se v něm
+byl schopen automaticky vytvářet tabulky intervalů (nebo rozdílů mezi soubory čísel, které byly výsledkem měření).
+z naprogramovaných sérií postupných sčítání. Stroj uměl tyto tabulky vytisknout.
+9 "Sketch of The Analytical Engine Invented by Charles Babbage, Esq.", L. F. Menabrea, s poznámkami Ady
+Lovelace, přetištěno v knize Charles Babbage, Science and Reform: Babbage, ed.: Vybrané práce Charlese Babbage, vyd.
+Anthony Hyman, CUP, 1989, s. 243-311, na s. 270. Zdůraznění v originále.
+6
+Důkazem toho, že vize Babbage a Lovelace se mohla stát skutečností, bylo pouze to, že
+Alan Turing v polovině dvacátého století. Podle Turinga jeho abstrakt
+"Turingův stroj" byl schopen vykonávat všechny funkce, které lze vypočítat v rámci systému
+ve formě algoritmického postupu. Moderní digitální, elektronicky programovatelné počítače
+které splňovaly Turingovy požadavky, byly poprvé vyvinuty ve čtyřicátých letech 20. století.
+Binární princip se používal nejen pro samotné výpočty, ale také pro tzv.
+způsobu, jakým byla data kódována. Stejně jako lze čísla reprezentovat jak v
+binární i desítkové soustavě, totéž v zásadě platí i pro text, obraz a obrazové informace.
+zvuk. V případě čísel a textu je počet diskrétních znaků velmi omezený,
+a každý znak může být reprezentován omezeným počtem bitů. V případě latinky je to např.
+jeden bajt (osm bitů) může zakódovat 256 jedinečných znaků. Modality jako obraz a zvuk
+je kódování složitější. Zde je třeba signál rozdělit na libovolné části.
+na libovolný počet složek. Rozdělení obrazu (nebo zvuku) na diskrétní částice
+znamená, že přechody nebudou nikdy spojité, ale vždy přírůstkové. Počet
+složek na jednotku signálu (například pixelů na palec) rozhoduje o realističnosti obrazu.
+binární reprezentace: čím více, tím lépe. Ale jakkoli vysoký počet pixelů na
+palce, realismus digitálního zobrazení se v zásadě nikdy nemůže rovnat analogovému.
+analogovému zobrazení. Přes všechny nedostatky je význam binárního zobrazení v tom, že všechny
+data ve všech modalitách a všechny výpočty, které by na ně mohly být použity, mohou být zakódovány.
+stejným binárním způsobem. Díky tomu je "binárnost" "prvkem", v němž se mnohem více
+modalit (více v kapitole 5) může dojít k tak opěvované konvergenci.
+Psací stroj je vedle kalkulačky druhým jednofunkčním strojem, který má
+měl velký význam pro vývoj kódování textu na počítači. Některé z nich
+první psací stroje byly navrženy pro nevidomé, 11 což pěkně ilustruje, jak hluboké jsou vztahy s počítačem.
+může být propastný rozdíl mezi záměrem vynálezce a skutečným společenským využitím vynálezu. Z
+pro toto téma je obzvláště zajímavý případ klávesnice. Ze všech důmyslných vynálezů pro psaní na klávesnici
+který byl kdy navržen, 12 byl Christopher Sholes, tvůrce prvního systému pro psaní na klávesnici.
+který byl uveden do komerční výroby, se stal standardem. Jednalo se o
+klávesnice se známým rozložením qwerty. 13 Nejvýznamnějším odkazem Sholesova
+je, že znaky, které se na jeho klávesnici nacházejí, jsou dnes stále atomovou stavební jednotkou.
+textů v počítači. Standardní počítačová klávesnice nemá diakritiku
+znaky, nerozlišuje mezi pomlčkou a znakem em-pomlčka, ani mezi znaky s diakritikou a znaky s diakritikou.
+a tečkou, a postrádá všechny druhy speciálních znaků: od typografických
+přes matematické až po měnové znaky. Místo toho se jednalo pouze o vizuální vzhled
+rozhodovalo o tom, zda bude vytvořen samostatný znak.14 Počítačová klávesnice kóduje
+jednotlivá písmena binárně a zadává je do počítače. Stejně jako u psacího stroje je to tzv.
+se provádí tak, že se každé klávese přiřadí jeden znak, ačkoli tento počet může být zvýšen o
+pomocí klávesy Shift (a na počítači navíc různými funkčními klávesami).
+10 Termín je Michaela Heima z knihy Electric Language, str. 102.
+11 Michael H. Adler, The Writing Machine, London, 1973, s. 48.
+12 Adler, The Writing Machine, s. 25-90.
+13 Rozložení qwerty se stále používá v mnoha zemích, například v celém anglicky mluvícím světě. Na adrese
+některých jiných zemích se rozložení liší. Ve Francii se používá klávesnice azerty, zatímco v Německu a některých východních zemích se používá klávesnice
+evropských zemí používá klávesnici qwertz.
+14 Proto na některých klávesnicích nebyla zařazena samostatná číslice 1, přičemž písmeno l bylo považováno za dostatečně podobné
+tvaru.
+7
+Mezi mnoha vynalézavými i méně vynalézavými alternativními systémy pro zadávání textu, které udělaly
+se nepodařilo prosadit, je rozhodně třeba zmínit nápad Douglase Engelbarta, známý také jako
+vynálezce počítačové myši,15 zadávat 31 znaků standardního pětibitového kódu
+"dálnopisu" (předchůdce dálnopisu) současným stiskem pěti kláves (25 = 25), které se používaly při psaní na dálnopisu.
+32). 16 Engelbart na tomto "sluchátku s pěti klávesami" pracoval v 60. letech 20. století v rámci svého ambiciózního projektu, který se týkal i
+Framework for the Augmentation of Man's Intellect (Rámec pro rozšíření lidského intelektu), kterému se dostane více
+pozornost později v této kapitole. Ačkoli tato myšlenka nebyla nová (v průběhu devatenáctého století se v ní
+století již bylo zkonstruováno několik psacích strojů s klaviaturou klavírního typu), a
+měla jistě své výhody, nemohla se však postavit nadvládě, kterou měla klávesnice qwerty do
+v té době již získala. Používala se ve velké části světa a generace písařů
+se naučilo psát naslepo na qwerty rozložení.
+Psací stroj nepřebíral proces tvorby - úpravy - výroby -.
+publikace - distribuce - spotřeba přesáhl fázi tvorby. Postaral se o
+"zadávání dat" a "ukládání" (anachronické termíny pro funkce, které byly ve skutečnosti vytvořeny až
+počítačem) textu, ale nemohl udělat nic pro jeho reprodukci, publikaci a zpracování.
+17 Jako médium se tím psací stroj nijak podstatně neliší od psacího stroje.
+rukopisu - snad s výjimkou stupně čitelnosti. V tomto ohledu se
+se psací stroj jen velmi částečně blíží tiskařskému písmu. To však nezabránilo jeho
+vynálezcům, aby tuto vlastnost zdůrazňovali, a to i v případě nejstarších strojů.18
+lupa, kterou jsem umístil nad fázi tvorby a redakční fázi, ukazuje, že
+že psací stroj je, pokud jde o manipulaci s textem, poměrně slabý výkon.
+Mezi specializovanější techniky, které jsou v dějinách relevantní, patří např.
+počítačů jistě patří telegrafie, a zejména Baudotův systém pro zadávání textu
+z roku 1874. To je standardní pětibitový kód, který byl již zmíněn v diskusi o
+klávesnici. Navzdory omezenému počtu znaků (maximálně 32), které bylo možné
+tímto pětibitovým systémem zakódovat, bylo toto kódování znaků od Emila Baudota (1845-1903)
+se v digitálním elektronickém prostředí používalo až do doby, kdy bylo nahrazeno kódováním ASCII v roce 2010.
+v polovině 60. let 20. století. 19 Protože morseovka se svými tečkami a pomlčkami je také binární,
+Baudotův kódovací systém se obzvláště dobře hodil pro přenos do počítače.
+Dalším specializovaným zařízením pro zpracování textu, které si zaslouží pozornost, byl tzv.
+stroj na sazbu, který se používal při výrobě tisku. 20 Sázecí stroj používal
+klávesnici psacího stroje (i když klávesnice psacího stroje byla na rozdíl od klávesnice psacího stroje
+vybavena podstatně větším počtem kláves; stroj Monotype měl čtyři kompletní sady qwerty
+po jedné pro latinku, kurzívu, tučné písmo a malá písmena). Přinejmenším čtyři zásadní vylepšení
+15 Viz Thierry Bardini, Bootstrapping: Douglas Engelbart, koevoluce a počátky osobního jazyka.
+Computing, Stanford, 2000, s. 81-102.
+16 Viz Bardini, Bootstrapping, str. 58-80.
+17 Samozřejmě s výjimkou poněkud omezené pomoci kopírování. Šablonovací stroj a duplikátor
+lze zanedbat. Zatímco tyto techniky využívají k záznamu textu psací stroj, rozmnožování je
+samostatný krok, který vyžaduje duplikátor.
+18 "Britskému inženýrovi Henrymu Millovi byl v roce 1714 udělen britský patent č. 395 na zařízení, které je schopno
+otiskovat písmena na papír nebo pergamen jedno po druhém "jako při psaní", přičemž výrobek je tak úhledný a
+přesný, že je k nerozeznání od tisku" (Adler, The Writing Machine, s. 47).
+19 Bardini, Bootstrapping, s. 65-79. Více bude řečeno o ASCII (American Standard for Information
+Interchange) později v této kapitole.
+20 Dalšími, okrajovějšími systémy, které lze zmínit, byly např.
+titulků a titulků pro film a televizi, které se postupem času rovněž stávaly sofistikovanějšími.
+8
+které byly v oblasti sazby použity brzy, ne-li poprvé, měly v posledních desetiletích velký význam.
+velký význam pro rozvoj digitálního zpracování textu. Jednalo se o použití
+paměťového média v podobě děrné pásky psacího stroje Monotype.
+z roku 1887; použití dálnopisného stroje pro dálkovou sazbu prostřednictvím 6bitového stroje
+kódu teletypopisu (TTS) na konci dvacátých let 20. století; použití počítače na konci dvacátých let 20. století; použití počítače na konci dvacátých let 20. století; použití počítače na konci dvacátých let 20. století.
+třetí generace fototypizačních strojů z konce šedesátých let 20. století a vývoj počítačů pro fototypizaci.
+koncepce značkování v 60. a 70. letech 20. století, o níž bude více řečeno později.
