@@ -14,6 +14,7 @@
 - [ARABIC](./Translations/arabic.txt)
 - [WELSH](./Translations/welsh.txt)
 - [LATIN](./Translations/latin.txt)
+- [LINGALA](./Translations/Lingala.txt)
 - [HINDI](./Translations/hindi.txt)
 - [FINNISH](./Translations/Finnish.txt)
 - [GREEK](./Translations/greek.txt)
@@ -25,10 +26,9 @@
 - [PORTUGUESE](./Translations/portuguese.txt)
 - [KURDISH](./Translations/kurdish.txt)
 - [ITALIAN](./Translations/italian.txt)
-
 - [BOSNIAN](./Translations/bosnian.txt)
-
 - [VIETNAMESE](./Translations/vietnamese.txt)
 - [MALASIAN](./Translations/malasian.txt)
+- [TIGRINYA](./Translations/Tigrinya.txt)
 
 
