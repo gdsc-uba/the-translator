@@ -1,0 +1,66 @@
+Sejarah Ringkas Teks dan Komputer
+
+1. Peranan utama teks dalam pembangunan komputer
+
+Komputer digital boleh atur cara pertama telah dibina pada tahun 1940-an. Pemprosesan teks ialah
+amalan yang lebih baru, sejak tahun 1960-an. Ia hanya pada tahun 1990-an bahawa
+komputer juga mula menawarkan alternatif yang serius untuk pengedaran teks. Namun dalam kurang
+daripada setengah abad komputer telah menyindir diri mereka ke dalam tekstur masyarakat untuk
+sehinggakan ia tidak dapat berfungsi tanpa mereka. Bab ini mengkaji bagaimana
+komputer dalam masa yang singkat telah memainkan peranan yang begitu dominan khususnya dalam
+dunia tekstual.
+Beberapa peristiwa penting dalam pembangunan yang telah menjadi digital
+medium teks dapat dikenalpasti.
+Pada abad kesembilan belas mesin pengira tujuan tunggal, mula-mula dicipta untuk
+mempunyai potensi untuk dijadikan Mesin Universal, mampu melaksanakan tugas yang
+boleh dinyatakan dengan cara algoritma. Pada tahun 1940-an Mesin Universal yang pertama ialah
+dibina. Pada tahun 1960-an komputer sebagai Mesin Universal telah didayakan untuk memproses teks,
+yang memberikannya peranan dalam fasa penciptaan teks. Pada tahun 1980-an mesin manusia grafik
+antara muka komputer sangat meningkatkan kemungkinan untuk tipografi
+rendering teks. Ia membolehkan komputer memainkan peranan penting dalam pengeluaran
+bahan bercetak. Antara muka grafik juga membuka jalan untuk kewujudan bersama dua
+cara yang berbeza untuk merawat teks secara digital: logik dan tipografi.
+• Pada abad kesembilan belas mesin pengira tujuan tunggal, mula-mula dicipta
+mempunyai potensi untuk dijadikan Mesin Universal, mampu melaksanakan tugas
+yang mungkin dinyatakan melalui algoritma.
+• Pada tahun 1940-an Mesin Universal pertama telah dibina.
+• Pada tahun 1960-an komputer sebagai Mesin Universal telah didayakan untuk memproses teks, yang
+memberikannya peranan dalam fasa penciptaan teks.
+• Pada tahun 1980-an antara muka grafik manusia–mesin komputer telah dipertingkatkan dengan baik
+kemungkinan untuk rendering tipografi teks. Ia membolehkan komputer bermain
+peranan utama dalam penghasilan bahan bercetak. Antara muka grafik juga menurap
+cara untuk kewujudan bersama dua cara berbeza untuk merawat teks secara digital: logik dan
+tipografi.
+• Pada tahun 1990-an komputer telah dimasukkan ke dalam rangkaian, yang diperbesarkan peranannya sebagai a
+alat komunikasi daripada alat bantuan untuk penghasilan bahan bercetak analog kepada
+medium baharu digital sepenuhnya dengan cara tersendiri, juga terdiri daripada pengedaran dan
+penggunaan.
+Dalam 'litar komunikasi'1 Robert Darnton telah mengkonseptualisasikan keseluruhannya
+proses penghantaran buku dan lain-lain bentuk teks bercetak kerana ia telah berfungsi untuk beberapa
+berabad-abad. Model ini menggambarkan proses di mana pelbagai pelakon berturut-turut bekerja
+1 Lihat Robert Darnton, ‘What is the History of Books’, Daedalus, Summer 1982, ms 65-83.
+2
+bersama-sama di bawah pelbagai keadaan budaya, ekonomi, dan politik untuk menyebarkan a
+teks pengarang supaya dapat sampai kepada pembacanya. Meletakkan litar komunikasi di atas
+proses penghantaran teks digital model ini akan mengenal pasti persamaan dan perbezaan
+(atau kesinambungan dan ketakselanjaran) antara medium digital baharu dan pendahulunya
+media cetak.
+Proses membuat teks awam dan menyebarkannya terdiri daripada pelbagai
+peringkat yang berbeza. Ini kira-kira sepadan dengan yang dikenal pasti dalam komunikasi
+litar: penciptaan teks (penulisan), diikuti dengan pengeluarannya (pendaraban),
+pengedaran (saat teks diumumkan), dan akhirnya penggunaan (membaca).
+Walau bagaimanapun, untuk memeriksa peringkat yang berbeza dalam pembangunan peranan komputer dalam
+pemindahan teks dengan lebih dekat, saya ingin mencadangkan satu penyesuaian kecil kepada rantaian ini
+peringkat. Saya ingin meletakkan kaca pembesar di atas pautan pertama dalam rantai, iaitu
+‘peringkat penciptaan’, iaitu fasa di mana kandungan dan bentuk teks tidak ada
+telah dimuktamadkan. Selain penulisan teks oleh pengarang fasa ini juga terdiri daripadanya
+penyuntingan, sama ada ini dilakukan oleh pengarang atau oleh seseorang yang bertindak bagi pihaknya (untuk
+contoh editor penerbit). Secara teknikal, ini bermakna membuat perbezaan antara (a)
+kemasukan teks, (b) rakaman teks, dan (c) manipulasi teks apabila ia telah dimasukkan.
+Menyedari ketidakstabilan ini dalam peringkat penciptaan, yang terdiri daripada penulisan dan penyuntingan dalam mana-mana
+bilangan lelaran, menjadikannya lebih mudah untuk mengesan perkembangan peranan komputer dalam
+proses penulisan. Kira-kira tiga peringkat dalam pembangunan itu boleh diiktiraf. Ini sebahagiannya
+bertindih, tetapi mereka pada asasnya cukup berbeza untuk merawatnya secara berasingan. The
+peringkat adalah (1) perwakilan teks pada komputer (masuk, rakaman, penyimpanan), (2) yang
+manipulasi teks tersimpan untuk aplikasi saintifik dan profesional, dan (3) yang sebenar
+pemprosesan perkataan pada pc, sebagai bantuan dalam pemikiran dan penulisan pengarang p
