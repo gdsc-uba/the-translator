@@ -31,3 +31,4 @@
 - [MALASIAN](./Translations/malasian.txt)
 - [TIGRINYA](./Translations/Tigrinya.txt)
 - [CZECH](./Translations/czech.txt)
+- [ROMANIA](./Translations/romania.txt)
