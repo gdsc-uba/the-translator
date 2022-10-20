@@ -26,11 +26,10 @@
 - [PORTUGUESE](./Translations/portuguese.txt)
 - [KURDISH](./Translations/kurdish.txt)
 - [ITALIAN](./Translations/italian.txt)
-
 - [BOSNIAN](./Translations/bosnian.txt)
-
 - [VIETNAMESE](./Translations/vietnamese.txt)
--[TIGRINYA](./Translations/Tigrinya.txt)
--[CZECH](./Translations/czech.txt)
+- [MALASIAN](./Translations/malasian.txt)
+- [TIGRINYA](./Translations/Tigrinya.txt)
+- [CZECH](./Translations/czech.txt)
 - [DANISH](./Translations/dansk.txt)
-
+- [ROMANIA](./Translations/romania.txt)

@@ -1,0 +1,36 @@
+O scurtă istorie a textului și a computerului
+1. Rolul central al textului în dezvoltarea computerului
+Primul computer digital programabil a fost construit în anii 1940. Prelucrarea textului este
+o practică și mai recentă, datând din anii 1960. Abia în anii 1990
+computerul a început să ofere și o alternativă serioasă pentru distribuirea textelor. Totuși în mai puțin
+de o jumătate de secol computerele s-au insinuat în textura societăţii pentru
+în așa măsură încât nu ar putea funcționa fără ele. Acest capitol examinează modul în care
+computerul a ajuns într-un timp atât de scurt să joace un rol atât de predominant în special în
+lumea textuală.
+
+2
+împreună în diferite condiții culturale, economice și politice pentru a disemina un
+textul autorului pentru ca acesta să ajungă la cititorii săi. Aşezarea circuitului de comunicaţii peste
+procesul de transmitere a textului digital acest model va identifica asemănările și diferențele
+(sau continuități și discontinuități) între noul mediu digital și predecesorul său
+suportul de imprimare.
+Procesul de a face publice textele și de a le difuza cuprinde diverse
+etape distincte. Acestea corespund aproximativ cu cele identificate în comunicări
+circuit: crearea textului (scrierea), urmată de producerea acestuia (înmulțirea),
+distribuție (momentul în care textul este făcut public) și, în final, consum (lectura).
+Cu toate acestea, pentru a inspecta diferitele etape în dezvoltarea rolului computerului în
+transferul textului mai îndeaproape, aș dori să propun o mică adaptare la acest lanț
+de etape. Aș dori să pun o lupă peste prima verigă a lanțului, the
+„etapa de creație”, care este faza în care conținutul și forma textului nu au
+fost finalizat. Pe lângă scrierea textului de către autor, această fază mai cuprinde și a acestuia
+editare, indiferent dacă aceasta este făcută de autor sau de cineva care acționează în numele său (de exemplu
+exemplu editorul editorului). Din punct de vedere tehnic, aceasta înseamnă a face o distincție între (a)
+introducerea textului, (b) înregistrarea textului și (c) manipularea textului odată ce acesta a fost introdus.
+Recunoașterea acestei fluidități în etapa de creație, cuprinzând scriere și editare în orice
+numărul de iterații, facilitează urmărirea evoluției rolului computerului în
+procesul de scriere. Pot fi recunoscute aproximativ trei etape ale acestei dezvoltări. Acestea parțial
+suprapuse, dar sunt fundamental suficient de diferite pentru a le trata separat.
+calculator. A doua este mașina de scris, care a livrat, sub forma tastaturii, cel
+principalul mijloc de intrare pentru computer astăzi. Ide 256 de caractere unice. Modalități precum imaginea și sunetul
+sunt mai complicat de codat. Aici semnalul trebuie împărțit în orice arbitrar
+numărul de componente constitutive.
