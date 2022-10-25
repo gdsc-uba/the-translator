@@ -34,3 +34,4 @@
 - [DANISH](./Translations/dansk.txt)
 - [ROMANIA](./Translations/romania.txt)
 - [UKRAINIEN](./Translations/ukrainien.txt)
+- [BALINESE](./Translations/balinese.txt)
