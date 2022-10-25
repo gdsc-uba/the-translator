@@ -1,0 +1,324 @@
+Lyhyt tekstin ja tietokoneen historia
+
+1. Tekstin keskeinen rooli tietokoneen kehityksessä
+
+Ensimmäinen ohjelmoitava digitaalinen tietokone rakennettiin 1940-luvulla. Tekstin käsittely on
+vielä uudempi käytäntö, joka on peräisin 1960-luvulta. Vasta 1990-luvulla
+tietokone alkoi myös tarjota vakava vaihtoehto tekstien jakelulle. Silti vähemmällä
+yli puoli vuosisataa tietokoneet ovat insinuoineet itsensä yhteiskunnan rakenteeseen
+siinä määrin, ettei se voisi toimia ilman niitä. Tässä luvussa tarkastellaan, kuinka
+tietokoneella on niin lyhyessä ajassa tullut niin hallitseva rooli erityisesti
+tekstimaailmaan.
+Joitakin merkittäviä virstanpylväitä sen kehityksessä, josta on sittemmin tullut digitaalinen
+tekstiväline voidaan tunnistaa.
+1800-luvulla yksikäyttöinen laskukone suunniteltiin ensimmäisen kerran
+voi tulla yleiskoneeksi, joka pystyy suorittamaan sellaisia ​​tehtäviä
+voidaan ilmaista algoritmin avulla. Ensimmäiset Universal Machines olivat 1940-luvulla
+rakennettu. 1960-luvulla tietokone yleiskoneena pystyi käsittelemään tekstiä,
+mikä antoi sille roolin tekstin luomisvaiheessa. 1980-luvulla graafinen ihminen-kone
+tietokoneen käyttöliittymä paransi huomattavasti typografisen mahdollisuuksia
+tekstin renderöinti. Sen ansiosta tietokoneella oli keskeinen rooli tuotteen tuotannossa
+painotuotteet. Graafinen käyttöliittymä myös tasoitti tietä kahden rinnakkaiselolle
+erilaisia ​​tapoja käsitellä tekstiä digitaalisesti: looginen ja typografinen.
+• 1800-luvulla kehitettiin ensimmäisen kerran yksikäyttöinen laskukone
+Mahdollisuus muuttua yleiskoneeksi, joka pystyy suorittamaan tehtäviä
+joka voidaan ilmaista algoritmin avulla.
+• Ensimmäiset yleiskoneet rakennettiin 1940-luvulla.
+• 1960-luvulla tietokone yleiskoneena pystyi käsittelemään tekstiä, mikä
+antoi sille roolin tekstin luomisvaiheessa.
+• 1980-luvulla tietokoneen graafinen ihminen-kone-käyttöliittymä parani huomattavasti
+mahdollisuudet tekstin typografiseen esittämiseen. Se mahdollisti tietokoneen pelaamisen
+keskeinen rooli painotuotteiden valmistuksessa. Graafinen käyttöliittymä myös tasoitti
+kaksi erilaista tapaa käsitellä tekstiä digitaalisesti: looginen ja
+typografinen.
+• 1990-luvulla tietokone liitettiin verkkoon, mikä laajensi sen roolia a
+viestintäväline analogisten painotuotteiden tuotannon apuvälineestä
+uusi, täysin digitaalinen väline itsessään, joka sisältää myös jakelun ja
+kulutus.
+Robert Darnton on "kommunikaatiopiirissään"1 käsitteittänyt koko asian
+kirjojen ja muiden painettujen tekstilomakkeiden siirtoprosessi, koska se on toiminut useille
+vuosisadat. Tämä malli visualisoi prosessia, jossa useat peräkkäiset toimijat työskentelevät
+1 Katso Robert Darnton, "What is the History of Books", Daedalus, kesä 1982, s. 65-83.
+2
+yhdessä vaihtelevissa kulttuurisissa, taloudellisissa ja poliittisissa olosuhteissa levittääkseen
+kirjoittajan tekstiä, jotta se tavoittaa lukijansa. Viestintäpiirin asettaminen laitteen päälle
+digitaalisen tekstin siirtoprosessissa tämä malli tunnistaa yhtäläisyydet ja erot
+(tai jatkuvuudet ja epäjatkuvuudet) uuden digitaalisen median ja sen edeltäjän välillä
+tulostusväline.
+Tekstien julkistamis- ja levitysprosessi käsittää erilaisia
+erilliset vaiheet. Nämä vastaavat suurin piirtein tiedonannossa yksilöityjä
+piiri: tekstin luominen (kirjoittaminen), jota seuraa sen tuottaminen (kertominen),
+jakelu (hetkellä kun teksti julkaistaan) ja lopuksi kulutus (lukeminen).
+Kuitenkin tarkastelemaan tietokoneen roolin kehityksen eri vaiheita
+Tekstin siirtoa tarkemmin, haluaisin ehdottaa yhtä pientä mukautusta tähän ketjuun
+vaiheista. Haluaisin asettaa suurennuslasin ketjun ensimmäisen lenkin päälle
+"luomisvaihe", joka on vaihe, jossa tekstin sisältö ja muoto eivät ole
+viimeistelty. Tekijän kirjoittaman tekstin lisäksi tähän vaiheeseen kuuluu myös sen
+muokkaaminen, olipa sen tekijän tai jonkun hänen puolestaan ​​toimivan henkilön tekemä (for
+esimerkiksi kustantajan toimittaja). Teknisesti tämä tarkoittaa eron tekemistä (a)
+tekstin syöttäminen, (b) tekstin tallennus ja (c) tekstin käsittely sen jälkeen, kun se on syötetty.
+Tämän sujuvuuden tunnistaminen luomisvaiheessa, joka sisältää kirjoittamisen ja muokkaamisen missä tahansa
+iteraatioiden määrä, helpottaa tietokoneen roolin kehityksen jäljittämistä
+kirjoitusprosessi. Siinä kehityksessä voidaan tunnistaa karkeasti kolme vaihetta. Nämä osittain
+päällekkäisiä, mutta ne ovat pohjimmiltaan riittävän erilaisia ​​käsitelläkseen niitä erikseen. The
+vaiheet ovat (1) tekstin esittäminen tietokoneella (syöttö, tallennus, tallennus), (2)
+tallennetun tekstin manipulointi tieteellisiä ja ammatillisia sovelluksia varten ja (3) todellinen
+tekstinkäsittely tietokoneella, tekijällisen ajattelun ja kirjoittamisen apuvälineenä prosessi.
+Suosituimpia tietokonesovelluksia nykyään ovat epäilemättä chat, sana
+käsittely, sähköpostin lähettäminen ja Web-selailu, kaikki tekstipohjaiset harrastukset. Mutta myös näiden ulkopuolella
+tekstisovellukset teksti on avain tietokoneen käyttöön. Kaikessa aritmeettisessa, analyyttisessä, mediaalisessa
+ja muut sovellukset, joihin tietokone yleiskoneena sopii, tekstillä on
+keskeinen paikka. World Wide Webissä – ja Internetissä yleensä – tekstiä on eniten
+yleinen tapa järjestää, etsiä ja löytää tietoa, vaikka tieto itse olisikin
+ei ole teksti, vaan esimerkiksi musiikkitiedosto tai kuva. Kaikissa päivittäisissä asioissa
+tietokoneteksti tarjoaa käyttöjärjestelmän pääliittymän sekä käyttöjärjestelmän
+sovellukset. Tiedostot nimetään ja juuttuvat kansioihin, jotka nimetään jälleen tekstin avulla. Mutta
+myös tällaisen päivittäisen kuluttajakäytön lisäksi kieli on kaiken ihmisen ja koneen perusta
+vuorovaikutusta. Kaikki nykyaikaiset ohjelmointikielet käyttävät luonnollista kieltä. Myös
+merkintä (yksi tärkeimmistä tavoista koodata tekstiä tietokoneessa – ja
+World Wide Webissä julkaisemisen tekninen perusta) on täysin tekstillinen käytäntö.
+Edellisessä luvussa kuvailin, kuinka länsimainen yhteiskunta on ammuttu läpi
+kirjojen sosiaalinen ja kulttuurinen merkitys tiedon välittämisen päävälineenä. minulla on
+kutsui tätä Kirjan järjestykseksi. Tätä taustaa vasten se näyttää vain luonnolliselta, ja siinä
+tosiasia on lähes väistämätön, että tietokone oli tarkoitus käyttää tekstiviestintään
+heti kun tämä tuli mahdolliseksi ja että koko ihmisen ja tietokoneen välisestä vuorovaikutuksesta tuli a
+tekstijuttu. Todellakin, innokkuus, jolla tekstinkäsittelyohjelma otettiin vastaan
+1980-luku näyttää vahvistavan tämän ajatuksen. Ottaen huomioon tekstipohjaisten sovellusten näkyvyyden
+3
+suosittu tietokoneen käyttö nykyään, kysymys jopa esittelee itsensä miksi tietokone oli
+keksitty laskukoneeksi kielikoneen sijaan. Sellaisenaan tietokone
+on edelleen laskettava uudelleen kaikki ne tekstitiedot ja ohjeet, jotka syötämme ne
+vain merkitykselliset yksiköt, jotka se tietää: ykkösiä ja nollia. Miksei se olisi mahdollista
+laskea itse kielellä? Ajatus saattaa tuntua oudolta kuin se on. Hänen koko elämänsä
+Wilhelm Leibniz uskoi edelleen loogisesta koostuvan kielen rakentamiseen
+symbolit, joita voidaan käsitellä laskimen avulla. Tällainen kieli ja a
+koneella "laskemaan", se mahdollistaisi minkä tahansa filosofisen keskustelun ratkaisemisen napsautuksella
+painikkeesta. 2 Se, että Leibnizin unelmaa ei ole vieläkään saavutettu, ei niinkään siksi, että sellainen a
+looginen symbolijärjestelmä ei ole käyttökelpoinen.3 Todellinen ongelma on, että hienovaraiset sävyt
+Se tarkoittaa, että voimme – ja haluamme pystyä – ilmaisemaan luonnollisella ihmiskielellä
+ei voida pelkistää loogisten symbolien järjestelmäksi.
+Nollia ja ykkösiä se sitten oli. Mukavuuden vuoksi se kuitenkin tuntui
+tarpeen suunnitella tapa lähettää ohjeet tietokoneelle inhimillisesti ymmärrettäväksi
+muoto. Siksi ohjelmariveillä, valikoilla, tiedostonimillä ja vastaavilla on nyt kaikilla ihmis-
+luettavassa muodossa, vaikka kulissien takana tietokone vielä laskee ainoalla
+numerot, jotka se tuntee: ykkösiä ja nollia. Kukaan käyttäjä ei enää ajattele, että jokainen näppäinpainallus on
+muunnetaan binäärilukujen sarjaksi. Itse asiassa käsityksemme mukaan kieli on
+Ensisijainen tapa käsitellä tietokonetta nykyään. Numerot, jotka tietokone
+todella crunches näyttää olevan vain alisteinen rooli; numerot näyttävät olevan
+tanssia tekstin tahdissa. Mutta kerran päinvastoin oli tapaus ja ajatellen
+tietokoneen binäärisydän, etsittiin tapa edustaa kirjaimia.
+Kun otetaan huomioon tekstin valtava merkitys keskimääräisessä päivittäisessä tietokoneen käytössä, se on sitä
+hämmästyttävää, kuinka paljon vaivaa kesti, ennen kuin tietokone todella pystyi käsittelemään tekstiä.
+Miten prosessi tapahtui ja miksi se kesti niin kauan? Mitkä tekijät estivät ja
+stimuloivat sitä: suunnittelu ja sattuma, tahattomat vaikutukset, suunniteltujen vaikutusten epäonnistuminen jne. Tämä
+luku rekonstruoi tämän prosessin yleispiirteissään.
+Tuo teksti on tullut keskeiseen asemaan tietokoneessa näkyy ensi silmäyksellä
+olla vain luonnollista – heijastus tekstin merkityksestä yhteiskunnassa. Samalla jotkut
+kommentaattorit huomauttavat, että teksti alkaa itse asiassa menettää painoarvoaan.4 He ovat
+Tämä ei tietenkään viittaa siihen, että olisimme aloittamassa suoraa binaarista tiedonvaihtoa
+tietokoneeseen tai siitä, että ihmiset ovat äskettäin hankkineet massiivisen koulutuksen ja kokemuksen
+symbolinen logiikka. Ne tarkoittavat sitä, että tekstin lisäksi muita modaliteettia, erityisesti
+kuvilla on yhä tärkeämpi rooli digitaalisessa viestinnässä, kuten yhteiskunnassa
+vapaana. Tätä kutsutaan usein visuaalisen kulttuurin valta-asemaksi. 5 Yksi yksinkertainen
+Selitys muiden menetelmien lisääntymiselle voisi olla se, että digitaalinen media tekee sen
+luvussa 2 määritellyn lähentymisen ansiosta on helppo integroida menetelmiä, kuten
+2 Teoksessa Hovimies ja harhaoppinen: Leibniz, Spinoza ja kohtalo Jumala nykymaailmassa (New York
+ja Lontoo, 2006, s. 79), Matthew Stewart kertoo tästä Leibnizin ihanteesta.
+3 Alfred North Whiteheadin ja Bertrand Russellin Principia Mathematica (1910-1913) on vaikuttava todiste
+että se on, vaikka Douglas Hofstadter on oikeassa tulkinnoissaan Kurt Gödelin vaikutuksista.
+räjähtävä artikkeli vuonna 1931 Russelin linnoituksen kohtalosta, jota hän piti valloittamattomana (katso Douglas
+Hofstadter, I Am a Strange Loop, New York, 2007, luku 10).
+4 Steve Johnson, Käyttöliittymäkulttuuri: Kuinka uusi teknologia muuttaa tapaamme luoda ja
+Communicate (New York, 1997, ks. s. 148-52) on yksi poikkeuksista.
+5 Ks. esimerkiksi Mitchell Stephens, The Rise of the Image, the Fall of the Word.
+4
+kuvat ja äänet tekstissä. Mutta visuaalisen kulttuurin käsitys ei ole niin uusi, ja varmasti
+ennen tietokoneen tuloa. 1900-luvun alusta monissa
+paikoissa maailmassa kaikenlaisia ​​visuaalisia kieliä on suunniteltu kyltteihin, pakkauksiin
+ja muut viestintämuodot. 6 Viime vuosisadan puolivälissä De la Fontaine
+Verwey toteaa panoksestaan ​​Copy and Print -sivustolle Alankomaissa, että kuva,
+"Kirja on joksikin aikaa korvannut sen", "on palannut vanhat oikeutensa ja on mukana
+suorittaa tehtäviä, joita painetun sana on suorittanut vuosisatojen ajan.’7
+Merkit siitä, että teksti alkaa menettää painoarvoaan, eivät ole vain merkkejä
+heikko, tekstin rooli on luultavasti samalla vahvistunut muillakin tavoilla, esim
+tietokoneen ja Internetin pitkälti tekstimuotoisena käyttöliittymänä, mutta myös
+matkapuhelimen tekstiviestien poikkeuksellisen suosittu. Suosion perusteella arvioida
+sosiaaliset verkostot, blogit ja kommenttitoiminto niin monilla verkkosivustoilla, se voi hyvinkin olla
+Enemmän ihmisiä kirjoittavat – ainakin julkaisumuotoa ajatellen – kuin koskaan ennen.
+Ilmiö ei kuitenkaan välttämättä aina ole yhtä näkyvä. Esimerkki vähemmästä
+suoraan näkyvä tekstin käyttö on tapa, jolla avainsanat jaetaan kuviin ja ääniin järjestyksessä
+voidakseen etsiä niitä. Tämä voi olla ohimenevä ilmiö haettavuuden aikana
+kuvien ja äänen muuttaminen muiden kuvien ja äänen kautta on vielä lapsenkengissään. Aikaa varten
+on joka tapauksessa koko digitaalinen maailma – pelit ja chat mukaan lukien – käytettävissä
+tekstin keinoin.
+Jos tekstin ja muiden modaliteettien välinen suhde todellakin muuttuu,
+muutos ei ainakaan toistaiseksi vaikuta erityisen rajulta. Kuitenkin pidemmässä historiassa
+perspektiivistä voidaan hyvin kuvitella tilanne, jossa tekstiä ei välttämättä tarvitse olla eniten
+tärkeä viestintäväline. Palaan tähän spekulaatioon luvussa 6.
+2. Tietokoneiden ja tietojenkäsittelyn historia
+Aluksi oli vain vähän todisteita siitä, kuinka tärkeä rooli tekstillä oli digitaalisessa maailmassa
+maailman. Tekstin tietokoneelle tulon historia alkaa kahdella suurella
+kehitysharppauksia itse tietokoneen historiassa. Erityisesti kaksi on tärkeää:
+(a) koneista, joissa on vain yksi toiminto, monitoimikoneisiin, ja (b) se
+mekaanisista elektronisiin, digitaalisiin koneisiin. Luokassa koneita vain
+yksi toiminto, kaksi ovat erityisen tärkeitä tietokoneen historian kannalta koneena
+tekstin käsittelyyn. Ensimmäinen on laskin, joka edelleen muodostaa jokaisen sydämen
+tietokone. Toinen on kirjoituskone, joka toimitti näppäimistön muotoisena
+tietokoneen tärkein syöttötapa nykyään. Lisäksi on useita muita
+erikoiskoneita, joista mainitsen myös lyhyesti.
+Laskimen historia tietokoneen edelläkävijänä ulottuu noin neljän vuoden taakse
+6 Kuvien potentiaaliin uskottiin valtavasti (piktogrammien ja kuvakkeiden muodossa, mutta myös
+kuvapohjaiset tilastot) tehokkaan tiedonsiirron edistämiseksi. Erityisen näkyvä ja
+tietografiikan käytön väsymätön puolestapuhuja oli Otto Neurath, isotyypin keksijä
+(International System of Typographic Picture Education) symboleja 1920-luvulla. Sen jälkeen kun hän oli paennut kotimaastaan
+Itävallassa 1930-luvulla hän perusti Kansainvälisen visuaalisen koulutuksen säätiön Haagiin ja myöhemmin
+Isotype Institute Oxfordissa.
+7 H. de la Fontaine Verwey, 'Twentieth century', julkaisussa W. Gs Hellinga, Copy and Print in the Netherlands:
+an Atlas of Historical Bibliography, Amsterdam, 1962, s. 59-67, s. 59.
+5
+vuosisadat. Vuonna 1623 Wilhelm Schickard (1592-1635) Tübingenistä teki 6-bittisen laskennan
+kello”, joka voi lisätä ja vähentää. Hän kutsui konettaan kelloksi, koska koneisto
+muistutti yhtä. Laite oli täysin mekaaninen. Kun puoli vuosisataa myöhemmin
+Wilhelm Leibniz alkoi työstää ideaansa digitaalisesta laskimesta, hän oli suuri juttu
+kunnianhimoisempi. Hänen koneensa piti pystyä käsittelemään universaaleja loogisia symboleja. Sisään
+hillittömästä kunnianhimostaan ​​ja omistautumisestaan ​​huolimatta hän ei koskaan onnistunut ylittämään jonkinlaista
+mekaaninen taskulaskin, joka voi lisätä, vähentää, kertoa ja jakaa. Kuten Leibniz
+1700-luvulla brittiläinen matemaatikko Charles Babbage 1800-luvulla
+vuosisadalla oli visio, että laskimia voitaisiin käyttää muihin tarkoituksiin kuin tekemiseen
+numeeriset laskelmat. Vuosisatojen aikana tieteellinen tieto ja väline
+valmistustaidot olivat kehittyneet niin paljon, että Babbage pystyi toteuttamaan sen
+hänen ajatuksensa pidemmälle kuin hänen edeltäjänsä. Vaikka Babbage ei koskaan rakentanut enempää kuin osia
+hänen "analyyttisen koneensa" 8 suunnittelunsa ansiosta häntä voidaan pitää
+ensimmäinen Universal Machine. Kuten Schikardin ja Leibnizin laskimet, se oli täysin
+mekaaninen (se oli tarkoitus käyttää höyryllä) ja käytti desimaalilukua digitaalisen sijaan
+numeroita, mutta se oli ohjelmoitavissa, erotti tiedot ohjelmasta ja oli kyvykäs
+silmukoita ja ehdollista haarautumista. Se oli enemmän kuin useimmat tietokoneet pystyivät
+jopa vuosisataa myöhemmin. Babbage jopa harkitsi laskelmien tulosten vientiä
+reikäkorteille. Tämä jacquard-kutomakoneen inspiroima ajatus olisi mahdollistanut
+kone kirjoittaa ja tallentaa omia ohjelmiaan.
+Charles Babbage sai näyn; Ada, Lovelacen kreivitär, matemaatikko
+joka kuuli hänen selittävän siitä eräänä iltana päivällisellä, oli yksi harvoista ihmisistä, jotka
+ymmärtänyt sen seuraukset. Sen tunnustaminen korkeammalla abstraktiolaskennan tasolla
+ei ollut laskemista vaan symbolien manipulointia, hän kehitteli useita
+algoritmeja, jotka analyyttinen kone olisi saattanut suorittaa
+rakennettu. Kun Lovelace käänsi italialaisen artikkelin Analytical Enginestä
+matemaatikko ja sotilasinsinööri Luigi Menabrea lisäsi joitakin erittäin havainnollisia
+hänen omia muistiinpanojaan, jotka ovat kaksi kertaa alkuperäisen artikkelin pituisia. Näissä muistiinpanoissa hän
+ennusti oikein, että analyyttisen koneen kaltaista konetta voitaisiin käyttää säveltämiseen
+musiikkia, tuottaa grafiikkaa ja suorittaa erilaisia ​​tieteellisiä tehtäviä:
+[En] voisi vaikuttaa muihin asioihin kuin lukumäärään, jos löydettäisiin esineitä, joiden keskinäinen
+perustavanlaatuiset suhteet voitaisiin ilmaista abstraktin toimintatieteen suhteilla,
+ja jonka tulisi myös olla alttiita mukautumisille toiminnan toimintaan
+moottorin merkintä ja mekanismi. Oletetaan esimerkiksi, että perustavanlaatuinen
+korkeiden äänten suhteet harmonian ja musiikin sävellyksen tieteessä olivat
+alttiita sellaisille ilmaisuille ja mukautuksille, moottori saattaa säveltää monimutkaisia
+ja minkä tahansa monimutkaisuuden tai laajuuden tieteelliset musiikkikappaleet.9
+8 Alunperin Babbage suunnitteli yksinkertaisemman "koneen", jonka hän antoi nimeksi "Difference Engine", koska se
+pystyi automaattisesti luomaan taulukoita aikaväleistä (tai eroista) tuloksena olevien numerosarjojen välillä
+ohjelmoiduista progressiivisten lisäysten sarjasta. Kone voisi tuottaa tulosteen taulukoista.
+9 'Sketch of the Analytical Engine Invented by Charles Babbage, Esq.', kirjoittaja L. F. Menabrea, muistiinpanoja Ada
+Lovelace, uusintapainos julkaisussa Charles Babbage, Science and Reform: Selected Works of Charles Babbage, toim.
+Anthony Hyman, CUP, 1989, s. 243-311, s. 270. Painotus alkuperäisessä.
+6
+Todisteita siitä, että visio Babbagesta ja Lovelacesta voisi tulla todeksi, toimitettiin vasta
+Alan Turing 1900-luvun puolivälissä. Turingin mukaan hänen abstraktinsa
+'Turingin kone' pystyi suorittamaan kaikki funktiot, jotka voidaan laskea
+algoritmisen menettelyn muodossa. Nykyaikaiset digitaaliset, elektronisesti ohjelmoitavat tietokoneet
+jotka täyttivät Turingin vaatimukset, kehitettiin ensimmäisen kerran 1940-luvulla.
+Binääriperiaatetta käytettiin paitsi itse laskelmissa, myös laskelmissa
+tapa, jolla tiedot koodattiin. Aivan kuten numerot voidaan esittää molempia a:ssa
+binäärijärjestelmässä ja desimaaliluvussa, sama pätee periaatteessa myös tekstiin, kuvaan ja
+ääni. Numeroiden ja tekstin tapauksessa erillisten merkkien määrä on hyvin rajallinen,
+ja jokainen merkki voidaan esittää rajoitetulla määrällä bittejä. Latinalaisella kirjaimella a
+yksi tavu (kahdeksan bittiä) voi koodata 256 ainutlaatuista merkkiä. Modaliteetti, kuten kuva ja ääni
+ovat monimutkaisempia koodata. Tässä signaali on jaettava mihin tahansa mielivaltaiseen
+aineosien lukumäärä. Kuvan (tai äänen) jakaminen erillisiin partikkeleihin
+tarkoittaa, että siirtymät eivät koskaan ole jatkuvia, vaan aina inkrementaalisia. Lukumäärä
+komponentit signaaliyksikköä kohden (esimerkiksi pikseliä tuumaa kohti) ratkaisee signaalin realistisuuden
+binääriesitys: mitä enemmän, sen parempi. Mutta kuinka suuri pikselien määrä per
+tuumaa, digitaalisen toiston realistisuus ei periaatteessa voi koskaan olla sama kuin analoginen
+esitys. Kaikista puutteistaan ​​huolimatta binääriesityksen merkitys on se kaikki
+Kaikki tiedot ja kaikki niihin sovellettavissa olevat laskelmat voidaan koodata
+samalla binäärimuodolla. Tämä tekee "binaarisuudesta" "elementin" 10, jossa paljon
+menettelytapojen ylistetty lähentyminen (josta enemmän luvussa 5) voi tapahtua.
+Kirjoituskone on toinen yksitoiminen kone sen laskimen lisäksi, jolla on
+ollut erittäin tärkeä tekstin koodauksen kehittämisessä tietokoneella. Jotkut
+Varhaisimmat kirjoituskoneet suunniteltiin sokeille, 11 mikä havainnollistaa hienosti kuinka syvä
+ero voi olla keksijän tarkoituksen ja keksinnön todellisen sosiaalisen käytön välillä. of
+Erityistä kiinnostavaa esillä olevaa aihetta kohtaan on näppäimistön tapaus. Kaikesta nerokkaasta kirjoittamisesta
+järjestelmiä, joita on koskaan suunnitellut 12 sen suunnitteli Christopher Sholes, ensimmäisen luoja
+kirjoituskone, joka otettiin kaupalliseen tuotantoon, siitä tuli standardi. Tämä oli
+näppäimistö tunnetulla qwerty-asettelulla. 13 Sholesin tärkein perintö
+näppäimistö on se, että hänen näppäimistöstään löydetyt merkit ovat nyt edelleen atomirakennus
+tekstilohkoja tietokoneella. Tavallisessa tietokoneen näppäimistössä ei ole aksenttia
+merkkejä, ei tee eroa yhdysviivan ja em-viivan välillä tai
+desimaalipilkku ja piste, ja siitä puuttuu kaikenlaisia ​​erikoismerkkejä: typografisista
+matemaattisten valuuttamerkkien kautta. Sen sijaan se oli vain visuaalinen ilme
+päätti, luotiinko erillinen merkki.14 Tietokoneen näppäimistö koodaa
+yksittäiset kirjaimet binaarisesti ja syöttää ne tietokoneeseen. Aivan kuten kirjoituskoneella, tämä
+tehdään määrittämällä yksi merkki näppäintä kohden, vaikka tätä määrää voidaan suurentaa
+Shift-näppäimellä (ja tietokoneen lisäksi erilaisilla toimintonäppäimillä).
+10 Termi on Michael Heim's, Electric Language, s. 102.
+11 Michael H. Adler, Kirjoituskone, Lontoo, 1973, s. 48.
+12 Adler, Kirjoituskone, s. 25-90.
+13 Qwerty-asettelu on edelleen käytössä monissa maissa, esimerkiksi koko englanninkielisessä maailmassa. Sisään
+joissakin muissa maissa asettelu eroaa. Ranska käyttää azerty-näppäimistöä, kun taas Saksa ja jotkut itämaiset
+Euroopan maat käyttävät qwertz-näppäimistöä.
+14 Tästä syystä joissakin näppäimistöissä ei ollut erillistä numeroa 1, vaan kirjainta l pidettiin riittävän samanlaisena
+kunnossa.
+7
+Monien kekseliäiden ja vähemmän kekseliäiden vaihtoehtoisten tekstinsyöttöjärjestelmien joukossa
+ei tee sitä on ehdottomasti mainittava ajatus Douglas Engelbart, joka tunnetaan myös nimellä
+tietokoneen hiiren keksijä15 syöttää standardin 5-bittisen koodin 31 merkkiä
+"teletyyppi" (teleksin edeltäjä) painamalla samanaikaisesti viittä näppäintä (25 =
+32). 16 Engelbart työskenteli tämän "viiden näppäimen luurin" parissa 1960-luvulla osana kunnianhimoista
+Framework for the Augmentation of Man’s Intellect -kehys, joka saa lisää
+huomiota myöhemmin tässä luvussa. Vaikka idea ei ollut uusi (19. luvun aikana
+luvulla oli jo suunniteltu useita pianotyyppisillä koskettimilla varustettuja kirjoituskoneita) ja
+sillä oli varmasti etuja, se ei ollut qwerty-näppäimistön ylivaltaa vastaan
+sitten jo hankittu. Se oli käytössä suuressa osassa maailmaa ja konekirjoittajien sukupolvia
+oli oppinut kirjoittamaan sokeasti qwerty-asettelun avulla.
+Kirjoituskone ei ottanut luomisprosessia – editointia – tuotantoa –
+julkaiseminen – jakelu – kulutus luomisvaiheen jälkeen. Se hoiti
+'tietojen syöttäminen' ja 'tallennus' (anakronistiset termit funktioille, jotka todella on luotu
+tietokoneella) tekstin, mutta se ei voi juurikaan vaikuttaa sen jäljentämiseen, julkaisemiseen ja
+jakelu.17 Tämä ei välineenä eroa kirjoituskoneesta olennaisesti
+käsikirjoitus—lukuun ottamatta ehkä luettavuutta. Tältä osin
+kirjoituskone lähestyy vain osittain tulostustyyppiä. Se ei kuitenkaan säilynyt
+Keksijät eivät painosta tätä ominaisuutta edes varhaisimpien koneiden tapauksessa.18
+Suurennuslasi, jonka asetin luomis- ja toimitusvaiheen päälle, osoittaa, että
+kirjoituskone on melko huono suoritus tekstin käsittelyssä.
+Yksi erikoistuneimmista tekniikoista, jotka ovat merkityksellisiä historiassa
+tietokone kuuluu varmasti lennätykseen ja erityisesti Baudot-järjestelmään tekstinsyöttöä varten
+vuodelta 1874. Se on standardi 5-bittinen koodi, joka on jo mainittu keskustelussa
+näppäimistö. Huolimatta rajoitetusta merkkien määrästä (enintään 32), se voisi olla
+salattu tällä viisibittisellä järjestelmällä, tällä Emile Baudotin (1845-1903) merkkikoodauksella
+oli edelleen käytössä digitaalisessa sähköisessä ympäristössä, kunnes se korvattiin ASCII:lla
+1960-luvun puolivälissä. 19 Koska morsejärjestelmä pisteineen ja viivoineen on myös binäärinen,
+Baudotin koodausjärjestelmä soveltui erityisen hyvin tietokoneelle siirtämiseen.
+Toinen huomion arvoinen erikoislaite tekstinkäsittelyyn oli
+painotuotannossa käytettävä ladontakone. 20 Ladontakoneessa käytettiin
+kirjoituskoneen näppäimistö hyödykseen (vaikka ladontakoneen näppäimistö oli
+varustettu huomattavasti enemmän avaimia; Monotypessä oli neljä täydellistä qwerty-sarjaa
+näppäimet, yksi kutakin latinaa, kursiivia, lihavointia ja pieniä kirjaimia varten). Ainakin neljä suurta parannusta
+15 Katso Thierry Bardini, Bootstrapping: Douglas Engelbart, Coevolution and the Origins of Personal
+Computing, Stanford, 2000, s. 81-102.
+16 Katso Bardini, Bootstrapping, s. 58-80.
+17 Paitsi tietysti melko rajallisella kopion avulla. Kaavainkone ja monistuskone
+voidaan jättää huomiotta. Vaikka nämä tekniikat käyttävät kirjoituskonetta tekstin tallentamiseen, kertominen on a
+erillinen vaihe, joka vaatii monistuskoneen.
+18 Brittiläiselle insinöörille Henry Millille myönnettiin brittiläinen patentti nro. 395 vuonna 1714 laitteelle, joka pystyy
+painavat kirjaimet paperille tai pergamentille peräkkäin "kuten kirjallisesti", tuote on niin siisti ja
+täsmälleen niin, ettei sitä voida erottaa painatuksesta” (Adler, The Writing Machine, s. 47).
+19 Bardini, Bootstrapping, s. 65-79. Lisää puhutaan ASCII:stä (American Standard for Information
+Interchange) myöhemmin tässä luvussa.
+20 Muita marginaalisempia järjestelmiä, joita voidaan mainita, olivat esimerkiksi ne, joita käytetään tuottamaan
+elokuvien ja television nimikkeet ja tekstitykset, jotka myös kehittyivät ajan myötä.
+8
+joita sovellettiin varhain, ellei ensimmäistä kertaa ladontateollisuudessa, ovat olleet
+suuri merkitys digitaalisen tekstinkäsittelyn kehittämiselle. Nämä olivat a
+tallennusväline Monotype-ladontakoneen rei'itetyn nauhan muodossa
+vuodesta 1887; telekirjoituskoneen sovellus etäladontaa varten 6-bitin kautta
+TeleTypeSetterin (TTS) koodi 1920-luvun lopulla; tietokoneen sovellus
+kolmannen sukupolven valoladontakoneita 1960-luvun lopulta ja kehitystä
+merkinnän käsitteestä 1960- ja 1970-luvuilla, josta lisää myöhemmin.

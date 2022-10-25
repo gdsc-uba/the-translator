@@ -33,3 +33,4 @@
 - [CZECH](./Translations/czech.txt)
 - [DANISH](./Translations/dansk.txt)
 - [ROMANIA](./Translations/romania.txt)
+- [BALINESE](./Translations/balinese.txt)
