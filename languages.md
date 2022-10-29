@@ -1,4 +1,6 @@
 ## TRANSLATED LANGUAGES
+
+- [AFRIKAANS](./Translations/afrikaans.txt)
 - [AMHARIQUE](./Translations/amharique.txt)
 - [ENGLISH](./Translations/english.txt)
 - [FRENCH](./Translations/francais.txt)
