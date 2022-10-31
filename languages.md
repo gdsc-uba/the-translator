@@ -37,3 +37,5 @@
 - [ROMANIA](./Translations/romania.txt)
 - [UKRAINIEN](./Translations/ukrainien.txt)
 - [BALINESE](./Translations/balinese.txt)
+- [SHONA](./Translations/Shona.txt)
+- [SERBIAN](./Translations/serbian.txt)
