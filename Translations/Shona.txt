@@ -1,0 +1,326 @@
+Nhoroondo Pfupi Yechinyorwa uye Kombuta
+
+1. Basa guru rezvinyorwa mukugadzirwa kwekombiyuta
+
+Yekutanga programmable yedhijitari komputa yakavakwa muma1940s. Kugadziriswa kwemavara ndiko
+imwe tsika yazvino, kubva kuma1960. Yakanga iri chete muma1990 iyo iyo
+komputa yakatangawo kupa imwe nzira yakakomba yekugovera zvinyorwa. Asi mune zvishoma
+anopfuura hafu yezana ramakore makomputa akazvipinza muchimiro chenzanga kuti
+zvokuti hazvaigona kushanda pasina ivo. Ichi chikamu chinoongorora kuti sei
+komputa yave nenguva diki diki kuti iite basa rakakura kudaro
+nyika yezvinyorwa.
+Zvimwe zviitiko zvikuru mukusimudzira izvo zvave kuita dijitari
+textual medium inogona kuzivikanwa.
+Muzana remakore rechigumi nemapfumbamwe muchina wekuverenga une chinangwa chimwe, wakatanga kunambwa kuti
+vane mukana wekushandurwa kuita Universal Machine, inokwanisa kuita mabasa ayo
+inogona kuratidzwa nenzira yealgorithm. Muma1940s ekutanga Universal Machines aive
+yakavakwa. Mumakore ekuma1960 komputa seUniversal Machine yakagoneswa kugadzira zvinyorwa,
+izvo zvakazvipa basa muchikamu chekugadzira zvinyorwa. Muma1980 iyo graphical man-muchina
+interface yekombuta yakawedzera zvakanyanya mikana yeiyo typographical
+kupa zvinyorwa. Yakagonesa komputa kuita basa repakati mukugadzirwa kwe
+zvakadhindwa. Iyo graphic interface yakagadzirawo nzira yekuvapo-kuvapo kwevaviri
+nzira dzakasiyana dzekubata zvinyorwa nedhijitari: zvine musoro uye typographical.
+
+• Muzana remakore rechigumi nemapfumbamwe muchina wekuverenga une chinangwa chimwe chete, wakatanga kunambwa
+kuve nekwaniso yekushandurwa kuita Universal Machine, inokwanisa kuita mabasa
+iyo inogona kuratidzwa nenzira yealgorithm.
+• Mumakore ekuma1940 ekutanga Universal Machina akavakwa.
+• Mumakore ekuma1960 komputa seMuchina Wepasi Pose yakagoneswa kugadzira zvinyorwa, izvo
+akazvipa basa muchikamu chekugadzira zvinyorwa.
+• Mumakore ekuma1980 graphical man-machine interface yekombuta yakavandudzwa zvikuru
+mikana yekupa typographical yezvinyorwa. Yakagonesa komputa kutamba
+basa guru mukugadzirwa kwezvinhu zvakadhindwa. Iyo graphic interface zvakare yakagadzira iyo
+nzira yekuvepo-kwenzira mbiri dzakasiyana dzekubata zvinyorwa nedhijitari: zvine musoro uye
+typographical.
+• Mumakore ekuma1990 komputa yaisanganisirwa mune network, iyo yakawedzera basa rayo se
+chombo chekufambisa mashoko kubva kune icho chekubatsira kugadzira analogu yakadhindwa nyaya kuenda
+itsva, yakazara dhijitari svikiro mune yayo chaiyo, inosanganisirawo kugovera uye
+kushandiswa.
+Mu 'communications circuit'1 Robert Darnton akafunga nezvese
+nzira yekufambisa yemabhuku nemamwe mafomu akadhindwa ezvinyorwa sezvaakashanda kune akati wandei
+mazana emakore. Iyi modhi inoona maitiro ayo vatambi vakateedzana vanoshanda
+1 Ona Robert Darnton, ‘What is the History of Books’, Daedalus, Zhizha 1982, mapeji 65-83.
+2
+pamwe chete pasi pemamiriro akasiyana etsika, ehupfumi, uye ezvematongerwo enyika kuparadzira
+chinyorwa chemunyori kuitira kuti chisvike kuvaverengi vayo. Kuisa dunhu rekufambiswa kwemashoko pamusoro pe
+nzira yekufambisa yezvinyorwa zvedhijitari iyi modhi icharatidza kufanana uye mutsauko
+(kana kuenderera mberi uye discontinuities) pakati peiyo nyowani yedhijitari svikiro uye yakatangira
+iyo inodhinda.
+Maitiro ekuita zvinyorwa pachena uye kuaparadzira anosanganisira akasiyana
+matanho akasiyana. Izvi zvinonyatsoenderana neavo vanoonekwa mukutaurirana
+dunhu: kusikwa kwechinyorwa (kunyora), kuchiteverwa nekugadzirwa kwayo (kuwanda),
+kugovera (nguva iyo chinyorwa chinoitwa pachena), uye pakupedzisira kushandiswa (kuverenga).
+
+Nekudaro, kuti uongorore matanho akasiyana mukuvandudzwa kwebasa rekombuta mu
+kufambiswa kwemavara zvakanyanya, ndinoda kukurudzira imwe diki yekuchinjisa kune iyi ketani
+zvematanho. Ndinoda kuisa girazi rinokudza pamusoro pekutanga link mucheni, iyo
+‘creation stage’, inova nhanho umo zviri mukati uye chimiro chechinyorwa zvisina
+zvapedzwa. Kunze kwekunyorwa kwechinyorwa nemunyori chikamu ichi chinewo
+kugadzirisa, kungave izvi zvichiitwa nemunyori kana nemumwe munhu ari kumumiririra (ye
+semuenzaniso mupepeti wemuparidzi). Nehunyanzvi, izvi zvinoreva kuita mutsauko pakati (a)
+kunyora mameseji, (b) kurekodha mameseji, uye (c) kushandiswa kwechinyorwa kana changopinzwa.
+Kuziva iyi fluidity mudanho rekugadzira, rinosanganisira kunyora uye kugadzirisa mune chero
+nhamba yekudzokororwa, inoita kuti zvive nyore kutsvaga kuvandudzwa kwebasa rekombuta mu
+kunyora maitiro. Anenge matanho matatu mukukura ikoko anogona kuonekwa. Izvi zvishoma
+akapindirana, asi akasiyana zvakanyanya zvakakwana kuti azvibate zvakasiyana. The
+nhanho ndeiyi (1) kumiririrwa kwemavara pakombuta (kupinda, kurekodha, kuchengetedza), (2) the
+kushandura zvinyorwa zvakachengetwa zvesainzi nehunyanzvi mashandisirwo, uye (3) iwo chaiwo
+izwi kugadzirisa pa pc, seyamuro mukunyora kwekunyora nekunyora maitiro.
+Pakati peanonyanya kufarirwa macomputer application nhasi hapana mubvunzo kutaura, izwi
+kugadzirisa, kutumira email uye kubhurawuza kweWebhu, zvese zvinyorwa-zvinoenderana nekutsvaga. Asi zvakare kunze kweizvi
+text application text ndiyo kiyi pakushandisa komputa yedu. Mune ese arithmetic, analytical, medial
+uye mamwe maapplication ayo komputa semuchina wepasirese inokweretesa pachayo, zvinyorwa zvine
+nzvimbo yepakati. PaWebhu Yepasi Pose — uye paInternet zvakazara — zvinyorwa ndizvo zvakanyanya
+nzira yakajairika yekuronga, kutsvaga, nekuwana ruzivo, kunyangwe ruzivo rwacho pacharwo
+haisi chinyorwa asi, semuenzaniso, faira remimhanzi kana mufananidzo. Mukuita kwese kwezuva nezuva ne
+Komputa zvinyorwa zvinopa iyo huru interface, yeiyo inoshanda sisitimu pamwe neiyo
+applications.Mafaira anopihwa mazita uye anonamirwa mumaforodha, ayo anotumidzwa zvakare uchishandisa zvinyorwa. Asi
+zvakare kupfuura rudzi urwu rwezuva nezuva kushandiswa kwevatengi mutauro ndiyo hwaro hwese vanhu-muchina
+kusangana. Mitauro yese yemazuva ano yekuronga inoshandisa chimiro chemutauro wechisikigo. Zvakare
+markup (imwe yedzakanyanya kukosha nzira dzekukodha zvinyorwa pakombuta-uye
+technical hwaro hwekuburitswa paWorld Wide Web) itsika yezvinyorwa zvese.
+Muchitsauko chakapfuura ndakatsanangura kuti nzanga yekumadokero inopfurwa sei ne
+kukosha kwemagariro uye tsika dzemabhuku senzira huru yekufambisa ruzivo. Ndine
+akaitumidza Kurongwa kweBhuku. Kurwisana nemamiriro ezvinhu aya zvinoratidzika chete zvakasikwa, uye mukati
+chokwadi chinenge chisingadzivisiki, kuti komputa yaifanira kuendeswa kune zvinyorwa zvekutaurirana se
+nekukurumidza sezvazvakagoneka, uye kuti kusangana kwese kwevanhu-kombuta kwakava a
+nyaya yezvinyorwa. Chokwadi, shungu iyo izwi processor rakambundirwa mu
+Ma1980 anoita seanosimbisa pfungwa iyoyo. Tichifunga nezve kukosha kwemavara-based application mu
+3
+yakakurumbira kushandiswa kwekombuta nhasi, mubvunzo unotozvipa wega kuti nei komputa yaive
+yakagadzirwa semuchina wekuverengera kwete muchina wemutauro. Sezvazviri, komputa
+inoenderera mberi nekuverengazve ese iwo mameseji data uye mirairo yatinodyisa kune iyo
+mayuniti ane musoro chete ayo ainoziva: imwe uye zero. Sei zvaisaita
+kuverenga nemutauro pachawo? Pfungwa yacho ingaita seisinganzwisisike. Hupenyu hwake hwose
+Wilhelm Leibniz akaramba achitenda mukuvakwa kwemutauro unosanganisira zvine musoro
+zviratidzo zvinogona kushandiswa nekarukureta. Mutauro wakadaro, uye a
+muchina we'kuverenga' waizogonesa chero gakava rehuzivi kuti rigadziriswe nekudzvanya
+yebhatani. 2 Zviroto zvaLeibniz hazvisati zvazadzikiswa, hazvina kunyanya nekuti zvakadaro
+hurongwa hunonzwisisika hwezviratidzo hahugoneki.3 Dambudziko chairo nderekuti madiki madiki mimvuri e
+zvinoreva kuti tinokwanisa—uye tinoda kukwanisa—kutaura nemutauro wevanhu chaiwo zviri nyore
+hazvigoneki kuderedzwa kusvika kuhurongwa hwezviratidzo zvine musoro.
+Zero uye mamwe aive, ipapo. Kuti zvive nyore, zvisinei, zvakanzwika
+zvakakosha kugadzira nzira yekukanda mirairo kune komputa mune inonzwisisika yemunhu
+chimiro. Saka mitsara yehurongwa, menyu, mazita emafaira uye nezvimwe zvakadaro zvese zvine munhu-
+inoverengeka fomu, kunyangwe kana kuseri kwezviitiko komputa ichiri kuverenga neiyo chete
+nhamba dzainoziva: imwe uye zero. Hapana mushandisi zvino anomira kufunga kuti makiyi ese ari
+yakashandurwa kuita nhevedzano yenhamba dzebhinari. Kutaura zvazviri, mumutauro wedu wemaonero ndiwo
+nzira yekutanga yatinobata nayo komputa nhasi. The nhamba kuti kombiyuta
+chaizvoizvo crunches inoratidzika sekutamba kwete zvinopfuura basa repasi; nhamba dzinoita sedzinoita
+tamba kune ruzha rwechinyorwa. Asi kamwechete zvakapesana zvaimbove zvakadaro uye, kufunga kubva
+iyo binary mwoyo yekombuta, kutsvaga kwaive kwenzira yekumiririra mavara.
+Tichifunga nezvekukosha kukuru kwemavara kune avhareji yezuva nezuva kushandiswa kwekombuta ndizvo
+kurova kuti inguvai yekuedza kwazvanga zvichiri kutora komputa isati yanyatso kubata nemavara.
+Nzira iyoyo yakaitika sei uye nei yakatora nguva yakareba kudaro? Ndezvipi zvinhu zvakatadzisa uye
+yakakuchidzira: dhizaini nemukana, zvisingatarisirwi mhedzisiro, kukundikana kwechinangwa chemhedzisiro, nezvimwe. Izvi
+chitsauko chichagadzirisa iyo nzira mune zvakajairika.
+Iwo mameseji auya kuzotora chinzvimbo chepakati pakombuta anoonekwa pekutanga
+kungova chisikigo-chiratidzo chekukosha kwechinyorwa munzanga. Panguva imwe chete vamwe
+vatsinhiri vanotaura kuti chinyorwa chave kutanga kurasikirwa nemukurumbira.4 Ndivo
+zviri pachena kwete kuratidza kuti tave kuda kuita yakananga binary data exchange with
+komputa, kana kuti vanhu vachangobva kuwana kudzidziswa kwakakura uye ruzivo mukati
+zvokufananidzira. Zvavanoreva ndezvekuti kuwedzera kune zvinyorwa, mamwe maitiro, kunyanya
+mifananidzo, iri kuita basa rinowedzera kukosha mukukurukurirana kwedhijitari, semunzanga
+pakuru. Izvi zvinowanzonzi kukwira kwetsika yekuona. 5 Imwe iri nyore
+tsananguro yekuwedzera ikoko kwemamwe modalities inogona kunge iri iyo dhijitari yepakati inozviita
+nyore, somugumisiro convergence akaonekwa muChitsauko 2, kubatanidza modalities akadai
+2 MuCourtier neMunyengeri: Leibniz, Spinoza, uye Kuguma kwaMwari Munyika Yemazuvano (New York
+uye London, 2006, p. 79), Matthew Stewart anopa nhoroondo yezvakanakira Leibniz.
+3 Alfred North Whitehead naBertrand Russell's Principia Mathematica (1910-1913) uchapupu hunoshamisa.
+kuti ndizvo, kunyangwe Douglas Hofstadter akarurama nekududzira kwake zvinorehwa naKurt Gödel.
+chinyorwa chinoputika muna 1931 chekuguma kwenhare yaRussel, iyo yaakaona isingapindiki (ona Douglas
+Hofstadter, Ndiri Strange Loop, New York, 2007, Chitsauko 10).
+4 Steve Johnson, Interface Tsika: Maitiro Itsva Tekinoroji Inoshandura Maitiro Atinogadzira uye
+Kurukurai (New York, 1997, ona mapeji 148-52), ndechimwe chezvisizvo.
+5 Ona, semuenzaniso, Mitchell Stephens, The Rise of the Image, Fall of the Word.
+4
+mifananidzo uye inzwi mune zvinyorwa. Asi pfungwa yekuona tsika haisi iyo itsva, uye zvechokwadi
+inotangira kuuya kwekombuta. Kubva pakutanga kwezana remakore rechimakumi maviri mune dzakawanda
+nzvimbo munyika marudzi ese emitauro inoonekwa akagadzirirwa zviratidzo, kurongedza
+nedzimwe nzira dzekukurukurirana. 6 Pakati pezana ramakore rapfuura De la Fontaine
+Verwey anoona mukubatsira kwake kuCopy and Print muNetherlands kuti mufananidzo wacho,
+'[s]kusimudzirwa kwechinguva nebhuku', 'rakatangazve kodzero dzaro dzekare uye riri kuita
+kuita mabasa ayo kwamazana amakore achiitwa neshoko rakadhindwa.’7
+Kwete chete zviratidzo zvekuti chinyorwa chiri kutanga kurasikirwa nemukurumbira zvichiri nani
+kupera simba, basa rezvinyorwa pamwe rakasimbiswa mune dzimwe nzira, dzakadai
+seyakanyanya mameseji interface yekombuta neInternet, asiwo iyo
+mukurumbira unoshamisa wekutumira mameseji parunhare mbozha. Kutonga nemukurumbira we
+masocial network, mablogiki uye basa rekutaura pane akawanda mawebhusaiti, anogona kunge ari iwo
+nyaya yokuti vanhu vakawanda vanonyora—zvichida vaine rudzi rwechinyorwa mundangariro—kupfuura nakare kose.
+Chiitiko chacho hachifaniri kuonekwa nguva dzose zvakaenzana, zvisinei. Muenzaniso wezvishoma
+zvakananga kushandiswa kwemavara ndiyo nzira iyo mazwi akakosha anopihwa kumifananidzo uye ruzha mukurongeka
+kuti ndikwanise kuvatsvaga. Izvi zvinogona kunge zviri zvenguva pfupi apo kutsvaga
+yemifananidzo uye ruzha kuburikidza nemimwe mifananidzo uye ruzha zvichiri mukutanga kwayo. Kwenguva
+kuva chero ipi zvayo nyika yedhijitari-kusanganisira mitambo nekutaura-inowanikwa ne
+nzira yezvinyorwa.
+Kana hukama pakati pezvinyorwa uye mamwe maitiro ari kunyatsochinja, iyo
+shanduko, zvirinani kusvika zvino, inoita seisina kunyanya kuomarara. Zvakadaro, mune imwe nhoroondo refu
+maonero mamiriro ezvinhu anogona kufungidzirwa apo zvinyorwa zvisingafaniri kunyanya kunyanya
+nzira dzinokosha dzekukurukurirana. Ndichadzokera kufungidziro iyi muChitsauko 6.
+2. Nhoroondo yemakomputa uye komputa
+Pakutanga pakanga paine humbowo hudiki hwebasa rakakosha iro chinyorwa chaifanira kutamba mudhijitari
+nyika. Nhoroondo yekuuya kwemavara kumakombuta inotanga nembiri huru
+budiriro inosvetuka munhoroondo yekombuta pachayo. Zviviri zvakanyanya zvakakosha:
+(a) kuti kubva kumichina ine basa rimwechete kuenda kune multifunction michina, uye (b) izvo
+kubva kumakanika kusvika kune zvemagetsi, michina yedhijitari. Muchikamu chemichina ine chete
+basa rimwe chete, maviri akanyanya kukosha kunhoroondo yekombuta semuchina
+kuitira kugadzirisa zvinyorwa. Yekutanga ndiyo calculator, iyo ichiri kuumba mwoyo wevose
+kombiyuta. Yechipiri ndiyo tapureta, iyo yakaunza, muchimiro chekhibhodi, iyo
+nzira huru yekupinza komputa nhasi. Mukuwedzera, kune zvimwe zvakawanda
+michina yemhando yepamusoro, mimwe yacho yandichataurawo muchidimbu.
+Nhoroondo yekarukureta semutungamiri wekombuta inodzokera kumashure mamwe mana
+6 Paive nekutenda kwakakura mukugona kwemifananidzo (muchimiro chemapikicha nemifananidzo, asiwo
+image-based statistics) mukusimudzira kufambisa mashoko kwakanaka. A kunyanya akakurumbira uye
+asinganeti mutsigiri wekushandiswa kwemifananidzo yeruzivo aive Otto Neurath, muvambi weIsotype.
+(International System yeTypographic Mufananidzo Dzidzo) zviratidzo muma1920s. Apedza kutiza chizvarwa chake
+Austria muma1930s akavamba International Foundation for Visual Education muHague, uye gare gare.
+Iyo Isotype Institute muOxford.
+7 H. de la Fontaine Verwey, ‘The twentieth century’, muna W. Gs Hellinga, Copy and Print in the Netherlands:
+an Atlas of Historical Bibliography, Amsterdam, 1962, mapeji 59-67, pap. 59.
+5
+mazana emakore. Muna 1623 Wilhelm Schickard (1592-1635) kubva kuTübingen akaita 6-bit 'kuverenga.
+wachi', iyo inogona kuwedzera nekubvisa. Akadaidza muchina wake wachi nekuti michina yacho
+chaive chiyeuchidzo chimwe. Chiridzwa chacho chaive chakagadzirwa zvachose. Apo hafu yezana remakore gare gare
+Wilhelm Leibniz akatanga kugadzirisa pfungwa yake yekarukureta yedhijitari, aive akanakisa.
+kunyanya kuda chinzvimbo. Muchina wake waizokwanisa kugadzira zviratidzo zvepasi rose zvine musoro. In
+zvisinei nechishuvo chake chisingadzoreki uye kuzvipira, haana kumbobvira akwanisa kupfuura rudzi rwe
+Mechanical pocket Calculator iyo inogona kuwedzera, kubvisa, kuwanda, uye kupatsanura. Sezvakaita Leibniz
+muzana ramakore rechigumi nemanomwe, nyanzvi yemasvomhu yokuBritain Charles Babbage mugumi nepfumbamwe
+zana raive nechiratidzo chekuti makarukureta anogona kushandiswa kune zvimwe zvinangwa kunze kwekugadzira
+nhamba dzekuverenga. Mumazana emakore ruzivo rwesainzi uye chiridzwa
+kugadzira hunyanzvi hwakanga hwafambira mberi zvekuti Babbage akakwanisa kutora kuitiswa kwe
+pfungwa dzake kupfuura vakamutangira. Kunyangwe Babbage isina kumbobvira yavaka kupfuura zvikamu zve
+yake 'Analytical Engine', 8 pane simba rekugadzirwa kwake anogona kuonekwa semusiki we
+yekutanga Universal Machine. Kufanana nemakarukureta eSchickard neLeibniz, zvaive zvakazara
+mechanical (yaifanira kufambiswa nemhepo) uye yakashandisa decimal panzvimbo yedhijitari
+nhamba, asi yaive programmable, yakaparadzanisa data kubva purogiramu, uye yaikwanisa
+yezvishwe uye conditional branching. Izvi zvaipfuura zvaigona kuitwa nemakomputa akawanda
+kunyange zana gare gare. Babbage aitofunga kuendesa kunze mhedzisiro yekuverenga
+kune makadhi ekubhowa. Iyi pfungwa, yakafuridzirwa neJacquard loom, ingadai yakagonesa iyo
+muchina wekunyora nekuchengeta zvirongwa zvawo.
+Charles Babbage akava nechiratidzo; Ada, Countess weLovelace, mumwe wemasvomhu
+vakamunzwa achitsanangura nezvazvo humwe husiku pakudya kwemanheru, aive mumwe wevanhu vashoma kwazvo avo
+vakanzwisisa zvazvinoreva. Kuziva kuti pamwero wepamusoro weabstraction computing
+akanga asingaverenge asi kushandiswa kwezviratidzo, akaenderera mberi nekugadzira akati wandei
+maalgorithms angangove akaurayiwa neAnalytical Engine aive nazvo
+yakavakwa. Lovelace paakaturikira chinyorwa paAnalytical Engine nemuItaly
+nyanzvi yemasvomhu uye mainjiniya wemauto Luigi Menabrea akawedzera kuziva
+manotsi ake pachake, anoenzana nekaviri urefu hwechinyorwa chekutanga. Mune zvinyorwa izvi iye
+zvakafanotaura kuti muchina wakaita seAnalytical Engine unogona kushandiswa kugadzira
+mimhanzi, gadzira mifananidzo, uye ita akasiyana emabasa esainzi:
+[Ini] ndingaite pane zvimwe zvinhu kunze kwenhamba, zvinhu zvakawanikwa zvakabatana
+hukama hwakakosha hunogona kuratidzwa neiyo yeabstract sainzi yekushanda,
+uye izvo zvinofanirwa kuve zvakare nyore kuchinjika kune chiito chekushanda
+notation uye mashandiro einjini. Kufungidzira, semuenzaniso, kuti iyo yakakosha
+hukama hwezvinonzwika musainzi yekuwirirana uye yekuumbwa kwemimhanzi yaive
+inotapukirwa nekutaura kwakadaro uye kuchinjika, injini inogona kunyora zvakadzama
+uye zvidimbu zvesainzi zvemimhanzi yechero dhigirii yekuoma kana kureba.9
+8 Pakutanga Babbage akagadzira 'muchina' uri nyore, waakatumidza kuti 'Difference Engine' nekuti
+yakakwanisa kugadzira matafura enguva (kana misiyano) pakati pemaseti enhamba dzinobuda
+kubva munhevedzano dzakarongwa dzezvinofambira mberi zvewedzero. Muchina wacho waigona kugadzira kudhindwa kwematafura.
+9 ‘Sketch of The Analytical Engine Invented by Charles Babbage, Esq.’, naL. F. Menabrea, ine manotsi naAda
+Lovelace, yakadhindwa zvakare muna Charles Babbage, Sainzi uye Reform: Akasarudzwa Mabasa aCharles Babbage, ed.
+Anthony Hyman, CUP, 1989, mapeji 243-311, pap. 270. Simbiso mune yekutanga.
+6
+Humbowo hwekuti chiono chaBabbage naLovelace chaigona kuitika, chakangoburitswa
+naAlan Turing pakati pezana ramakore rechimakumi maviri. Maererano naTuring yake abstract
+'Turing muchina' waikwanisa kuita mabasa ese anogona kuverengerwa mu
+fomu ye algorithmic maitiro. Makombiyuta emazuva ano edhijitari, emagetsi anorongwa
+iyo yakasangana nezvinodiwa naTuring yakatanga kuvandudzwa muma1940s.
+Iyo bhinari musimboti yakashandiswa kwete chete kuverengera ivo pachavo, asiwo kune
+nzira iyo data yakavharwa nayo. Sezvinongoita nhamba dzinogona kumiririrwa zvese mu a
+binary system uye mune imwe decimal, zvakafanana ndezvechokwadi mumusimboti zvakare kune zvinyorwa, mufananidzo uye
+inzwi. Panyaya yenhamba uye mameseji nhamba yemavara akasiyana ishoma,
+uye chimiro chega chega chinogona kumiririrwa nenhamba shoma yemabits. Pamanyoro echiLatin, a
+single byte (mabhiti masere) anogona encode 256 akasiyana mavara. Maitiro akadai semufananidzo uye inzwi
+dzakanyanya kuomarara encode. Pano chiratidzo chinofanira kukamurwa kuita chero zvipi zvazvo
+nhamba yezvinoumba zvikamu. Kupatsanura mufananidzo (kana ruzha) kuita zvidimbu zvidimbu
+zvinoreva kuti shanduko haizombofa yakaenderera, asi inogara ichiwedzera. Nhamba ye
+zvikamu payuniti yechiratidzo (semuenzaniso, pixels pa inch) inosarudza huchokwadi hweiyo
+binary kumiririra: zvakanyanya zviri nani. Asi zvisinei yakakwira huwandu hwepixels pa
+inch, huchokwadi hweshanduro yedhijitari haigone kuenzana neanalogi
+rendition. Pasinei nekukanganisa kwayo kwese kukosha kwebhinari inomiririra ndeyekuti zvese
+data mune ese modalities uye ese maverengero anogona kuiswa kwavari, anogona kuvharirwa
+nenzira imwechete yebhinari. Izvi zvinoita kuti 'binariness' ive 'chinhu' 10 umo iyo yakawanda-
+kuwirirana kwemaitiro (apo mamwe muChitsauko 5) anogona kuitika.
+Tapureta ndiyo yechipiri-inoshanda muchina kunze kwekarukureta ine
+yave yakakosha mukugadzira mavara encoding pakombuta. Zvimwe zvacho
+matapureta ekutanga akagadzirirwa mapofu, 11 ayo anonyatsoratidza kudzika kwakaita
+kupatsanura kunogona kuva pakati pechinangwa chemugadziri uye mashandisiro chaiwo emagariro echigadzirwa. Of
+chakanyanya kufarira nyaya iripo inyaya yekibhodhi. Nezvese zvine hungwaru kutaipa
+masisitimu akambogadzirwa 12 yaive iyo naChristopher Sholes, musiki wekutanga
+tapureta kutorwa mukugadzirwa kwezvokutengeserana, izvo zvakava chiyero. Iyi yaive iyo
+keyboard ine inozivikanwa qwerty marongero. 13 Nhaka inonyanya kukosha yeSholes
+keyboard ndeyekuti mavara anowanikwa pakhibhodi yake achiri chivakwa cheatomu
+mabhuroko ezvinyorwa pakombiyuta. Iyo yakajairika komputa kiibhodhi haina accented
+mavara, haasiyanise pakati pe hyphen ne em-dash, kana pakati pe
+decimal point uye iyo yakazara kumira, uye inoshaya marudzi ese eakakosha mavara: kubva kutypographical
+kuburikidza nemasvomhu kune zviratidzo zvemari. Panzvimbo pacho chaive chitarisiko chete ichocho
+yakasarudza kana chimiro chakasiyana chakasikwa.14 Kiibhodhi yekombuta inovhara
+mabhii ega ega uye anoapinza mukombuta. Sezvakangoita patapureta, izvi
+zvinoitwa nekugovera mutsara mumwechete pakiyi, kunyangwe iyo nhamba inogona kuwedzerwa ne
+uchishandisa kiyi yekuchinja (uye pakombuta mukuwedzera makiyi akasiyana ebasa).
+10 Izwi iri ndiMichael Heim, kubva muMutauro weMagetsi, p. 102.
+11 Michael H. Adler, The Writing Machine, London, 1973, p. 48.
+12 Adler, Muchina Wekunyora, p. 25-90.
+13 Iyo qwerty marongero ichiri kushandiswa munyika dzakawanda, semuenzaniso, munyika yose inotaura Chirungu. In
+dzimwe nyika marongerwo anosiyana. France inoshandisa iyo azerty keyboard, nepo Germany uye imwe yekuMabvazuva
+Nyika dzeEurope dzinoshandisa qwertz keyboard.
+14 Saka pane mamwe makiyibhodhi hapana akapatsanurwa nhamba 1 yaisanganisirwa, vara iri richitorwa serakafanana zvakaringana.
+muchimiro.
+7
+Pakati peakawanda ekugadzira uye mashoma ekugadzira mamwe mavara ekupinda masisitimu akaita
+kwete kuita kuti inyatso kutaurwa pfungwa yaDouglas Engelbart, anozivikanwawo se
+muvambi wembeva yekombuta,15 kuisa mavara makumi matatu nerimwe eiyo standard 5-bit kodhi ye
+iyo 'teletype' (yekutanga telex) nekudzvanya panguva imwe chete yemakiyi mashanu (25 =
+32). 16 Engelbart akashanda pane iyi 'five-key handset' muma1960, sechikamu chekuda kwake chinzvimbo.
+Framework yeAugmentation yeMan's Intellect framework, iyo ichagamuchira zvimwe
+ngwariro gare gare muchitsauko chino. Kunyange iyo pfungwa yanga isiri nyowani (munguva yegumi nepfumbamwe
+zana remakore akati wandei matapureta ane piano-mhando kiyibhodhi akange atogadzirwa) uye
+zvirokwazvo yaive nemabhenefiti, yakanga isiri kupesana nekutonga iyo qwerty keyboard yaive nayo
+zvabva zvatotengwa. Yakanga ichishandiswa munzvimbo huru dzenyika, uye zvizvarwa zvevataipa
+akanga adzidza kutaipa bofu achishandisa qwerty marongerwo.
+Iyo tapureta haina kutora maitiro ekugadzira - kugadzirisa - kugadzira -
+kudhindwa - kugovera - kushandiswa kupfuura danho rekusika. Kwaitarisira
+'data yekupinda' uye 'kuchengeta' (anachronistic mazwi emabasa akanyatso kugadzirwa
+nekombuta) yezvinyorwa, asi zvaigona kuita zvishoma pakudhirowa kwayo, kuburitswa uye
+kugovera.17 Sechisviniro izvi hazvisiyanise tapureta zvakanyanya kubva
+manyoro—kunze kwemwero wokugona kuverengwa. Munyaya iyoyo
+tapureta inongosvika zvishoma pamhando yekudhinda. Izvo hazvina, zvakadaro, kuchengeta yayo
+vagadziri kubva mukusimbisa pfuma iyi, kunyangwe kana iri michina yekutanga.18 The
+girazi rinokudza iro randakaisa pamusoro pechisikwa uye chikamu chekunyora chinoratidza kuti
+tapureta ibasa rakashata kana zvasvika pakugadzirisa zvinyorwa.
+Pakati peakanyanya hunyanzvi matekiniki akakodzera munhoroondo ye
+Komputa zvechokwadi ndeye telegraphy, uye kunyanya iyo Baudot system yekuisa mavara
+kufambidzana kubva 1874. Ndiyo chiyero che5-bit code yatotaurwa muhurukuro ye
+iyo keyboard. Zvisinei nenhamba shoma yemavara (inodarika makumi matatu nemaviri) inogona kuva
+yakavharidzirwa neiyi shanu-bit system, uyu hunhu encoding naEmile Baudot (1845-1903)
+ichiri kushandiswa munzvimbo yemagetsi yedhijitari kusvika yatsiviwa ne ASCII in
+pakati pema1960. 19 Sezvo gadziriro yemorse ine madotsi nemadhishi zvakare iri bhinari,
+Baudot's encoding system yakazvikweretesa zvakanyanya kuendesa kune komputa.
+Imwe nyanzvi yekugadzira zvinyorwa inofanirwa kutariswa yaive
+typesetting muchina unoshandiswa mukugadzira kudhinda. 20 Muchina wekuseta wakashandisa
+typewriter keyboard kune mukana wayo (kunyangwe iyo keyboard yemuchina wekunyora yaive
+akashongedzerwa nemakiyi akawanda; iyo Monotype yaive nemaseti mana akazara eqwerty
+makiyi, rimwe nerimwe rechiRoman, zvakanyorwa, zvakashinga, uye zvidiki). Zvinenge zvina kuvandudzwa kukuru
+15 Ona Thierry Bardini, Bootstrapping: Douglas Engelbart, Coevolution, uye Mavambo eMunhu.
+Computing, Stanford, 2000, pp. 81-102.
+16 Ona Bardini, Bootstrapping, mapeji 58-80.
+17 Kunze kwechokwadi nerubatsiro rushoma rwekopi kabhoni. The stencil muchina uye duplicator
+inogona kuregererwa. Nepo nzira idzi dzinoshandisa tapureta kunyora zvinyorwa, kuwanda ndiko
+danho rakaparadzana, iro rinoda muchina wekudzokorora.
+18 ‘Injiniya wekuBritain, Henry Mill, akapiwa British patent no. 395 muna 1714 yemudziyo unokwanisa
+mabhii anoyevedza pabepa kana dehwe rimwe pashure peimwe “sezvakaita mukunyora”, chigadzirwa chacho chiri chakatsvinda uye
+chaiyo sokusasiyaniswa nekudhinda’ ( Adler, The Writing Machine, p. 47).
+19 Bardini, Bootstrapping, mapeji 65-79. Zvimwe zvichataurwa nezve ASCII (American Standard for Information
+Kuchinjana) gare gare muchitsauko chino.
+20 Zvimwewo, mamwe masisitimu emumucheto anogona kutaurwa aive semuenzaniso anoshandiswa chizvarwa che
+mazita uye zvinyorwa zvidiki zvemufirimu neterevhizheni, izvo zvanga zvichiwedzera kuoma nekufamba kwenguva.
+8
+izvo zvakashandiswa kare kana zvisiri kekutanga muindasitiri yekuseta, zvave zve
+kukosha kukuru kwekuvandudzwa kweshoko redhijitari. Uku kwaive kushandiswa kwea
+svikiro rekuchengetera, muchimiro cheiyo punched tepi yemuchina weMonotype typesetting
+kubva muna 1887; kushandiswa kweiyo tele tapureta yekuseta kure kure kuburikidza ne6-bit
+kodhi yeTeleTypeSetter (TTS) mukupera kwema1920s; kushandiswa kwekombuta mu
+chizvarwa chechitatu chephototypesetting michina kubva mukupera kwema1960, uye budiriro
+yepfungwa yekumaka muna 1960s uye 1970s, nezvakawanda gare gare.
