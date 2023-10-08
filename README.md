@@ -1,7 +1,7 @@
 ## THE TRANSLATOR
 ![hacktober email banner](https://i.ibb.co/0qG1XtZ/Email-Banners-Dark.png)
 
-Welcome to [Hacktoberfest 2022](https://hacktoberfest.com). If you're here then it means you know the reason why. Working here are some small steps we need to follow, anyone not sticking to this  is `"Kick out"`!
+Welcome to [Hacktoberfest 2023](https://hacktoberfest.com). If you're here then it means you know the reason why. Working here are some small steps we need to follow, anyone not sticking to this  is `"Kick out"`!
 
 > NOTE💡:
  Assuming to have a basic knowledge of VCS(Version Control System), welcome once more and happy hacking!!!
