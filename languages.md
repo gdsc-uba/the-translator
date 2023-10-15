@@ -38,3 +38,4 @@
 - [UKRAINIEN](./Translations/ukrainien.txt)
 - [BALINESE](./Translations/balinese.txt)
 - [FILIPINO](./Translations/filipino.txt)
+- [SAMOAN](./translations/Samoa.txt)
