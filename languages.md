@@ -38,5 +38,7 @@
 - [UKRAINIEN](./Translations/ukrainien.txt)
 - [BALINESE](./Translations/balinese.txt)
 - [FILIPINO](./Translations/filipino.txt)
+- [SAMOAN](./translations/Samoa.txt)
 - [POLISH](./Translations/polski.txt)
 - [KOREAN](./Translations/hangugeo.txt)
+
