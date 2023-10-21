@@ -39,4 +39,4 @@
 - [BALINESE](./Translations/balinese.txt)
 - [FILIPINO](./Translations/filipino.txt)
 - [POLISH](./Translations/polski.txt)
-  
+- [KOREAN](./Translations/hangugeo.txt)
