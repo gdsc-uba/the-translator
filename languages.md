@@ -41,4 +41,4 @@
 - [SAMOAN](./translations/Samoa.txt)
 - [POLISH](./Translations/polski.txt)
 - [KOREAN](./Translations/hangugeo.txt)
-
+- [FRENCH](./Translations/francais.txt)
