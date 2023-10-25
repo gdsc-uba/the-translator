@@ -42,3 +42,5 @@
 - [POLISH](./Translations/polski.txt)
 - [KOREAN](./Translations/hangugeo.txt)
 - [ITALIAN](./Translations/italian.txt)
+- [MAORI](./Translations/maori.txt)
+- [FILIPINO](./Translations/filipino.txt)
