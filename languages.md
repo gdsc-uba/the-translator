@@ -44,3 +44,4 @@
 - [ITALIAN](./Translations/italian.txt)
 - [MAORI](./Translations/maori.txt)
 - [FILIPINO](./Translations/filipino.txt)
+- [HINDI](./translations/hindi.txt)
